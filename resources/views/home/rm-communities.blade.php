@@ -1,0 +1,4788 @@
+<!DOCTYPE html>
+<html class="Page" lang="en-US"
+>
+
+<!-- Mirrored from www.realtymogul.com/rm-communities by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 05 Aug 2024 23:05:08 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
+<head>
+    <meta charset="UTF-8">
+
+    <meta property="og:title" content="RM Communities">
+
+    <meta property="og:url" content="rm-communities.html">
+
+
+    <meta property="og:description" content="An owner &amp; operator of multifamily real estate">
+
+    <meta property="og:site_name" content="RealtyMogul">
+
+
+
+    <meta property="og:type" content="website">
+
+    
+    <meta name="twitter:card" content="summary_large_image"/>
+    
+    
+    
+    
+    <meta name="twitter:description" content="An owner &amp; operator of multifamily real estate"/>
+    
+    
+
+    
+    
+    <meta name="twitter:site" content="@realty_mogul"/>
+    
+    
+    
+    <meta name="twitter:title" content="RM Communities"/>
+    
+
+
+    <!-- <link rel="stylesheet" href="https://use.typekit.net/eyz1fvg.css" defer> -->
+    <style type="text/css">:root {
+--gutter-vertical: 60px;
+--gutter-vertical-md: 80px;
+--gutter-vertical-lg: 60px;
+--gutter-vertical-xl: 120px;
+
+--gutter-horizontal: 30px;
+--gutter-horizontal-md: 60px;
+--gutter-horizontal-lg: 80px;
+--gutter-horizontal-xl: 150px;
+
+--gutter-custom-grid: 200px;
+--container-max-width: 1800px;
+}
+</style>
+    <style type="text/css">:root {
+    
+
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+
+    
+    
+
+    
+    
+
+    
+    
+
+    
+    
+
+    
+    
+    
+
+    
+    
+}
+</style>
+    <style type="text/css">:root {
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+}
+</style>
+    <style type="text/css">:root {
+            --button-border-radius:40px;
+        }
+</style>
+    <style type="text/css">:root {
+  --font-1: "GothamSSm-Light";
+  --font-2: "superior-title";
+}
+
+body {
+  --font-1: "GothamSSm-Light";
+  --font-2: "superior-title";
+}
+</style>
+
+    
+        <link data-cssvarsponyfill="true" class="Webpack-css" rel="stylesheet" href="../realtymogul.brightspotgocdn.com/resource/00000191-2449-dcb8-a7f5-3e4b6ab70000/styles/default/All.min.1bcc391483370c98cc8b3d7e43b39ba0.gz.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=5"><title>RealtyMogul.com™ | RM Communities</title><meta name="description" content="RM Communities is a sister company to RealtyMogul, one of the leading real estate technology platforms. RM Communities is an owner-operator focused on the acquisition and repositioning of institutional-quality value-add and core-plus multifamily properties"><link rel="canonical" href="rm-communities.html"><meta name="brightspot.contentId" content="00000187-109b-d80a-a7ff-99dfde340001"><link rel="apple-touch-icon"sizes="180x180"href="apple-touch-icon.png"><link rel="icon"type="image/png"href="favicon-32x32.png"><link rel="icon"type="image/png"href="favicon-16x16.png"><link type="application/rss+xml" rel="alternate" title="RealtyMogul.com™ | RM Communities" href="rm-communities.rss">
+
+    <!-- this will add webcomponent polyfills based on browsers. As of 04/29/21 still needed for IE11 and Safari -->
+    <script src="../realtymogul.brightspotgocdn.com/resource/00000191-2449-dcb8-a7f5-3e4b6ab70000/webcomponents-loader/webcomponents-loader.2938a610ca02c611209b1a5ba2884385.gz.js"></script>
+
+    <script>
+        /**
+            This allows us to load the IE polyfills via feature detection so that they do not load
+            needlessly in the browsers that do not need them. It also ensures they are loaded
+            non async so that they load before the rest of our JS.
+        */
+        var head = document.getElementsByTagName('head')[0];
+        if (!window.CSS || !window.CSS.supports || !window.CSS.supports('--fake-var', 0)) {
+            var script = document.createElement('script');
+            script.setAttribute('src', "../realtymogul.brightspotgocdn.com/resource/00000191-2449-dcb8-a7f5-3e4b6ab70000/util/IEPolyfills.61ffd50b8a0fa44f8f77414498fca544.gz.js");
+            script.setAttribute('type', 'text/javascript');
+            script.async = false;
+            head.appendChild(script);
+        }
+    </script>
+
+    
+        
+            <script src="../realtymogul.brightspotgocdn.com/resource/00000191-2449-dcb8-a7f5-3e4b6ab70000/styles/default/All.min.06c2f9381eb19a40ae6c42618347e5b9.gz.js" async></script>
+            <script type="text/javascript" defer src="../static.zdassets.com/ekr/snippeta6cd.js?key=f0fb7231-d555-4b6c-b382-06ff3c2efb4e" id="ze-snippet"></script>
+            
+    <script>
+    window.addEventListener('DOMContentLoaded', (event) => {
+        let webtokenUrl = 'https://api.realtymogul.com/webtokens';
+
+        fetch(webtokenUrl).then(function (response) {
+            return response.json();
+        }).then(function (tokenData) {
+            const object = {}
+            tokenData.forEach((ele) => {
+                object[ele.id] = ele.tokenValue
+            })
+            window.TOKENS = object
+            if (document.getElementById('dataVars')) {
+                var additionalPageJson = JSON.parse(document.getElementById('dataVars').innerHTML);
+                Object.assign(window.TOKENS, additionalPageJson)
+            }
+            replaceAllValues()
+        }).catch(function (err) {
+            console.warn('Something went wrong.', err)
+        });
+
+        function replaceAllValues () {
+            let nodes = [...document.body.querySelectorAll('*:not(title,noscript,svg,symbol,path,g,polyline,polygon,line,style,rect,circle,defs,bsp-toggler)')];
+            nodes.forEach((node) => {
+                if (node.innerText?.includes('${')) {
+                    node.innerHTML =
+                        node.innerHTML
+                            .replaceAll("${mogulReit1DistributionAmount}", nFormatter(parseFloat(window.TOKENS.mogulReit1DistributionAmount)))
+                            .replaceAll("${mogulReit1LastTwelveMonthsReturn}", window.TOKENS.mogulReit1LastTwelveMonthsReturn)
+                            .replaceAll("${mogulReit1EffectiveDistributionDate}", dateFormatter(parseFloat(window.TOKENS.mogulReit1EffectiveDistributionDate) * 1000))
+                            .replaceAll("${mogulReit1DistributionDuration}", window.TOKENS.mogulReit1DistributionDuration)
+                            .replaceAll("${mogulReit1LastDistributionDeclared}", parseFloat((window.TOKENS.mogulReit1LastDistributionDeclared) * 100).toFixed(2))
+                            .replaceAll("${mogulReit1LastDistributionDeclaredAlt}", parseFloat((window.TOKENS.mogulReit1LastDistributionDeclared) * 100).toFixed(1))
+                            .replaceAll("${mogulReit1LastTwelveMonthsReturnDate}", window.TOKENS.mogulReit1LastTwelveMonthsReturnDate)
+                            .replaceAll("${mogulReit2DistributionAmount}", nFormatter(parseFloat(window.TOKENS.mogulReit2DistributionAmount)))
+                            .replaceAll("${mogulReit2LastTwelveMonthsReturn}", window.TOKENS.mogulReit2LastTwelveMonthsReturn)
+                            .replaceAll("${mogulReit2EffectiveDistributionDate}", dateFormatter(parseFloat(window.TOKENS.mogulReit2EffectiveDistributionDate) * 1000))
+                            .replaceAll("${mogulReit2DistributionDuration}", window.TOKENS.mogulReit2DistributionDuration)
+                            .replaceAll("${mogulReit2LastDistributionDeclared}", parseFloat(window.TOKENS.mogulReit2LastDistributionDeclared) * 100)
+                            .replaceAll("${mogulReit2LastDistributionDeclaredAlt}", parseFloat((window.TOKENS.mogulReit2LastDistributionDeclared) * 100).toFixed(1))
+                            .replaceAll("${mogulReit2LastTwelveMonthsReturnDate}", window.TOKENS.mogulReit2LastTwelveMonthsReturnDate)
+                            .replaceAll("${navPrice}", nFormatter(parseFloat(Number(window.TOKENS.navPrice)).toFixed(2)))
+                            .replaceAll("${navPriceDate}", altDateFormatter(window.TOKENS.mogulReit1navPriceDate, true))
+                            .replaceAll("${purchasePrice}", nFormatter(parseFloat(Number(window.TOKENS.purchasePrice)).toFixed(2)))
+                            .replaceAll("${purchasePriceDate}", dateFormatter(window.TOKENS.purchasePriceDate))
+                            .replaceAll("${purchasePriceDateAlt}", altDateFormatter(window.TOKENS.mogulReit1purchasePriceDateAlt, true))
+                            .replaceAll("${reitTotalAssetValue}", nFormatter(parseFloat(Number(window.TOKENS.reitTotalAssetValue))))
+                            .replaceAll("${reitTotalAssetValueAlt}", standardPriceFormatter(parseFloat(Number(window.TOKENS.reitTotalAssetValue))))
+                            .replaceAll("${repeatMinimumInvestment}", standardPriceFormatter(parseFloat(Number(window.TOKENS.repeatMinimumInvestment))))
+                            .replaceAll("${numInvestors}", window.TOKENS.numInvestors)
+                            .replaceAll("${apartmentUnitCount}", numFormatterWithPlus(parseFloat(Number(window.TOKENS.apartmentUnitCount))))
+                            .replaceAll("${propertyType}", window.TOKENS.propertyType)
+                            .replaceAll("${sinceInceptionDisclaimer}", window.TOKENS.sinceInceptionDisclaimer)
+                            .replaceAll("${distributionFrequency}", window.TOKENS.distributionFrequency)
+                            .replaceAll("${investmentsMade}", numFormatterWithPlus(parseFloat(Number(window.TOKENS.investmentsMade))))
+                            .replaceAll("${totalMembers}", nFormatterWithoutDollar(parseFloat(Number(window.TOKENS.totalMembers))))
+                            .replaceAll("${totalMembersVerbose}", numFormatterWithPlus(parseFloat(Number(window.TOKENS.totalMembers))))
+                            .replaceAll("${totalAmountFinanced}", nFormatterWithoutDollar(parseFloat(Number(window.TOKENS.totalAmountFinanced))))
+                            .replaceAll("${totalAmountFinancedTruncated}", nFormatterVerbose(parseFloat(Number(window.TOKENS.totalAmountFinanced))))
+                            .replaceAll("${totalPropertyValueFinanced}", nFormatterWithoutDollar(parseFloat(Number(window.TOKENS.totalPropertyValueFinanced))))
+                            .replaceAll("${totalPropertyValueFinancedVerbose}", nFormatterVerbose(parseFloat(Number(window.TOKENS.totalPropertyValueFinanced))))
+                            .replaceAll("${mogulReit1AverageAnnualReturnYear}", window.TOKENS.mogulReit1AverageAnnualReturnYear)
+                            .replaceAll("${mogulReit1DistributionTooltip}", window.TOKENS.mogulReit1DistributionTooltip)
+                            .replaceAll("${mogulReit2AverageAnnualReturnYear}", window.TOKENS.mogulReit2AverageAnnualReturnYear)
+                            .replaceAll("${totalPropertyValueDate}", window.TOKENS.totalPropertyValueDate)
+                            .replaceAll("${dripPercentageMR1}", window.TOKENS.dripPercentageMR1)
+                            .replaceAll("${dripPercentageMR2}", window.TOKENS.dripPercentageMR2)
+                            .replaceAll("${total1031InvestmentAmount}", nFormatter(parseFloat(window.TOKENS.total1031InvestmentAmount)))
+                            .replaceAll("${mogulReit2AverageAnnualReturn}", parseFloat(window.TOKENS.mogulReit2AverageAnnualReturn) * 100)
+                            .replaceAll("${amountPaidOut}", nFormatter(parseFloat(Number(window.TOKENS.amountPaidOut))))
+                            .replaceAll("${totalPropertiesFinanced}", parseFloat(window.TOKENS.totalPropertiesFinanced))
+                            .replaceAll("${totalValueOfFinancedProperties}", Number(window.TOKENS.totalValueOfFinancedProperties))
+                            .replaceAll("${mogulReit1AverageAnnualReturn}", parseFloat(Number(window.TOKENS.mogulReit1AverageAnnualReturn)) * 100)
+                            .replaceAll("${mogulReit2DistributionTooltip}", window.TOKENS.mogulReit2DistributionTooltip)
+                            .replaceAll("${mogulReit1ThreeYearReturn}", window.TOKENS.mogulReit1ThreeYearReturn)
+                            .replaceAll("${mogulReit1FiveYearReturn}", window.TOKENS.mogulReit1FiveYearReturn)
+                            .replaceAll("${mogulReit1LifetimeReturn}", window.TOKENS.mogulReit1LifetimeReturn)
+                            .replaceAll("${mogulReit2ThreeYearReturn}", window.TOKENS.mogulReit2ThreeYearReturn)
+                            .replaceAll("${mogulReit2FiveYearReturn}", window.TOKENS.mogulReit2FiveYearReturn)
+                            .replaceAll("${mogulReit2LifetimeReturn}", window.TOKENS.mogulReit2LifetimeReturn)
+                            .replaceAll("${totalPropertyValueFinancedAlt}", nFormatterNoSybmols(parseFloat(Number(window.TOKENS.totalPropertyValueFinanced))))
+                            .replaceAll("${corePlusAvgRealizedIrr}", window.TOKENS.corePlusAvgRealizedIrr)
+                            .replaceAll("${corePlusAvgTargetIrr}", window.TOKENS.corePlusAvgTargetIrr)
+                            .replaceAll("${corePlusInvestmentAmt}", Number(window.TOKENS.corePlusInvestmentAmt).toLocaleString('en'))
+                            .replaceAll("${corePlusRealizedInvestments}", window.TOKENS.corePlusRealizedInvestments)
+                            .replaceAll("${developmentAvgRealizedIrr}", window.TOKENS.developmentAvgRealizedIrr)
+                            .replaceAll("${developmentAvgTargetIrr}", window.TOKENS.developmentAvgTargetIrr)
+                            .replaceAll("${developmentInvestmentAmt}", Number(window.TOKENS.developmentInvestmentAmt).toLocaleString('en'))
+                            .replaceAll("${developmentRealizedInvestments}", window.TOKENS.developmentRealizedInvestments)
+                            .replaceAll("${equityFundsAvgRealizedIrr}", window.TOKENS.equityFundsAvgRealizedIrr)
+                            .replaceAll("${equityFundsAvgTargetIrr}", window.TOKENS.equityFundsAvgTargetIrr)
+                            .replaceAll("${equityFundsInvestmentAmt}", Number(window.TOKENS.equityFundsInvestmentAmt).toLocaleString('en'))
+                            .replaceAll("${equityFundsRealizedInvestments}", window.TOKENS.equityFundsRealizedInvestments)
+                            .replaceAll("${equitySyndicationsAvgRealizedIrr}", window.TOKENS.equitySyndicationsAvgRealizedIrr)
+                            .replaceAll("${equitySyndicationsAvgTargetIrr}", window.TOKENS.equitySyndicationsAvgTargetIrr)
+                            .replaceAll("${equitySyndicationsInvestmentAmt}", Number(window.TOKENS.equitySyndicationsInvestmentAmt).toLocaleString('en'))
+                            .replaceAll("${equitySyndicationsRealizedInvestments}", window.TOKENS.equitySyndicationsRealizedInvestments)
+                            .replaceAll("${fixedIncomeAvgRealizedIrr}", window.TOKENS.fixedIncomeAvgRealizedIrr)
+                            .replaceAll("${fixedIncomeAvgTargetIrr}", window.TOKENS.fixedIncomeAvgTargetIrr)
+                            .replaceAll("${fixedIncomeInvestmentAmt}", Number(window.TOKENS.fixedIncomeInvestmentAmt).toLocaleString('en'))
+                            .replaceAll("${fixedIncomeRealizedInvestments}", window.TOKENS.fixedIncomeRealizedInvestments)
+                            .replaceAll("${overallRealizedIrr}", window.TOKENS.overallRealizedIrr)
+                            .replaceAll("${overallTargetIrr}", window.TOKENS.overallTargetIrr)
+                            .replaceAll("${residentialDebtAvgRealizedIrr}", window.TOKENS.residentialDebtAvgRealizedIrr)
+                            .replaceAll("${residentialDebtAvgTargetIrr}", window.TOKENS.residentialDebtAvgTargetIrr)
+                            .replaceAll("${residentialDebtRealizedInvestments}", window.TOKENS.residentialDebtRealizedInvestments)
+                            .replaceAll("${residentialDebtInvestmentAmt}", Number(window.TOKENS.residentialDebtInvestmentAmt).toLocaleString('en'))
+                            .replaceAll("${totalRealizedInvestmentAmt}", Number(window.TOKENS.totalRealizedInvestmentAmt).toLocaleString('en'))
+                            .replaceAll("${totalRealizedInvestments}", window.TOKENS.totalRealizedInvestments)
+                            .replaceAll("${valueAddAvgRealizedIrr}", window.TOKENS.valueAddAvgRealizedIrr)
+                            .replaceAll("${valueAddAvgTargetIrr}", window.TOKENS.valueAddAvgTargetIrr)
+                            .replaceAll("${valueAddInvestmentAmt}", Number(window.TOKENS.valueAddInvestmentAmt).toLocaleString('en'))
+                            .replaceAll("${valueAddRealizedInvestments}", window.TOKENS.valueAddRealizedInvestments)
+                            .replaceAll("${mogulReit1TotalAssetValue}", Number(window.TOKENS.mogulReit1TotalAssetValue).toLocaleString('en'))
+                            .replaceAll("${mogulReit1UniqueInvestors}", Number(window.TOKENS.mogulReit1UniqueInvestors).toLocaleString('en'))
+                            .replaceAll("${mogulReit1HypotheticalInvestment}", Number(window.TOKENS.mogulReit1HypotheticalInvestment).toLocaleString('en'))
+                            .replaceAll("${mogulReit1ReturnAsOfDate}", window.TOKENS.mogulReit1ReturnAsOfDate)
+                            .replaceAll("${brokerDealerLaunchDate}", window.TOKENS.brokerDealerLaunchDate)
+                }
+            })
+            document.body.dispatchEvent(new window.CustomEvent('TokenScript:Complete'));
+        } // end replaceAllValues
+
+
+        function nFormatter (num) {
+            if (num >= 1000000000) {
+                return "$" + (num / 1000000000).toFixed(1).replace(/\.0$/, '') + 'BN';
+            }
+            if (num >= 1000000) {
+                return "$" + (num / 1000000).toFixed(1).replace(/\.0$/, '') + 'MM';
+            }
+            if (num >= 1000) {
+                return "$" + (num / 1000).toFixed(1).replace(/\.0$/, '') + 'K';
+            }
+            return "$" + num;
+        }
+
+        function nFormatterVerbose (num) {
+            if (num >= 1000000000) {
+                return "$" + (num / 1000000000).toFixed(1).replace(/\.0$/, '') + ' billion';
+            }
+            if (num >= 1000000) {
+                return "$" + (num / 1000000).toFixed(1).replace(/\.0$/, '') + ' million';
+            }
+            if (num >= 1000) {
+                return "$" + (num / 1000).toFixed(1).replace(/\.0$/, '') + ' thousand';
+            }
+            return "$" + num;
+        }
+
+        function nFormatterNoSybmols (num) {
+            if (num >= 1000000000) {
+                return (num / 1000000000).toFixed(1).replace(/\.0$/, '');
+            }
+            if (num >= 1000000) {
+                return (num / 1000000).toFixed(1).replace(/\.0$/, '');
+            }
+            if (num >= 1000) {
+                return (num / 1000).toFixed(1).replace(/\.0$/, '');
+            }
+            return (num / 1000).toFixed(1).replace(/\.0$/, '');
+        }
+
+        function nFormatterWithSupDollar (num) {
+            if (num >= 1000000000) {
+                return "$" + (num / 1000000000).toFixed(1).replace(/\.0$/, '') + 'BN';
+            }
+            if (num >= 1000000) {
+                return "$" + (num / 1000000).toFixed(1).replace(/\.0$/, '') + 'MM';
+            }
+            if (num >= 1000) {
+                return "$" + (num / 1000).toFixed(1).replace(/\.0$/, '') + 'K';
+            }
+            // window.alert('Error: ' + num);
+            return "<sup>$</sup>" + num;
+        }
+
+        function nFormatterWithoutDollar (num) {
+            if (num >= 1000000000) {
+                return "" + (num / 1000000000).toFixed(1).replace(/\.0$/, '') + 'BN';
+            }
+            if (num >= 1000000) {
+                return "" + (num / 1000000).toFixed(1).replace(/\.0$/, '') + 'MM+';
+            }
+            if (num >= 1000) {
+                return "" + (num / 1000).toFixed(1).replace(/\.0$/, '') + 'K+';
+            }
+            return "" + num;
+        }
+
+        function standardPriceFormatter (num) {
+            const options = { style: 'currency', currency: 'USD' }
+            const numberFormat = new Intl.NumberFormat('en-US', options)
+            return numberFormat.format(num)
+        }
+
+        function numFormatterWithPlus (num) {
+            var nf = Intl.NumberFormat()
+            return nf.format(num) + '+';
+        }
+
+        function dateFormatter (date, textualFormat) {
+            if (date) {
+                let dateVal = new Date(date);
+                if (textualFormat) {
+                    const ye = new Intl.DateTimeFormat('en', { year: 'numeric' }).format(dateVal)
+                    const mo = new Intl.DateTimeFormat('en', { month: 'long' }).format(dateVal)
+                    const da = new Intl.DateTimeFormat('en', { day: '2-digit' }).format(dateVal)
+
+                    return `${mo} ${da}, ${ye}`
+                } else {
+                    return dateVal.toLocaleDateString("en-US")
+                }
+            }
+        }
+
+        function altDateFormatter (date, textualFormat) {
+            if (date) {
+                let dateVal = new Date(date);
+                if (textualFormat) {
+                    const ye = new Intl.DateTimeFormat('en', { year: 'numeric' }).format(dateVal)
+                    const mo = new Intl.DateTimeFormat('en', { month: 'long' }).format(dateVal)
+                    const da = new Intl.DateTimeFormat('en', { day: '2-digit' }).format(dateVal)
+
+                    return `${da} ${mo} ${ye}`
+                } else {
+                    return dateVal.toLocaleDateString("en-US")
+                }
+            }
+        }
+    });
+</script>
+
+
+
+    
+    <script>
+        if (!window.location.search.includes('noanalytics')) {
+        (function(h,o,u,n,d) {
+            h=h[d]=h[d]||{q:[],onReady:function(c){h.q.push(c)}}
+            d=o.createElement(u);d.async=1;d.src=n
+            n=o.getElementsByTagName(u)[0];n.parentNode.insertBefore(d,n)
+            })(window,document,'script','../www.datadoghq-browser-agent.com/us5/v4/datadog-rum.js','DD_RUM')
+            window.DD_RUM.onReady(function() {
+            window.DD_RUM.init({
+                clientToken: 'pubd671e8269d515266454094e97149e4d0',
+                applicationId: '0460dbce-d7a5-4f68-8dde-e3caa44f5ea7',
+                site: 'us5.datadoghq.com',
+                service: 'brightspot',
+                env: window.location.origin.includes('www.realtymogul.com') ? 'prod' : 'qa',
+                allowedTracingUrls: ['https://app.realtymogul.com'],
+                // Specify a version number to identify the deployed version of your application in Datadog
+                // version: '1.0.0',
+                sessionSampleRate: 100,
+                sessionReplaySampleRate: 100,
+                trackResources: true,
+                trackLongTasks: true,
+                trackSessionAcrossSubdomains: true,
+                trackUserInteractions: true,
+                defaultPrivacyLevel: 'mask-user-input',
+            });
+
+            if (!window.location.origin.includes('localhost')) 
+            window.DD_RUM.startSessionReplayRecording();
+            })
+
+    !function(){var analytics=window.analytics=window.analytics||[];if(!analytics.initialize)if(analytics.invoked)window.console&&console.error&&console.error("Segment snippet included twice.");else{analytics.invoked=!0;analytics.methods=["trackSubmit","trackClick","trackLink","trackForm","pageview","identify","reset","group","track","ready","alias","debug","page","once","off","on","addSourceMiddleware","addIntegrationMiddleware","setAnonymousId","addDestinationMiddleware"];analytics.factory=function(e){return function(){var t=Array.prototype.slice.call(arguments);t.unshift(e);analytics.push(t);return analytics}};for(var e=0;e<analytics.methods.length;e++){var key=analytics.methods[e];analytics[key]=analytics.factory(key)}analytics.load=function(key,e){var t=document.createElement("script");t.type="text/javascript";t.async=!0;t.src="https://cdn.segment.com/analytics.js/v1/" + key + "/analytics.min.js";var n=document.getElementsByTagName("script")[0];n.parentNode.insertBefore(t,n);analytics._loadOptions=e};analytics._writeKey="rTXATVFd56ttSiSlV43LHMDZLyvB21EQ";;analytics.SNIPPET_VERSION="4.15.3";
+    analytics.load("rTXATVFd56ttSiSlV43LHMDZLyvB21EQ");
+    analytics.page();
+    }}();
+   
+    window._vwo_code = window._vwo_code || (function () {
+        var account_id = 556035,
+        settings_tolerance = 2000,
+        library_tolerance = 2500,
+        use_existing_jquery = false,
+        is_spa = 1,
+        hide_element = 'body',
+
+        /* DO NOT EDIT BELOW THIS LINE */
+        f = false, d = document, code = {
+            use_existing_jquery: function () { return use_existing_jquery; }, library_tolerance: function () { return library_tolerance; }, finish: function () { if (!f) { f = true; var a = d.getElementById('_vis_opt_path_hides'); if (a) a.parentNode.removeChild(a); } }, finished: function () { return f; }, load: function (a) { var b = d.createElement('script'); b.src = a; b.type = 'text/javascript'; b.innerText; b.onerror = function () { _vwo_code.finish(); }; d.getElementsByTagName('head')[0].appendChild(b); }, init: function () {
+            window.settings_timer = setTimeout(function () { _vwo_code.finish() }, settings_tolerance); var a = d.createElement('style'), b = hide_element ? hide_element + '{opacity:0 !important;filter:alpha(opacity=0) !important;background:none !important;}' : '', h = d.getElementsByTagName('head')[0]; a.setAttribute('id', '_vis_opt_path_hides'); a.setAttribute('type', 'text/css'); if (a.styleSheet) a.styleSheet.cssText = b; else a.appendChild(d.createTextNode(b)); h.appendChild(a); this.load('https://dev.visualwebsiteoptimizer.com/j.php?a=' + account_id + '&u=' + encodeURIComponent(d.URL) + '&f=' + (+is_spa) + '&r=' + Math.random()); return settings_timer;
+            }
+        }; window._vwo_settings_timer = code.init(); return code;
+    }());
+    }
+    </script>
+
+</head>
+
+
+<body class="Page-body">
+    <svg xmlns="http://www.w3.org/2000/svg" style="display:none" id="iconsMap">
+  <symbol id="mono-icon-facebook" viewBox="0 0 24 24">
+    <path
+      d="M21,12c-.00083-4.97056-4.03094-8.99933-9.0015-8.9985-4.97056,.00083-8.99933,4.03094-8.9985,9.0015,.00074,4.4272,3.22116,8.19637,7.594,8.88799v-6.291h-2.285v-2.6h2.285v-1.983c-.18402-1.74438,1.0809-3.30765,2.82528-3.49167,.19093-.02014,.38329-.02293,.57472-.00833,.67473,.0095,1.34785,.06832,2.014,.176v2.213h-1.136c-.71171-.09461-1.36536,.40565-1.45997,1.11736-.01272,.09569-.01474,.1925-.00603,.28864v1.688h2.5l-.4,2.6h-2.1v6.289c4.37322-.69169,7.59376-4.46142,7.594-8.889"
+    />
+  </symbol>
+  <symbol
+    id="action-icon-facebook"
+    viewBox="0 0 7 12"
+    xmlns="http://www.w3.org/2000/svg"
+  >
+    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+      <g transform="translate(-112.000000, -395.000000)" fill="#FFFFFF">
+        <g transform="translate(100.000000, 386.000000)">
+          <g transform="translate(12.000000, 9.000000)">
+            <path
+              d="M1.777125,12 L1.777125,6.48659606 L0,6.48659606 L0,4.05412254 L1.777125,4.05412254
+                        L1.777125,3.10626869 C1.777125,1.47184919 2.99976923,0 4.50308654,0 L6.46153846,0 L6.46153846,2.43247352
+                        L4.50308654,2.43247352 C4.28864423,2.43247352 4.03846154,2.69376172 4.03846154,3.08498454 L4.03846154,4.05412254
+                        L6.46153846,4.05412254 L6.46153846,6.48659606 L4.03846154,6.48659606 L4.03846154,12"
+            />
+          </g>
+        </g>
+      </g>
+    </g>
+  </symbol>
+  <symbol id="mono-icon-instagram" viewBox="0 0 24 24">
+    <path
+      d="M12,4.65h3.6c.56306,.00542,1.12107,.10688,1.65,.3,.79338,.3047,1.4203,.93162,1.725,1.725,.19312,.52893,.29457,1.08694,.3,1.65,.075,.975,.075,1.2,.075,3.6s0,2.7-.075,3.6c-.00542,.56306-.10688,1.12107-.3,1.65-.3047,.79338-.93162,1.4203-1.725,1.725-.52893,.19312-1.08694,.29457-1.65,.3h-7.2c-.56306-.00542-1.12107-.10688-1.65-.3-.79338-.3047-1.4203-.93162-1.725-1.725-.19312-.52893-.29458-1.08694-.3-1.65-.075-.975-.075-1.2-.075-3.6s0-2.7,.075-3.6c.00542-.56306,.10688-1.12107,.3-1.65,.28771-.77848,.88507-1.40299,1.65-1.725,.52893-.19312,1.08694-.29458,1.65-.3h3.675m0-1.65h-3.675c-.74522,.02606-1.48063,.17821-2.175,.45-1.23508,.44686-2.21853,1.403-2.7,2.625-.27179,.69437-.42394,1.42978-.45,2.175v3.75c0,2.475,0,2.775,.075,3.675,.02606,.74521,.17821,1.48063,.45,2.175,.46473,1.20664,1.41836,2.16027,2.625,2.625,.69437,.27179,1.42978,.42394,2.175,.45h7.425c.74521-.02606,1.48063-.17821,2.175-.45,1.20664-.46473,2.16027-1.41836,2.625-2.625,.27179-.69437,.42394-1.42978,.45-2.175,.075-.975,.075-1.275,.075-3.675s0-2.775-.075-3.675c-.02606-.74522-.17821-1.48063-.45-2.175-.46473-1.20664-1.41836-2.16027-2.625-2.625-.69437-.27179-1.42978-.42394-2.175-.45l-3.75-.075Zm0,4.35c-2.56812,0-4.65,2.08188-4.65,4.65s2.08188,4.65,4.65,4.65,4.65-2.08188,4.65-4.65h0c0-2.56812-2.08188-4.65-4.65-4.65Zm0,7.65c-1.65685,0-3-1.34315-3-3s1.34315-3,3-3,3,1.34315,3,3-1.34315,3-3,3Zm4.8-8.85c-.5799,0-1.05,.4701-1.05,1.05,0,.5799,.4701,1.05,1.05,1.05,.5799,0,1.05-.4701,1.05-1.05s-.4701-1.05-1.05-1.05h0Z"
+    />
+  </symbol>
+  <symbol id="mono-icon-mailto" viewBox="0 0 512 512">
+    <g>
+      <path
+        d="M67,148.7c11,5.8,163.8,89.1,169.5,92.1c5.7,3,11.5,4.4,20.5,4.4c9,0,14.8-1.4,20.5-4.4c5.7-3,158.5-86.3,169.5-92.1
+                c4.1-2.1,11-5.9,12.5-10.2c2.6-7.6-0.2-10.5-11.3-10.5H257H65.8c-11.1,0-13.9,3-11.3,10.5C56,142.9,62.9,146.6,67,148.7z"
+      >
+      </path>
+      <path
+        d="M455.7,153.2c-8.2,4.2-81.8,56.6-130.5,88.1l82.2,92.5c2,2,2.9,4.4,1.8,5.6c-1.2,1.1-3.8,0.5-5.9-1.4l-98.6-83.2
+                c-14.9,9.6-25.4,16.2-27.2,17.2c-7.7,3.9-13.1,4.4-20.5,4.4c-7.4,0-12.8-0.5-20.5-4.4c-1.9-1-12.3-7.6-27.2-17.2l-98.6,83.2
+                c-2,2-4.7,2.6-5.9,1.4c-1.2-1.1-0.3-3.6,1.7-5.6l82.1-92.5c-48.7-31.5-123.1-83.9-131.3-88.1c-8.8-4.5-9.3,0.8-9.3,4.9
+                c0,4.1,0,205,0,205c0,9.3,13.7,20.9,23.5,20.9H257h185.5c9.8,0,21.5-11.7,21.5-20.9c0,0,0-201,0-205
+                C464,153.9,464.6,148.7,455.7,153.2z"
+      ></path>
+    </g>
+  </symbol>
+  <symbol
+    id="action-icon-mailto"
+    viewBox="0 0 20 14"
+    xmlns="http://www.w3.org/2000/svg"
+  >
+    <g
+      stroke="none"
+      stroke-width="1"
+      fill="none"
+      fill-rule="evenodd"
+      stroke-linecap="round"
+      stroke-linejoin="round"
+    >
+      <g transform="translate(-245.000000, -2697.000000)" stroke="#000000">
+        <g transform="translate(100.000000, 1138.000000)">
+          <g transform="translate(0.000000, 132.000000)">
+            <g transform="translate(0.000000, 1419.000000)">
+              <g transform="translate(140.000000, 0.000000)">
+                <g transform="translate(6.000000, 9.000000)">
+                  <path
+                    d="M17.5909091,10.6363636 C17.5909091,11.3138182 17.0410909,11.8636364 16.3636364,11.8636364
+                                    L1.63636364,11.8636364 C0.958909091,11.8636364 0.409090909,11.3138182 0.409090909,10.6363636
+                                    L0.409090909,1.63636364 C0.409090909,0.958090909 0.958909091,0.409090909 1.63636364,0.409090909
+                                    L16.3636364,0.409090909 C17.0410909,0.409090909 17.5909091,0.958090909 17.5909091,1.63636364
+                                    L17.5909091,10.6363636 L17.5909091,10.6363636 Z"
+                  />
+                  <polyline
+                    points="17.1818182 0.818181818 9 7.36363636 0.818181818 0.818181818"
+                  />
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </symbol>
+  <symbol id="mono-icon-print" viewBox="0 0 12 12">
+    <g fill-rule="evenodd">
+      <path
+        fill-rule="nonzero"
+        d="M9 10V7H3v3H1a1 1 0 0 1-1-1V4a1 1 0 0 1 1-1h10a1 1 0 0 1 1 1v3.132A2.868 2.868 0 0 1 9.132 10H9zm.5-4.5a1 1 0 1 0 0-2 1 1 0 0 0 0 2zM3 0h6v2H3z"
+      >
+      </path>
+      <path d="M4 8h4v4H4z"></path>
+    </g>
+  </symbol>
+  <symbol
+    id="action-icon-print"
+    viewBox="0 0 20 18"
+    xmlns="http://www.w3.org/2000/svg"
+  >
+    <g
+      stroke="none"
+      stroke-width="1"
+      fill="none"
+      fill-rule="evenodd"
+      stroke-linecap="round"
+      stroke-linejoin="round"
+    >
+      <g
+        transform="translate(-280.000000, -2695.000000)"
+        stroke="#000000"
+        stroke-width="0.9"
+      >
+        <g transform="translate(100.000000, 1138.000000)">
+          <g transform="translate(0.000000, 132.000000)">
+            <g transform="translate(0.000000, 1419.000000)">
+              <g transform="translate(140.000000, 0.000000)">
+                <g transform="translate(35.000000, 0.000000)">
+                  <g transform="translate(6.000000, 7.000000)">
+                    <path
+                      d="M4.125,12.375 L1.875,12.375 C1.05,12.375 0.375,11.7 0.375,10.875 L0.375,6.375
+                                        C0.375,5.55 1.05,4.875 1.875,4.875 L16.125,4.875 C16.95075,4.875 17.625,5.55 17.625,6.375
+                                        L17.625,10.875 C17.625,11.7 16.95075,12.375 16.125,12.375 L13.875,12.375"
+                    />
+                    <g transform="translate(4.125000, 0.375000)">
+                      <polyline
+                        id="Stroke-2384"
+                        points="0 3 0 0 7.5 0 9.75 2.25 9.75 3"
+                      />
+                      <polygon
+                        id="Stroke-2385"
+                        points="0 15.75 9.75 15.75 9.75 9.75 0 9.75"
+                      />
+                    </g>
+                    <path
+                      d="M3.375,7.125 C3.375,7.539 3.03975,7.875 2.625,7.875 C2.211,7.875 1.875,7.539
+                                        1.875,7.125 C1.875,6.71025 2.211,6.375 2.625,6.375 C3.03975,6.375 3.375,6.71025 3.375,7.125
+                                        L3.375,7.125 Z"
+                    />
+                    <line
+                      x1="5.625"
+                      y1="11.625"
+                      x2="12.375"
+                      y2="11.625"
+                      id="Stroke-2387"
+                    />
+                    <line
+                      x1="5.625"
+                      y1="13.125"
+                      x2="12.375"
+                      y2="13.125"
+                      id="Stroke-2388"
+                    />
+                    <line
+                      x1="5.625"
+                      y1="14.625"
+                      x2="12.375"
+                      y2="14.625"
+                      id="Stroke-2389"
+                    />
+                    <polyline points="11.625 0.375 11.625 2.625 13.875 2.625" />
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </symbol>
+  <symbol id="mono-icon-copylink" viewBox="0 0 12 12">
+    <g fill-rule="evenodd">
+      <path
+        d="M10.199 2.378c.222.205.4.548.465.897.062.332.016.614-.132.774L8.627 6.106c-.187.203-.512.232-.75-.014a.498.498 0 0 0-.706.028.499.499 0 0 0 .026.706 1.509 1.509 0 0 0 2.165-.04l1.903-2.06c.37-.398.506-.98.382-1.636-.105-.557-.392-1.097-.77-1.445L9.968.8C9.591.452 9.03.208 8.467.145 7.803.072 7.233.252 6.864.653L4.958 2.709a1.509 1.509 0 0 0 .126 2.161.5.5 0 1 0 .68-.734c-.264-.218-.26-.545-.071-.747L7.597 1.33c.147-.16.425-.228.76-.19.353.038.71.188.931.394l.91.843.001.001zM1.8 9.623c-.222-.205-.4-.549-.465-.897-.062-.332-.016-.614.132-.774l1.905-2.057c.187-.203.512-.232.75.014a.498.498 0 0 0 .706-.028.499.499 0 0 0-.026-.706 1.508 1.508 0 0 0-2.165.04L.734 7.275c-.37.399-.506.98-.382 1.637.105.557.392 1.097.77 1.445l.91.843c.376.35.937.594 1.5.656.664.073 1.234-.106 1.603-.507L7.04 9.291a1.508 1.508 0 0 0-.126-2.16.5.5 0 0 0-.68.734c.264.218.26.545.071.747l-1.904 2.057c-.147.16-.425.228-.76.191-.353-.038-.71-.188-.931-.394l-.91-.843z"
+      >
+      </path>
+      <path
+        d="M8.208 3.614a.5.5 0 0 0-.707.028L3.764 7.677a.5.5 0 0 0 .734.68L8.235 4.32a.5.5 0 0 0-.027-.707"
+      >
+      </path>
+    </g>
+  </symbol>
+  <symbol
+    id="mono-icon-linkedin"
+    viewBox="0 0 24 24"
+    xmlns="http://www.w3.org/2000/svg"
+  >
+    <path
+      d="M16.89301,14.87988v5.56787h3.55298v-6.28076c0-3.08398-.66501-5.45508-4.26901-5.45508-1.37772-.05078-2.67172,.66016-3.36801,1.8501h-.048v-1.56104h-3.414v11.45117h3.556v-5.66406c0-1.5,.284-2.94092,2.13501-2.94092,1.83102-.00439,1.85504,1.70459,1.85504,3.03271ZM3.55801,20.44775h3.56V9.00098H3.55801v11.44678Zm-.28201-15.08008c.00055,1.13965,.92447,2.06299,2.064,2.06299,1.13913-.00049,2.06244-.92383,2.06299-2.06299-.00003-1.14014-.9241-2.06396-2.064-2.06396s-2.064,.92432-2.064,2.06396v.00049l.00101-.00049Z"
+    />
+  </symbol>
+  <symbol
+    id="action-icon-linkedin"
+    viewBox="0 0 14 14"
+    xmlns="http://www.w3.org/2000/svg"
+  >
+    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+      <g transform="translate(-214.000000, -394.000000)" fill="#FFFFFF">
+        <g transform="translate(100.000000, 386.000000)">
+          <g transform="translate(114.318373, 8.386273)">
+            <path
+              d="M8.92627273,6.93190909 C8.22309091,6.93190909 7.65354545,7.50209091 7.65354545,8.20463636
+                        L7.65354545,12.6591818 L4.47172727,12.6591818 C4.47172727,12.6591818 4.50927273,5.02281818
+                        4.47172727,4.38645455 L7.65354545,4.38645455 L7.65354545,5.33145455 C7.65354545,5.33145455
+                        8.63863636,4.41318182 10.1601818,4.41318182 C12.0444545,4.41318182 13.3808182,5.77690909
+                        13.3808182,8.42481818 L13.3808182,12.6591818 L10.199,12.6591818 L10.199,8.20463636 C10.199,7.50209091
+                        9.62945455,6.93190909 8.92627273,6.93190909 L8.92627273,6.93190909 Z M1.60172727,3.11372727
+                        L1.58327273,3.11372727 C0.621727273,3.11372727 0,2.36154545 0,1.53490909 C0,0.689181818
+                        0.640818182,1.77635684e-15 1.62081818,1.77635684e-15 C2.60145455,1.77635684e-15 3.20409091,0.711454545
+                        3.22318182,1.55718182 C3.22318182,2.38445455 2.60145455,3.11372727 1.60172727,3.11372727 L1.60172727,3.11372727
+                        Z M3.199,12.6591818 L0.0171818182,12.6591818 L0.0171818182,4.38645455 L3.199,4.38645455 L3.199,12.6591818 Z"
+            />
+          </g>
+        </g>
+      </g>
+    </g>
+  </symbol>
+  <symbol
+    id="download"
+    xmlns="http://www.w3.org/2000/svg"
+    width="24"
+    height="24"
+    viewBox="0 0 24 24"
+  >
+    <g fill="none" fill-rule="evenodd">
+      <g>
+        <g>
+          <g>
+            <path
+              d="M0 0H24V24H0z"
+              transform="translate(-802.000000, -1914.000000) translate(0.000000, 1756.000000) translate(802.000000, 158.000000)"
+            />
+            <path
+              fill="#000"
+              fill-rule="nonzero"
+              d="M12 2C6.49 2 2 6.49 2 12s4.49 10 10 10 10-4.49 10-10S17.51 2 12 2zm-1 8V6h2v4h3l-4 4-4-4h3zm6 7H7v-2h10v2z"
+              transform="translate(-802.000000, -1914.000000) translate(0.000000, 1756.000000) translate(802.000000, 158.000000)"
+            />
+          </g>
+        </g>
+      </g>
+    </g>
+  </symbol>
+  <symbol
+    id="icon-calendar"
+    viewBox="0 0 48 48"
+    id=".8157111007742872"
+    xmlns="http://www.w3.org/2000/svg"
+  >
+    <path
+      d="M10.039,12.865h27.92c2.30082,0,4.166,1.86518,4.166,4.166h0v17.44c0,2.30082-1.86518,4.166-4.166,4.166H10.039c-2.30082,0-4.166-1.86518-4.166-4.166h0V17.031c0-2.30082,1.86518-4.166,4.166-4.166h0Z"
+      style="fill: #b3cff2;"
+    />
+    <path
+      d="M10.04102,41.99023c-4.15039-.00586-7.51367-3.36865-7.51953-7.51904V17.03125c.00586-4.14941,3.36914-7.51123,7.51953-7.51416h4.19922v-2.75098c0-.41357,.33398-.74951,.74805-.75h.00195c.41406-.00195,.75195,.33203,.75391,.74609v2.75488h16.50586v-2.75098c0-.41357,.33398-.74951,.74805-.75h.00195c.41406-.00049,.75,.33447,.75,.74805v2.75293h4.19922c4.14844,.00293,7.51367,3.36475,7.51758,7.51416v17.43994c-.00586,4.1499-3.36719,7.51318-7.51758,7.51904H10.04102Zm-6.01953-7.51904c.00586,3.3208,2.69922,6.01074,6.01953,6.01416h27.91602c3.32227-.00195,6.01562-2.69238,6.01953-6.01416V17.03125c-.00391-3.32178-2.69727-6.01221-6.01953-6.01416H10.04102c-3.32031,.00342-6.01367,2.69336-6.01953,6.01416v.08398H42.12109c.41406,0,.75,.33594,.75,.75,.00195,.4126-.33203,.74854-.74414,.75H4.02148v15.85596Zm27.23438-2.2749c0-1.49902,1.21484-2.71387,2.71484-2.71387h0c1.49805-.00049,2.71289,1.21338,2.71289,2.71094v.00293c0,1.49805-1.21484,2.71289-2.71289,2.71387-1.49805-.00098-2.71289-1.21582-2.71484-2.71484v.00098Zm1.5,0c0,.67041,.54297,1.21387,1.21484,1.21387h0c.66992,0,1.21484-.54346,1.21484-1.21387,0-.6709-.54492-1.21436-1.21484-1.21484s-1.21484,.54248-1.21484,1.21338v.00146Zm-11.47461,0c.00195-1.50049,1.2207-2.71484,2.7207-2.71387,1.49805,.00195,2.71094,1.21582,2.71289,2.71387-.00195,1.49707-1.21484,2.71045-2.71289,2.71387-1.5-.00049-2.7168-1.21484-2.7207-2.71484v.00098Zm1.5,0c.00195,.67188,.54883,1.21484,1.2207,1.21387,.66992-.00049,1.21289-.54395,1.21289-1.21387,0-.67041-.54297-1.21436-1.21289-1.21484-.67188-.00098-1.21875,.54199-1.2207,1.21387v.00098Zm-10.71875,0c0-1.08496,.88086-1.96387,1.96484-1.96387,1.08398-.00244,1.9668,.87451,1.96875,1.95947v.00439c-.00195,1.08545-.88281,1.96436-1.96875,1.96387-1.08398-.00195-1.96289-.88037-1.96484-1.96484v.00098Zm-.75-7.97314c.00391-1.49756,1.2168-2.71045,2.71484-2.71387,1.5,.00049,2.71484,1.21436,2.71875,2.71387-.00195,1.5-1.21875,2.71484-2.71875,2.71387-1.49805-.00098-2.71289-1.21582-2.71484-2.71484v.00098Zm1.5,0c.00195,.66992,.54492,1.21191,1.21484,1.21387,.66992,0,1.21484-.54346,1.21484-1.21387s-.54492-1.21387-1.21484-1.21387c-.66992,.00195-1.21289,.54346-1.21484,1.21289v.00098Zm19.19336,0c0-1.08447,.87891-1.96387,1.96484-1.96387h0c1.08398,0,1.96289,.87891,1.96289,1.96289v.00098c.00195,1.08203-.87305,1.96094-1.95508,1.96387h-.00781c-1.08398,.00195-1.96289-.87402-1.96484-1.95703v-.00684Zm-9.97461,0c.00195-1.08594,.88477-1.96484,1.9707-1.96387,1.08398,.00195,1.96094,.87988,1.96289,1.96387,0,1.08398-.87891,1.96338-1.96289,1.96387h0c-1.08594,.00244-1.96875-.87549-1.9707-1.96143v-.00244Z"
+      style="fill: #666;"
+    />
+  </symbol>
+  <symbol
+    id="icon-diversified"
+    x="0px"
+    y="0px"
+    viewBox="0 0 60 60"
+    style="enable-background:new 0 0 60 60;"
+  >
+    <style type="text/css">
+      .st0 { fill: none; } .st1 { fill: #B3CFF2; } .st2 { fill: #666666; }
+    </style>
+    <g id="c">
+      <g id="d" transform="translate(630)">
+        <rect id="e" x="-630" class="st0" width="60" height="60" />
+        <path
+          id="f"
+          class="st1"
+          d="M-620.2,47.9c0-1.8,1.5-3.3,3.3-3.3h0c1.8,0,3.3,1.5,3.3,3.3v0c0,1.8-1.5,3.3-3.3,3.3h0
+			C-618.8,51.2-620.2,49.7-620.2,47.9L-620.2,47.9L-620.2,47.9z M-586.3,41.9c0-1.8,1.5-3.3,3.3-3.3l0,0c1.8,0,3.3,1.5,3.3,3.3v0
+			c0,1.8-1.5,3.3-3.3,3.3h0C-584.8,45.2-586.3,43.7-586.3,41.9C-586.3,41.9-586.3,41.9-586.3,41.9z M-620.2,30
+			c0-1.8,1.5-3.3,3.3-3.3l0,0c1.8,0,3.3,1.5,3.3,3.3c0,1.8-1.5,3.3-3.3,3.3l0,0C-618.8,33.3-620.2,31.8-620.2,30
+			C-620.2,30-620.2,30-620.2,30z M-586.3,18.1c0-1.8,1.5-3.3,3.3-3.3l0,0c1.8,0,3.3,1.5,3.3,3.3v0c0,1.8-1.5,3.3-3.3,3.3h0
+			C-584.8,21.4-586.3,19.9-586.3,18.1C-586.3,18.1-586.3,18.1-586.3,18.1z M-620.2,12.1c0-1.8,1.5-3.3,3.3-3.3h0
+			c1.8,0,3.3,1.5,3.3,3.3v0c0,1.8-1.5,3.3-3.3,3.3h0C-618.8,15.3-620.2,13.9-620.2,12.1L-620.2,12.1L-620.2,12.1z"
+        />
+        <path
+          id="g"
+          class="st2"
+          d="M-623.9,47.9c0-3.9,3.1-7,7-7c3,0,5.6,1.9,6.6,4.7L-590,42v-0.1c0-0.4,0-0.8,0.1-1.3l-20.9-7.3
+			c-1.2,2.3-3.6,3.7-6.2,3.7c-3.9,0-7-3.1-7-7c0-3.9,3.1-7,7-7c2.6,0,4.9,1.4,6.2,3.7l20.9-7.3c-0.1-0.4-0.1-0.8-0.1-1.3V18
+			l-20.4-3.6c-1,2.8-3.6,4.7-6.6,4.7c-3.9,0-7-3.1-7-7c0-3.9,3.1-7,7-7c3.9,0,7,3.1,7,7v0.1l20.4,3.6c1-2.8,3.6-4.7,6.6-4.7
+			c3.9,0,7,3.1,7,7c0,3.9-3.1,7-7,7c-2.6,0-4.9-1.4-6.1-3.7l-20.9,7.3c0.1,0.4,0.1,0.8,0.1,1.3c0,0.4,0,0.8-0.1,1.3l20.9,7.3
+			c1.2-2.3,3.6-3.7,6.2-3.7c3.9,0,7,3.1,7,7c0,3.9-3.1,7-7,7c-3,0-5.6-1.9-6.6-4.7l-20.4,3.6v0.1c0,3.9-3.1,7-7,7
+			C-620.8,54.9-623.9,51.8-623.9,47.9L-623.9,47.9z M-622.1,47.9c0,2.8,2.3,5.1,5.1,5.1c2.8,0,5.1-2.3,5.1-5.1
+			c0-2.8-2.3-5.1-5.1-5.1C-619.8,42.8-622.1,45.1-622.1,47.9z M-588.1,41.9c0,2.8,2.3,5.1,5.1,5.1c2.8,0,5.1-2.3,5.1-5.1
+			c0-2.8-2.3-5.1-5.1-5.1C-585.8,36.8-588.1,39.1-588.1,41.9z M-622.1,30c0,2.8,2.3,5.1,5.1,5.1c2.8,0,5.1-2.3,5.1-5.1
+			c0-2.8-2.3-5.1-5.1-5.1C-619.8,24.9-622.1,27.2-622.1,30C-622.1,30-622.1,30-622.1,30z M-588.1,18.1c0,2.8,2.3,5.1,5.1,5.1
+			c2.8,0,5.1-2.3,5.1-5.1c0-2.8-2.3-5.1-5.1-5.1C-585.8,13-588.1,15.3-588.1,18.1L-588.1,18.1z M-622.1,12.1c0,2.8,2.3,5.1,5.1,5.1
+			c2.8,0,5.1-2.3,5.1-5.1c0-2.8-2.3-5.1-5.1-5.1C-619.8,7-622.1,9.2-622.1,12.1C-622.1,12.1-622.1,12.1-622.1,12.1z"
+        />
+      </g>
+    </g>
+  </symbol>
+  <symbol
+    id="icon-passive"
+    viewBox="0 0 60 60"
+    id="b"
+    xmlns="http://www.w3.org/2000/svg"
+    x="0px"
+    y="0px"
+    style="enable-background:new 0 0 60 60;"
+    xml:space="preserve"
+  >
+    <style type="text/css">
+      .st00 { fill: none; } .st11 { fill: #B3CFF2; } .st22 { fill: #666666; }
+    </style>
+    <g id="c">
+      <g id="d" transform="translate(0 230)">
+        <rect id="e" y="-230" class="st00" width="60" height="60" />
+        <path
+          id="f"
+          class="st11"
+          d="M39.7-222.1H20.4c-1.3,0-2.4,1.1-2.4,2.4v24.5c0,1.3,1.1,2.4,2.4,2.4h6.8v-8.4h2
+			c1.5,0,2.8,1.2,2.8,2.8v5.6h7.7c1.3,0,2.4-1.1,2.4-2.4l0,0v-24.5C42-221,41-222.1,39.7-222.1L39.7-222.1"
+        />
+        <path
+          id="g"
+          class="st22"
+          d="M24.9-174.1c-0.5,0-0.9-0.4-0.9-0.9v0c0-0.5,0.4-0.9,0.9-0.9h10.1c0.5,0,0.9,0.4,0.9,0.9
+			c0,0.5-0.4,0.9-0.9,0.9H24.9z M23.3-180l-0.7-3.2c-0.4-1.9-0.7-3.8-0.7-5.8H20c-3.2,0-5.8-2.6-5.8-5.8v-25.3
+			c0-3.2,2.6-5.8,5.8-5.8h20c3.2,0,5.8,2.6,5.8,5.8v25.3c0,3.2-2.6,5.8-5.8,5.8h-1.7c-0.5,0-0.9-0.4-0.9-0.9v0
+			c0-0.5,0.4-0.9,0.9-0.9H40c2.2,0,3.9-1.8,3.9-3.9v-25.3c0-2.2-1.8-3.9-3.9-3.9H20c-2.2,0-3.9,1.7-3.9,3.9v25.3
+			c0,2.2,1.8,3.9,3.9,3.9h6.3v-9.5c0-1,0.8-1.8,1.8-1.8h0.5c2.4,0,4.4,2,4.4,4.4v3.6c0,0.8,0.3,1.7,0.9,2.3l0.5,0.5
+			c2.6,2.7,3.8,6.5,3.1,10.2l-0.2,1c-0.3,1.6-1.7,2.7-3.3,2.7h-7.3C25-177.4,23.7-178.5,23.3-180C23.3-180,23.3-180,23.3-180z
+			 M24.4-183.6l0.7,3.2c0.2,0.7,0.8,1.2,1.5,1.2h7.3c0.7,0,1.3-0.5,1.5-1.2l0.2-1c0.6-3.1-0.4-6.3-2.6-8.6l-0.5-0.5
+			c-0.9-1-1.5-2.2-1.4-3.6v-3.6c0-1.4-1.1-2.5-2.5-2.5h-0.4v12.8c0,0.5-0.4,0.9-0.9,0.9l0,0c-0.5,0-0.9-0.4-0.9-0.9v-1.5h-2.5
+			C23.8-187.2,24-185.4,24.4-183.6L24.4-183.6L24.4-183.6z M22.2-206.2c-0.5,0-0.9-0.4-0.9-0.9v0c0-0.5,0.4-0.9,0.9-0.9h15.6
+			c0.5,0,0.9,0.4,0.9,0.9v0c0,0.5-0.4,0.9-0.9,0.9C37.9-206.2,22.2-206.2,22.2-206.2z M22.2-211.4c-0.5,0-0.9-0.4-0.9-0.9v0
+			c0-0.5,0.4-0.9,0.9-0.9h15.6c0.5,0,0.9,0.4,0.9,0.9v0c0,0.5-0.4,0.9-0.9,0.9C37.9-211.4,22.2-211.4,22.2-211.4z M22.2-216.6
+			c-0.5,0-0.9-0.4-0.9-0.9v0c0-0.5,0.4-0.9,0.9-0.9h15.6c0.5,0,0.9,0.4,0.9,0.9v0c0,0.5-0.4,0.9-0.9,0.9
+			C37.9-216.6,22.2-216.6,22.2-216.6z"
+        />
+      </g>
+    </g>
+  </symbol>
+  <symbol
+    id="icon-trusted"
+    viewBox="0 0 60 60"
+    id="b1"
+    xmlns="http://www.w3.org/2000/svg"
+    style="enable-background:new 0 0 60 60;"
+    xml:space="preserve"
+  >
+    <style type="text/css">
+      .st000 { fill: none; } .st111 { fill: #B3CFF2; } .st222 { fill: #666666; }
+    </style>
+    <g id="c">
+      <g id="d" transform="translate(630 230)">
+        <rect id="e" x="-630" y="-230" class="st000" width="60" height="60" />
+        <path
+          id="f"
+          class="st111"
+          d="M-583-217.7c-11.2-2.4-22.9-2.4-34.1,0c-0.2,0-0.3,0.2-0.3,0.4v11.9c0,5.1,1.6,10.1,4.5,14.3
+			c0.3,0.4,0.9,0.6,1.4,0.2c0.2-0.1,0.3-0.3,0.4-0.6c0.5-2,1.2-3.8,2.2-5.6c-3.3-4.9-2-11.6,2.9-14.9s11.6-2,14.9,2.9
+			c0.9,1.3,1.4,2.7,1.7,4.3c2.3-0.6,4.5-1.7,6.4-3.1c0.2-0.2,0.4-0.5,0.4-0.8v-8.7C-582.6-217.5-582.8-217.7-583-217.7"
+        />
+        <path
+          id="g"
+          class="st222"
+          d="M-602.4-176.3l-7.5-5.6c-3.6-2.7-6.6-6.3-8.7-10.4c-2-4.1-3.1-8.6-3.1-13.1v-11.9c0-1.1,0.4-2.1,1-3
+			c0.7-0.8,1.6-1.4,2.7-1.6c5.9-1.3,11.9-1.9,17.9-1.9c6,0,12.1,0.6,18,1.9c1,0.2,2,0.8,2.7,1.6c0.7,0.8,1,1.9,1,3v11.9
+			c0,4.6-1.1,9.1-3.1,13.1c-2,4.1-5,7.6-8.7,10.4l-7.5,5.6c-0.7,0.5-1.5,0.8-2.4,0.8C-600.9-175.5-601.7-175.8-602.4-176.3
+			L-602.4-176.3z M-617.6-220.1c-1.3,0.3-2.2,1.4-2.2,2.8v11.9c0,4.3,1,8.5,2.9,12.3c1.9,3.8,4.7,7.1,8.1,9.7l7.5,5.6
+			c0.4,0.3,0.8,0.4,1.3,0.4c0.5,0,0.9-0.2,1.3-0.4l7.5-5.6c3.4-2.6,6.2-5.9,8.1-9.7c1.9-3.8,2.9-8,2.9-12.3v-11.9
+			c0-1.3-0.9-2.5-2.2-2.8c-5.8-1.3-11.7-1.9-17.6-1.9C-605.9-221.9-611.8-221.3-617.6-220.1L-617.6-220.1L-617.6-220.1z
+			 M-611.7-202.9c0-6.4,5.2-11.6,11.7-11.7c6.4,0,11.6,5.2,11.7,11.7c0,6.4-5.2,11.6-11.7,11.7
+			C-606.4-191.3-611.6-196.5-611.7-202.9L-611.7-202.9z M-609.8-202.9c0,5.4,4.4,9.8,9.8,9.8c5.4,0,9.8-4.4,9.8-9.8
+			c0-5.4-4.4-9.8-9.8-9.8C-605.4-212.7-609.8-208.3-609.8-202.9L-609.8-202.9z M-603.1-199l-3-3c-0.4-0.4-0.4-1,0-1.3l0,0
+			c0.4-0.4,1-0.4,1.3,0l2.8,2.8l6.7-6.7c0.4-0.4,1-0.4,1.3,0c0.4,0.4,0.4,1,0,1.3l-6.8,6.8c-0.3,0.3-0.7,0.5-1.2,0.5
+			C-602.4-198.5-602.8-198.6-603.1-199L-603.1-199L-603.1-199z"
+        />
+      </g>
+    </g>
+  </symbol>
+  <symbol
+    id="icon-download"
+    viewBox="0 0 10.667 13.333"
+    id=".15153220384656096"
+    xmlns="http://www.w3.org/2000/svg"
+  >
+    <path
+      data-name="Path 1431"
+      d="M7.569 7.316a.334.334 0 0 1 0 .471L5.8 9.552a.667.667 0 0 1-.943 0L3.1 7.787a.334.334 0 0 1 0-.471l.472-.471a.334.334 0 0 1 .471 0l.725.726-.1-3.9A.333.333 0 0 1 5 3.333h.667A.333.333 0 0 1 6 3.667l-.1 3.9.725-.726a.334.334 0 0 1 .471 0zm3.1-4.121v8.138a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2V2a2 2 0 0 1 2-2h5.471a.333.333 0 0 1 .236.1l2.862 2.862a.336.336 0 0 1 .1.236m-1.333.552a.336.336 0 0 0-.1-.236L7.155 1.431a.333.333 0 0 0-.235-.1H2A.668.668 0 0 0 1.333 2v9.333A.668.668 0 0 0 2 12h6.667a.668.668 0 0 0 .667-.667z"
+      fill="currentColor"
+    />
+  </symbol>
+  <symbol
+    id="icon-linkedin"
+    viewBox="0 0 47.353 12"
+    id=".6279950776604948"
+    xmlns="http://www.w3.org/2000/svg"
+  >
+    <path
+      data-name="LinkedIn Logo Full"
+      d="M46.464 12.001H36.239a.876.876 0 0 1-.886-.866V.867a.876.876 0 0 1 .886-.865h10.226a.877.877 0 0 1 .889.865v10.269a.878.878 0 0 1-.878.866zm-2.665-4.56v2.785h1.778V7.085c0-1.542-.332-2.728-2.135-2.728a1.872 1.872 0 0 0-1.684.925h-.024V4.5h-1.705v5.726h1.778V7.393c0-.748.142-1.471 1.068-1.471s.924.854.924 1.518zm-6.668 2.785h1.78V4.5h-1.78zm-.141-7.541a1.032 1.032 0 0 0 1.032 1.032 1.032 1.032 0 0 0 1.031-1.032 1.032 1.032 0 0 0-1.032-1.032 1.032 1.032 0 0 0-1.03 1.031zm-12.888 7.686a3.008 3.008 0 0 1-3.2-3.024 3.008 3.008 0 0 1 3.2-3.024c1.662 0 2.7 1.186 2.7 3.024v.558h-4.127a1.328 1.328 0 0 0 1.34 1.115 1.518 1.518 0 0 0 1.269-.7l1.245.913a3.131 3.131 0 0 1-2.416 1.139zm-1.423-3.677h2.348a1.066 1.066 0 0 0-.312-.779 1.065 1.065 0 0 0-.779-.312h-.075a1.186 1.186 0 0 0-1.181 1.09zm4.631.694a2.815 2.815 0 0 1 2.633-3.072 2.145 2.145 0 0 1 1.827.76h.023v-3.3h1.78v8.447h-1.637v-.759h-.024a2.238 2.238 0 0 1-1.767.9 2.765 2.765 0 0 1-2.834-2.977zm1.78-.048a1.348 1.348 0 0 0 1.423 1.459 1.349 1.349 0 0 0 1.424-1.459 1.348 1.348 0 0 0-1.424-1.458 1.348 1.348 0 0 0-1.422 1.457zM-.001 10.226v-8.45H1.85v6.742h3.426v1.708zm19 0l-1.887-2.83h-.023v2.83h-1.778V1.775h1.778v5.05l2.015-2.331h2.18L18.95 7.145l2.285 3.08zm-12.905 0V4.5h1.778v5.726zm6.536 0V7.442c0-.665-.012-1.519-.926-1.519s-1.067.724-1.067 1.47v2.832H8.859V4.5h1.707v.783h.024a1.867 1.867 0 0 1 1.684-.925c1.8 0 2.135 1.186 2.135 2.727v3.141zM5.951 2.685a1.03 1.03 0 0 1 1.032-1.031 1.031 1.031 0 0 1 1.031 1.031 1.031 1.031 0 0 1-1.031 1.031 1.032 1.032 0 0 1-1.031-1.035z"
+      fill="#176db6"
+    />
+  </symbol>
+  <symbol
+    id="icon-heart"
+    viewBox="0 0 24.888 23.603"
+    id=".18113133763240907"
+    xmlns="http://www.w3.org/2000/svg"
+  >
+    <path
+      data-name="Path 1434"
+      d="M7.173 0a7.039 7.039 0 0 0-5.062 2.139 7.344 7.344 0 0 0-.439 9.817l8.746 10.683a2.636 2.636 0 0 0 2.027.964 2.631 2.631 0 0 0 2.024-.964l8.746-10.683a7.34 7.34 0 0 0-.439-9.817A7.039 7.039 0 0 0 17.714 0a7.052 7.052 0 0 0-5.062 2.136l-.207.213-.209-.21A7.041 7.041 0 0 0 7.173 0z"
+      fill="currentColor"
+    />
+  </symbol>
+  <symbol
+    id="icon-presentation"
+    viewBox="0 0 14 14"
+    id=".8319640858895416"
+    xmlns="http://www.w3.org/2000/svg"
+  >
+    <path data-name="Rectangle 1840" fill="none" d="M0 0h14v14H0z" />
+    <path
+      data-name="Path 1422"
+      d="M11.666 1.75H2.333A1.751 1.751 0 0 0 .583 3.5v5.25a1.751 1.751 0 0 0 1.75 1.75h9.333a1.751 1.751 0 0 0 1.75-1.75V3.5a1.751 1.751 0 0 0-1.75-1.75m.583 7a.584.584 0 0 1-.583.583H2.333a.584.584 0 0 1-.583-.583V3.5a.584.584 0 0 1 .583-.583h9.333a.584.584 0 0 1 .583.583zm-2.916 2.625v.583a.292.292 0 0 1-.292.292H4.958a.292.292 0 0 1-.292-.292v-.583a.292.292 0 0 1 .292-.292h4.083a.292.292 0 0 1 .292.292m-.728-5.5a.292.292 0 0 1 0 .5l-2.63 1.536a.292.292 0 0 1-.439-.252V4.591a.292.292 0 0 1 .439-.251z"
+      fill="#176db6"
+    />
+  </symbol>
+  <symbol
+    id="icon-realty"
+    viewBox="0 0 9 8"
+    id=".5819709887879159"
+    xmlns="http://www.w3.org/2000/svg"
+  >
+    <path
+      d="M8 8V5h1v3zM6 8V3h1v5zM4 8V0h1v8zM2 8V3h1v5zM0 8V5h1v3z"
+      fill="#202020"
+    />
+  </symbol>
+  <symbol id="mono-icon-pinterest" viewBox="0 0 512 512">
+    <g>
+      <path
+        d="M256,32C132.3,32,32,132.3,32,256c0,91.7,55.2,170.5,134.1,205.2c-0.6-15.6-0.1-34.4,3.9-51.4
+                c4.3-18.2,28.8-122.1,28.8-122.1s-7.2-14.3-7.2-35.4c0-33.2,19.2-58,43.2-58c20.4,0,30.2,15.3,30.2,33.6
+                c0,20.5-13.1,51.1-19.8,79.5c-5.6,23.8,11.9,43.1,35.4,43.1c42.4,0,71-54.5,71-119.1c0-49.1-33.1-85.8-93.2-85.8
+                c-67.9,0-110.3,50.7-110.3,107.3c0,19.5,5.8,33.3,14.8,43.9c4.1,4.9,4.7,6.9,3.2,12.5c-1.1,4.1-3.5,14-4.6,18
+                c-1.5,5.7-6.1,7.7-11.2,5.6c-31.3-12.8-45.9-47-45.9-85.6c0-63.6,53.7-139.9,160.1-139.9c85.5,0,141.8,61.9,141.8,128.3
+                c0,87.9-48.9,153.5-120.9,153.5c-24.2,0-46.9-13.1-54.7-27.9c0,0-13,51.6-15.8,61.6c-4.7,17.3-14,34.5-22.5,48
+                c20.1,5.9,41.4,9.2,63.5,9.2c123.7,0,224-100.3,224-224C480,132.3,379.7,32,256,32z"
+      ></path>
+    </g>
+  </symbol>
+  <symbol
+    id="action-icon-pinterest"
+    viewBox="0 0 30 30"
+    xmlns="http://www.w3.org/1999/xlink"
+  >
+    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+      <g transform="translate(-135.000000, -526.000000)">
+        <g transform="translate(100.000000, 526.000000)">
+          <g transform="translate(35.000000, 0.000000)">
+            <circle fill="#BD081C" cx="15" cy="15" r="15" />
+            <path
+              d="M10.125,13.6640625 C10.125,13.1015597 10.2226553,12.5716171 10.4179687,12.0742188 C10.6132822,11.5768204
+                            10.8828108,11.143231 11.2265625,10.7734375 C11.5703142,10.403644 11.9661436,10.0833347 12.4140625,9.8125
+                            C12.8619814,9.54166531 13.3437474,9.33854234 13.859375,9.203125 C14.3750026,9.06770766 14.901039,9 15.4375,9
+                            C16.2604208,9 17.0260381,9.17317535 17.734375,9.51953125 C18.4427119,9.86588715 19.018227,10.3697884
+                            19.4609375,11.03125 C19.903648,11.6927116 20.125,12.4401 20.125,13.2734375 C20.125,13.77344 20.0755213,14.2630184
+                            19.9765625,14.7421875 C19.8776037,15.2213566 19.7213552,15.6822895 19.5078125,16.125 C19.2942698,16.5677105
+                            19.0338557,16.9570296 18.7265625,17.2929688 C18.4192693,17.6289079 18.0416689,17.8971344 17.59375,18.0976562
+                            C17.1458311,18.2981781 16.6536485,18.3984375 16.1171875,18.3984375 C15.7630191,18.3984375 15.4114601,18.315105
+                            15.0625,18.1484375 C14.7135399,17.98177 14.4635424,17.7526056 14.3125,17.4609375 C14.2604164,17.6640635
+                            14.1875005,17.9570293 14.09375,18.3398438 C13.9999995,18.7226582 13.9388022,18.9700515 13.9101562,19.0820312
+                            C13.8815103,19.194011 13.8281254,19.378905 13.75,19.6367188 C13.6718746,19.8945325 13.604167,20.0794265
+                            13.546875,20.1914062 C13.489583,20.303386 13.4062505,20.4661448 13.296875,20.6796875 C13.1874995,20.8932302
+                            13.067709,21.0950511 12.9375,21.2851562 C12.807291,21.4752614 12.6458343,21.7005195 12.453125,21.9609375
+                            L12.34375,22 L12.2734375,21.921875 C12.1953121,21.1041626 12.15625,20.6145841 12.15625,20.453125
+                            C12.15625,19.9739559 12.212239,19.4362009 12.3242187,18.8398438 C12.4361985,18.2434866 12.6093738,17.4947962
+                            12.84375,16.59375 C13.0781262,15.6927038 13.2135415,15.1640633 13.25,15.0078125 C13.0833325,14.6692691
+                            13,14.2291694 13,13.6875 C13,13.2552062 13.1354153,12.8489602 13.40625,12.46875 C13.6770847,12.0885398
+                            14.0208312,11.8984375 14.4375,11.8984375 C14.7552099,11.8984375 15.0026033,12.0039052 15.1796875,12.2148438
+                            C15.3567717,12.4257823 15.4453125,12.6927067 15.4453125,13.015625 C15.4453125,13.3593767 15.3307303,13.8567676
+                            15.1015625,14.5078125 C14.8723947,15.1588574 14.7578125,15.6458317 14.7578125,15.96875 C14.7578125,16.2968766
+                            14.8749988,16.5690093 15.109375,16.7851562 C15.3437512,17.0013032 15.6276025,17.109375 15.9609375,17.109375
+                            C16.2473973,17.109375 16.5130196,17.0442715 16.7578125,16.9140625 C17.0026054,16.7838535 17.2070304,16.606772
+                            17.3710937,16.3828125 C17.5351571,16.158853 17.6809889,15.9114597 17.8085937,15.640625 C17.9361986,15.3697903
+                            18.0351559,15.0820328 18.1054687,14.7773438 C18.1757816,14.4726547 18.2278644,14.1835951 18.2617187,13.9101562
+                            C18.2955731,13.6367174 18.3125,13.3776054 18.3125,13.1328125 C18.3125,12.2317663 18.0273466,11.5299504
+                            17.4570312,11.0273438 C16.8867159,10.5247371 16.1432337,10.2734375 15.2265625,10.2734375 C14.1848906,10.2734375
+                            13.3151077,10.6106737 12.6171875,11.2851562 C11.9192673,11.9596388 11.5703125,12.815099 11.5703125,13.8515625
+                            C11.5703125,14.0807303 11.6028643,14.3020823 11.6679687,14.515625 C11.7330732,14.7291677 11.803385,14.8984369
+                            11.8789062,15.0234375 C11.9544275,15.1484381 12.0247393,15.2669265 12.0898437,15.3789062 C12.1549482,15.490886
+                            12.1875,15.5703123 12.1875,15.6171875 C12.1875,15.7630216 12.1484379,15.9531238 12.0703125,16.1875
+                            C11.9921871,16.4218762 11.8958339,16.5390625 11.78125,16.5390625 C11.7708333,16.5390625 11.7265629,16.5312501
+                            11.6484375,16.515625 C11.3828112,16.4374996 11.1471364,16.2916677 10.9414062,16.078125 C10.7356761,15.8645823
+                            10.5768235,15.618491 10.4648437,15.3398438 C10.352864,15.0611965 10.2682295,14.7799493 10.2109375,14.4960938
+                            C10.1536455,14.2122382 10.125,13.9348972 10.125,13.6640625 Z"
+              fill="#FFFFFF"
+            />
+          </g>
+        </g>
+      </g>
+    </g>
+  </symbol>
+  <symbol
+    id="icon-fullscreen"
+    xmlns="http://www.w3.org/2000/svg"
+    fill="white"
+    viewBox="0 0 1024 1024"
+  >
+    <path
+      d="M290 236.4l43.9-43.9a8.01 8.01 0 0 0-4.7-13.6L169 160c-5.1-.6-9.5 3.7-8.9 8.9L179 329.1c.8 6.6 8.9 9.4 13.6 4.7l43.7-43.7L370 423.7c3.1 3.1 8.2 3.1 11.3 0l42.4-42.3c3.1-3.1 3.1-8.2 0-11.3L290 236.4zm352.7 187.3c3.1 3.1 8.2 3.1 11.3 0l133.7-133.6 43.7 43.7a8.01 8.01 0 0 0 13.6-4.7L863.9 169c.6-5.1-3.7-9.5-8.9-8.9L694.8 179c-6.6.8-9.4 8.9-4.7 13.6l43.9 43.9L600.3 370a8.03 8.03 0 0 0 0 11.3l42.4 42.4zM845 694.9c-.8-6.6-8.9-9.4-13.6-4.7l-43.7 43.7L654 600.3a8.03 8.03 0 0 0-11.3 0l-42.4 42.3a8.03 8.03 0 0 0 0 11.3L734 787.6l-43.9 43.9a8.01 8.01 0 0 0 4.7 13.6L855 864c5.1.6 9.5-3.7 8.9-8.9L845 694.9zm-463.7-94.6a8.03 8.03 0 0 0-11.3 0L236.3 733.9l-43.7-43.7a8.01 8.01 0 0 0-13.6 4.7L160.1 855c-.6 5.1 3.7 9.5 8.9 8.9L329.2 845c6.6-.8 9.4-8.9 4.7-13.6L290 787.6 423.7 654c3.1-3.1 3.1-8.2 0-11.3l-42.4-42.4z"
+    />
+  </symbol>
+  <symbol id="mono-icon-tumblr" viewBox="0 0 512 512">
+    <g>
+      <path
+        d="M321.2,396.3c-11.8,0-22.4-2.8-31.5-8.3c-6.9-4.1-11.5-9.6-14-16.4c-2.6-6.9-3.6-22.3-3.6-46.4V224h96v-64h-96V48h-61.9
+                c-2.7,21.5-7.5,44.7-14.5,58.6c-7,13.9-14,25.8-25.6,35.7c-11.6,9.9-25.6,17.9-41.9,23.3V224h48v140.4c0,19,2,33.5,5.9,43.5
+                c4,10,11.1,19.5,21.4,28.4c10.3,8.9,22.8,15.7,37.3,20.5c14.6,4.8,31.4,7.2,50.4,7.2c16.7,0,30.3-1.7,44.7-5.1
+                c14.4-3.4,30.5-9.3,48.2-17.6v-65.6C363.2,389.4,342.3,396.3,321.2,396.3z"
+      ></path>
+    </g>
+  </symbol>
+  <symbol id="mono-icon-twitter" viewBox="0 0 24 24">
+    <path
+      d="M19.725,7.985v.528c-.02563,6.29599-5.15032,11.37913-11.44631,11.3535-2.13408-.00869-4.22287-.61623-6.02869-1.7535h.975c1.79657-.00471,3.53961-.61213,4.95-1.725-1.71844-.01712-3.23128-1.13663-3.75-2.775,.59802,.11046,1.21324,.08482,1.8-.075-1.87057-.35939-3.22327-1.99522-3.225-3.9h0c.55067,.31339,1.16719,.49321,1.8,.525-1.75843-1.20394-2.28302-3.56463-1.2-5.4,2.02608,2.51138,5.02724,4.03924,8.25,4.2-.05563-.29666-.08076-.59823-.075-.9-.04657-2.19484,1.69495-4.01186,3.88979-4.05842,1.14113-.02421,2.23761,.44328,3.01021,1.28342,.89986-.17553,1.76258-.50539,2.55-.975-.3039,.9453-.94447,1.74601-1.8,2.25,.8046-.10821,1.58836-.33676,2.325-.678-.54363,.81575-1.22955,1.52708-2.025,2.1Z"
+    />
+  </symbol>
+  <symbol
+    id="action-icon-twitter"
+    viewBox="0 0 30 30"
+    xmlns="http://www.w3.org/2000/svg"
+  >
+    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+      <g transform="translate(-170.000000, -526.000000)">
+        <g transform="translate(100.000000, 526.000000)">
+          <g transform="translate(70.000000, 0.000000)">
+            <circle fill="#1DA1F2" cx="15" cy="15" r="15" />
+            <g transform="translate(9.000000, 10.000000)" fill="#FFFFFF">
+              <path
+                d="M10.5859761,1.45966124 C11.0943048,1.17128539 11.4846922,0.714562198 11.6684736,0.170424684
+                            C11.1928015,0.43748706 10.6659497,0.631385646 10.1051245,0.735917217 C9.65605179,0.28301632 9.01621859,0
+                            8.30813124,0 C6.94840338,0 5.84610995,1.04340456 5.84610995,2.33027296 C5.84610995,2.51295392 5.86788105,2.69077393
+                            5.90984308,2.86132325 C3.86375508,2.76414545 2.04968726,1.83640698 0.835421925,0.42656027 C0.623504883,0.770733376
+                            0.502095907,1.17103611 0.502095907,1.59809494 C0.502095907,2.40655275 0.936727752,3.119827 1.59732251,3.53774555
+                            C1.19376715,3.52565545 0.814133655,3.42079151 0.482212224,3.2462537 C0.482036651,3.25597563 0.481992758,3.26573911
+                            0.481992758,3.27554414 C0.481992758,4.40461806 1.33062658,5.34648241 2.45688577,5.56057271 C2.25027982,5.61379407
+                            2.03278832,5.64225358 1.80827389,5.64225358 C1.64959947,5.64225358 1.49540217,5.62767068 1.34506749,5.60045757
+                            C1.65837814,6.52628488 2.56758477,7.20000665 3.64490289,7.21886886 C2.80228245,7.84385631 1.74076594,8.21636429
+                            0.587292878,8.21636429 C0.388587732,8.21636429 0.192603972,8.2053544 0,8.1838332 C1.08956436,8.84500785
+                            2.38362778,9.23076923 3.7739493,9.23076923 C8.30238121,9.23076923 10.7786678,5.67993646 10.7786678,2.60049288
+                            C10.7786678,2.49945124 10.7762537,2.3989497 10.7715571,2.29902981 C11.2525403,1.97047828 11.6699221,1.56003814
+                            12,1.09272053 C11.5584769,1.27806049 11.0840338,1.40336542 10.5859761,1.45966124 Z"
+              />
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </symbol>
+  <symbol id="mono-icon-youtube" viewBox="0 0 24 24">
+    <path
+      d="M12.00195,19.79309h0c-.23499,0-5.771-.05701-7.47803-.22302-.08606-.01599-.18994-.02905-.30005-.04199-.79626-.02869-1.55371-.35156-2.12598-.90601-.46936-.64941-.76978-1.40552-.87402-2.19995-.13647-1.19128-.20996-2.38892-.21997-3.58801v-1.68201c.01001-1.19934,.08337-2.39734,.21997-3.58899,.10461-.79443,.40491-1.55029,.87402-2.19995,.54248-.56348,1.28235-.89465,2.06396-.92395l.14001-.01501c3.04297-.22205,7.65002-.224,7.69995-.224h.00903c.04602,0,4.65405,0,7.69995,.224l.12195,.01294h.01794c.78235,.02881,1.52295,.36011,2.06604,.92395,.46912,.64954,.76941,1.40552,.87402,2.19995,.1355,1.19165,.20862,2.38965,.21899,3.58899v1.68201c-.01038,1.19873-.0835,2.396-.21899,3.58704-.10425,.79456-.40454,1.55054-.87402,2.19995-.5426,.5647-1.28345,.89648-2.06604,.92505h-.00598l-.13403,.01404c-3.00879,.22192-7.51978,.23499-7.70874,.23499Zm-2.30005-10.96704v6.24304l5.84595-3.18396-5.84595-3.06006v.00098Z"
+    />
+  </symbol>
+  <symbol id="icon-checkmark-rm" viewBox="0 0 448 512">
+    <path
+      d="M438.6 105.4C451.1 117.9 451.1 138.1 438.6 150.6L182.6 406.6C170.1 419.1 149.9 419.1 137.4 406.6L9.372 278.6C-3.124 266.1-3.124 245.9 9.372 233.4C21.87 220.9 42.13 220.9 54.63 233.4L159.1 338.7L393.4 105.4C405.9 92.88 426.1 92.88 438.6 105.4H438.6z"
+    />
+  </symbol>
+  <symbol id="icon-close-rm" viewBox="0 0 320 512">
+    <path
+      d="M310.6 361.4c12.5 12.5 12.5 32.75 0 45.25C304.4 412.9 296.2 416 288 416s-16.38-3.125-22.62-9.375L160 301.3L54.63 406.6C48.38 412.9 40.19 416 32 416S15.63 412.9 9.375 406.6c-12.5-12.5-12.5-32.75 0-45.25l105.4-105.4L9.375 150.6c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0L160 210.8l105.4-105.4c12.5-12.5 32.75-12.5 45.25 0s12.5 32.75 0 45.25l-105.4 105.4L310.6 361.4z"
+    />
+  </symbol>
+  <symbol id="icon-checkmark" viewBox="0 0 14 14">
+    <g stroke="none" stroke-width="1" fill-rule="evenodd">
+      <g transform="translate(-1071.000000, -4899.000000)" fill="#202020">
+        <g id="Commits_Panel5" transform="translate(0.000000, 3945.000000)">
+          <g id="Group-Copy" transform="translate(1069.000000, 360.000000)">
+            <g
+              id="Desktop/Content/Proofpoint_Small-Copy-2"
+              transform="translate(0.000000, 577.000000)"
+            >
+              <g
+                id="desktop/icon/bullet/check/blk"
+                transform="translate(0.000000, 13.000000)"
+              >
+                <g
+                  id="noun_1043025_202020"
+                  transform="translate(2.000000, 4.000000)"
+                >
+                  <polygon
+                    id="Shape"
+                    fill-rule="nonzero"
+                    points="5.47894737 11.4705882 0 5.68527702 1.34210526 4.26812585 5.47894737 8.63628591 13.6578947 0 15 1.41715116"
+                  >
+                  </polygon>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </symbol>
+  <symbol
+    id="icon-magnify"
+    viewBox="0 0 30 30"
+    xmlns="http://www.w3.org/2000/svg"
+  >
+    <path
+      d="M21.876 18.281l-.314.548L30 27.343 27.343 30l-8.437-8.516-.546.392c-2.083 1.3-4.245 1.951-6.486 1.951-3.28 0-6.08-1.171-8.398-3.515C1.16 17.968 0 15.156 0 11.874c0-3.28 1.159-6.08 3.476-8.398C5.794 1.16 8.595 0 11.876 0c3.282 0 6.079 1.159 8.398 3.476 2.318 2.318 3.477 5.119 3.477 8.4a11.786 11.786 0 0 1-1.875 6.405zm-3.36-13.046c-1.823-1.824-4.037-2.736-6.642-2.736-2.604 0-4.818.912-6.639 2.736-1.824 1.822-2.736 4.035-2.736 6.64 0 2.606.912 4.818 2.736 6.64 1.822 1.823 4.035 2.734 6.64 2.734 2.606 0 4.818-.91 6.64-2.733 1.876-1.875 2.813-4.088 2.813-6.642 0-2.55-.937-4.764-2.812-6.639z"
+      fill-rule="evenodd"
+    />
+  </symbol>
+  <svg id="burger-menu" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+    <path
+      d="M20.688,5.5v1c0,.27614-.22386,.5-.5,.5H3.811c-.27614,0-.5-.22386-.5-.5v-1c0-.27614,.22386-.5,.5-.5H20.188c.27614,0,.5,.22386,.5,.5m-.5,11.5H3.811c-.27614,0-.5,.22386-.5,.5v1c0,.27614,.22386,.5,.5,.5H20.188c.27614,0,.5-.22386,.5-.5v-1c0-.27614-.22386-.5-.5-.5m0-6H3.811c-.27614,0-.5,.22386-.5,.5v1c0,.27614,.22386,.5,.5,.5H20.188c.27614,0,.5-.22386,.5-.5v-1c0-.27614-.22386-.5-.5-.5"
+    />
+  </svg>
+  <symbol
+    id="burger-menu-close"
+    xmlns="http://www.w3.org/2000/svg"
+    viewBox="0 0 24 24"
+  >
+    <path
+      d="M18.354,6.354l-.708-.708c-.19514-.19453-.51086-.19453-.706,0l-4.94,4.94L7.061,5.646c-.19525-.19519-.51175-.19519-.707,0l-.707,.708c-.19519,.19525-.19519,.51175,0,.707l4.939,4.939-4.939,4.94c-.19519,.19525-.19519,.51175,0,.707l.707,.707c.19525,.19519,.51175,.19519,.707,0l4.939-4.939,4.94,4.939c.19514,.19452,.51086,.19452,.706,0l.708-.707c.19519-.19525,.19519-.51175,0-.707l-4.939-4.94,4.939-4.939c.19519-.19525,.19519-.51175,0-.707"
+    />
+  </symbol>
+  <symbol id="close-x" viewBox="0 0 14 14" xmlns="http://www.w3.org/2000/svg">
+    <g>
+      <path
+        fill-rule="nonzero"
+        d="M6.336 7L0 .664.664 0 7 6.336 13.336 0 14 .664 7.664 7 14 13.336l-.664.664L7 7.664.664 14 0 13.336 6.336 7z"
+      >
+      </path>
+    </g>
+  </symbol>
+  <symbol
+    id="download"
+    xmlns="http://www.w3.org/2000/svg"
+    width="24"
+    height="24"
+    viewBox="0 0 24 24"
+  >
+    <g fill="none" fill-rule="evenodd">
+      <g>
+        <g>
+          <g>
+            <path
+              d="M0 0H24V24H0z"
+              transform="translate(-802.000000, -1914.000000) translate(0.000000, 1756.000000) translate(802.000000, 158.000000)"
+            />
+            <path
+              fill="#000"
+              fill-rule="nonzero"
+              d="M12 2C6.49 2 2 6.49 2 12s4.49 10 10 10 10-4.49 10-10S17.51 2 12 2zm-1 8V6h2v4h3l-4 4-4-4h3zm6 7H7v-2h10v2z"
+              transform="translate(-802.000000, -1914.000000) translate(0.000000, 1756.000000) translate(802.000000, 158.000000)"
+            />
+          </g>
+        </g>
+      </g>
+    </g>
+  </symbol>
+  <symbol
+    id="share-more-arrow"
+    viewBox="0 0 512 512"
+    style="enable-background:new 0 0 512 512;"
+  >
+    <g>
+      <g>
+        <path
+          d="M512,241.7L273.643,3.343v156.152c-71.41,3.744-138.015,33.337-188.958,84.28C30.075,298.384,0,370.991,0,448.222v60.436
+                    l29.069-52.985c45.354-82.671,132.173-134.027,226.573-134.027c5.986,0,12.004,0.212,18.001,0.632v157.779L512,241.7z
+                    M255.642,290.666c-84.543,0-163.661,36.792-217.939,98.885c26.634-114.177,129.256-199.483,251.429-199.483h15.489V78.131
+                    l163.568,163.568L304.621,405.267V294.531l-13.585-1.683C279.347,291.401,267.439,290.666,255.642,290.666z"
+        >
+        </path>
+      </g>
+    </g>
+  </symbol>
+  <symbol id="chevron" viewBox="0 0 100 100">
+    <g>
+      <path
+        d="M22.4566257,37.2056786 L-21.4456527,71.9511488 C-22.9248661,72.9681457 -24.9073712,72.5311671 -25.8758148,70.9765924 L-26.9788683,69.2027424 C-27.9450684,67.6481676 -27.5292733,65.5646602 -26.0500598,64.5484493 L20.154796,28.2208967 C21.5532435,27.2597011 23.3600078,27.2597011 24.759951,28.2208967 L71.0500598,64.4659264 C72.5292733,65.4829232 72.9450684,67.5672166 71.9788683,69.1217913 L70.8750669,70.8956413 C69.9073712,72.4502161 67.9241183,72.8848368 66.4449048,71.8694118 L22.4566257,37.2056786 Z"
+        id="Transparent-Chevron"
+        transform="translate(22.500000, 50.000000) rotate(90.000000) translate(-22.500000, -50.000000) "
+      ></path>
+    </g>
+  </symbol>
+  <symbol
+    id="chevron-down"
+    viewBox="0 0 10 6"
+    xmlns="http://www.w3.org/2000/svg"
+  >
+    <path
+      d="M5.108 4.088L.965.158a.587.587 0 0 0-.8 0 .518.518 0 0 0 0 .758L5.13 5.625 9.845.905a.517.517 0 0 0-.021-.758.588.588 0 0 0-.8.02l-3.916 3.92z"
+      fill-rule="evenodd"
+    />
+  </symbol>
+  <symbol
+    id="chevron-up-nav"
+    xmlns="http://www.w3.org/2000/svg"
+    viewBox="0 0 24 24"
+  >
+    <path
+      d="M6.354,15.25c.19525,.19519,.51175,.19519,.707,0l5.293-5.293-.354-.357v.5c.13284-.00003,.26021-.05292,.354-.147l-.354-.353h0l-.353,.353c.09354,.09384,.2205,.14671,.353,.147v-.5l-.353,.353,5.293,5.297c.19525,.19519,.51175,.19519,.707,0l.707-.707c.19519-.19525,.19519-.51175,0-.707l-5.293-5.293c-.58575-.58557-1.53525-.58557-2.121,0l-5.294,5.293c-.19519,.19525-.19519,.51175,0,.707l.708,.707Z"
+    />
+  </symbol>
+  <symbol
+    id="chevron-up"
+    viewBox="0 0 284.929 284.929"
+    xmlns="http://www.w3.org/2000/svg"
+  >
+    <path
+      d="M282.082 195.285L149.028 62.24c-1.901-1.903-4.088-2.856-6.562-2.856s-4.665.953-6.567 2.856L2.856 195.285C.95 197.191 0 199.378 0 201.853c0 2.474.953 4.664 2.856 6.566l14.272 14.271c1.903 1.903 4.093 2.854 6.567 2.854s4.664-.951 6.567-2.854l112.204-112.202 112.208 112.209c1.902 1.903 4.093 2.848 6.563 2.848 2.478 0 4.668-.951 6.57-2.848l14.274-14.277c1.902-1.902 2.847-4.093 2.847-6.566.001-2.476-.944-4.666-2.846-6.569z"
+    />
+  </symbol>
+  <symbol
+    id="icon-arrow-down"
+    viewBox="0 0 10 6"
+    xmlns="http://www.w3.org/2000/svg"
+  >
+    <path
+      d="M5.108 4.088L.965.158a.587.587 0 0 0-.8 0 .518.518 0 0 0 0 .758L5.13 5.625 9.845.905a.517.517 0 0 0-.021-.758.588.588 0 0 0-.8.02l-3.916 3.92z"
+      fill="inherit"
+      fill-rule="evenodd"
+    />
+  </symbol>
+  <symbol id="icon-arrow-right" viewBox="0 0 21 15" height="15px" width="21px">
+    <path
+      d="M13.086.207C12.956.074 12.778 0 12.593 0s-.363.074-.493.207c-.133.132-.208.312-.208.5s.075.368.208.5l5.564 5.609H.707c-.189-.004-.371.069-.504.202-.134.134-.207.316-.203.504 0 .39.316.707.707.707h16.957L12.1 13.793c-.133.133-.208.313-.208.5 0 .188.075.368.208.5.134.132.313.206.5.207.187-.004.365-.078.5-.206l6.772-6.771c.133-.133.208-.313.208-.5 0-.188-.075-.369-.208-.501L13.086.207z"
+    >
+    </path>
+  </symbol>
+  <symbol id="play-arrow" viewBox="0 0 30 30">
+    <g fill-rule="evenodd">
+      <path d="M9 9l12 6-12 6z"></path>
+    </g>
+  </symbol>
+  <symbol id="icon-info-circle" viewBox="0 0 512 512">
+    <path
+      fill="currentColor"
+      d="M256 40c118.621 0 216 96.075 216 216 0 119.291-96.61 216-216 216-119.244 0-216-96.562-216-216 0-119.203 96.602-216 216-216m0-32C119.043 8 8 119.083 8 256c0 136.997 111.043 248 248 248s248-111.003 248-248C504 119.083 392.957 8 256 8zm-36 344h12V232h-12c-6.627 0-12-5.373-12-12v-8c0-6.627 5.373-12 12-12h48c6.627 0 12 5.373 12 12v140h12c6.627 0 12 5.373 12 12v8c0 6.627-5.373 12-12 12h-72c-6.627 0-12-5.373-12-12v-8c0-6.627 5.373-12 12-12zm36-240c-17.673 0-32 14.327-32 32s14.327 32 32 32 32-14.327 32-32-14.327-32-32-32z"
+    >
+    </path>
+  </symbol>
+  <symbol id="play-icon" viewBox="0 0 50 50" xmlns="http://www.w3.org/2000/svg">
+    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+      <g transform="translate(-341.000000, -11574.000000)" fill-rule="nonzero">
+        <g transform="translate(320.000000, 11422.000000)">
+          <g transform="translate(21.000000, 152.000000)">
+            <circle id="Oval" fill="#FFFFFF" cx="25" cy="25" r="24" />
+            <path
+              d="M25,0 C11.2,0 0,11.2 0,25 C0,38.8 11.2,50 25,50 C38.8,50 50,38.8 50,25 C50,11.2 38.8,0 25,0 Z"
+              fill="#EE0120"
+            />
+            <polygon fill="#FFFFFF" points="18 36.25 18 13.75 33 25" />
+          </g>
+        </g>
+      </g>
+    </g>
+  </symbol>
+  <symbol id="grid" viewBox="0 0 32 32">
+    <g>
+      <path
+        d="M6.4,5.7 C6.4,6.166669 6.166669,6.4 5.7,6.4 L0.7,6.4 C0.233331,6.4 0,6.166669 0,5.7 L0,0.7 C0,0.233331 0.233331,0 0.7,0 L5.7,0 C6.166669,0 6.4,0.233331 6.4,0.7 L6.4,5.7 Z M19.2,5.7 C19.2,6.166669 18.966669,6.4 18.5,6.4 L13.5,6.4 C13.033331,6.4 12.8,6.166669 12.8,5.7 L12.8,0.7 C12.8,0.233331 13.033331,0 13.5,0 L18.5,0 C18.966669,0 19.2,0.233331 19.2,0.7 L19.2,5.7 Z M32,5.7 C32,6.166669 31.766669,6.4 31.3,6.4 L26.3,6.4 C25.833331,6.4 25.6,6.166669 25.6,5.7 L25.6,0.7 C25.6,0.233331 25.833331,0 26.3,0 L31.3,0 C31.766669,0 32,0.233331 32,0.7 L32,5.7 Z M6.4,18.5 C6.4,18.966669 6.166669,19.2 5.7,19.2 L0.7,19.2 C0.233331,19.2 0,18.966669 0,18.5 L0,13.5 C0,13.033331 0.233331,12.8 0.7,12.8 L5.7,12.8 C6.166669,12.8 6.4,13.033331 6.4,13.5 L6.4,18.5 Z M19.2,18.5 C19.2,18.966669 18.966669,19.2 18.5,19.2 L13.5,19.2 C13.033331,19.2 12.8,18.966669 12.8,18.5 L12.8,13.5 C12.8,13.033331 13.033331,12.8 13.5,12.8 L18.5,12.8 C18.966669,12.8 19.2,13.033331 19.2,13.5 L19.2,18.5 Z M32,18.5 C32,18.966669 31.766669,19.2 31.3,19.2 L26.3,19.2 C25.833331,19.2 25.6,18.966669 25.6,18.5 L25.6,13.5 C25.6,13.033331 25.833331,12.8 26.3,12.8 L31.3,12.8 C31.766669,12.8 32,13.033331 32,13.5 L32,18.5 Z M6.4,31.3 C6.4,31.766669 6.166669,32 5.7,32 L0.7,32 C0.233331,32 0,31.766669 0,31.3 L0,26.3 C0,25.833331 0.233331,25.6 0.7,25.6 L5.7,25.6 C6.166669,25.6 6.4,25.833331 6.4,26.3 L6.4,31.3 Z M19.2,31.3 C19.2,31.766669 18.966669,32 18.5,32 L13.5,32 C13.033331,32 12.8,31.766669 12.8,31.3 L12.8,26.3 C12.8,25.833331 13.033331,25.6 13.5,25.6 L18.5,25.6 C18.966669,25.6 19.2,25.833331 19.2,26.3 L19.2,31.3 Z M32,31.3 C32,31.766669 31.766669,32 31.3,32 L26.3,32 C25.833331,32 25.6,31.766669 25.6,31.3 L25.6,26.3 C25.6,25.833331 25.833331,25.6 26.3,25.6 L31.3,25.6 C31.766669,25.6 32,25.833331 32,26.3 L32,31.3 Z"
+        id=""
+      ></path>
+    </g>
+  </symbol>
+  <symbol id="filter" viewBox="0 0 16 12">
+    <path d="M0 2V0h16v2H0zm2.4 5V5h11.2v2H2.4zm2.4 5v-2h6.4v2H4.8z"></path>
+  </symbol>
+  <symbol id="icon-filter" viewBox="0 0 512 512">
+    <path
+      fill="currentColor"
+      d="M487.976 0H24.028C2.71 0-8.047 25.866 7.058 40.971L192 225.941V432c0 7.831 3.821 15.17 10.237 19.662l80 55.98C298.02 518.69 320 507.493 320 487.98V225.941l184.947-184.97C520.021 25.896 509.338 0 487.976 0z"
+    >
+    </path>
+  </symbol>
+  <symbol id="icon-radio-on" viewBox="0 0 24 24">
+    <path
+      fill="currentColor"
+      fill-rule="nonzero"
+      d="M12 7c-2.76 0-5 2.24-5 5s2.24 5 5 5 5-2.24 5-5-2.24-5-5-5zm0-5C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8z"
+    />
+  </symbol>
+  <symbol id="icon-radio-off" viewBox="0 0 24 24">
+    <path
+      fill="currentColor"
+      fill-rule="nonzero"
+      d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8z"
+    />
+  </symbol>
+  <symbol id="icon-pause" viewBox="0 0 13 16">
+    <rect width="4.636" height="16" rx="2.318" />
+    <rect width="4.636" height="16" x="7.727" rx="2.318" />
+  </symbol>
+  <symbol id="icon-plus" viewBox="0 0 14 14" height="14px" width="14px">
+    <path
+      d="M13, 6H8V1A1, 1, 0, 0, 0, 6, 1V6H1A1, 1, 0, 0, 0, 1, 8H6v5a1, 1, 0, 0, 0, 2, 0V8h5a1, 1, 0, 0, 0, 0-2Z"
+    />
+  </symbol>
+  <symbol id="icon-minus" viewBox="0 0 14 14" height="14px" width="14px">
+    <path d="M13, 8H1A1, 1, 0, 0, 1, 1, 6H13a1, 1, 0, 0, 1, 0, 2Z" />
+  </symbol>
+  <symbol id="amazon-alexa" fill="none" viewBox="0 0 14 14">
+    <path
+      clip-rule="evenodd"
+      d="m52.4998 105c-28.9946 0-52.4998-23.5055-52.4998-52.5003 0-26.6214 19.8151-48.61142 45.5003-52.03433v10.57883c0 2.9832-1.8814 5.6636-4.7091 6.6127-14.8197 4.9787-25.4216 19.1433-25.0311 35.7287.4754 20.1911 16.923 36.0663 37.1187 35.8628 20.122-.2035 36.3714-16.5785 36.3714-36.7487 0-.4597-.0113-.9172-.0283-1.3721-.004-.102-.0072-.2048-.0113-.307-.0194-.4228-.0452-.8446-.0784-1.2639-.0097-.1335-.0234-.2666-.0355-.3998-.0259-.2928-.0558-.5837-.0889-.8739-.0372-.3297-.08-.6576-.1261-.9838-.0202-.1492-.0404-.2988-.063-.4467-4.4995-29.6389-43.1025-46.296896-43.3144-46.388077 2.2893-.304462 4.6239-.464423 6.9955-.464423 28.9951 0 52.5002 23.5048 52.5002 52.4997 0 28.9948-23.5051 52.5003-52.5002 52.5003z"
+      fill="#5fcaf4"
+      fill-rule="evenodd"
+      transform="matrix(.133333 0 0 -.133333 0 14)"
+    />
+  </symbol>
+  <symbol id="apple" viewBox="0 0 511.86 511.86">
+    <rect fill="#822cbe" width="511.86" height="511.86" rx="113.87" />
+    <path
+      fill="#ffffff"
+      d="M240.44,448.26c-15.27-5.46-18.54-12.88-24.81-56.38-7.28-50.55-8.87-81.84-4.65-91.75,5.59-13.14,20.78-20.6,42-20.68,21.07-.09,36.39,7.44,42,20.68,4.24,9.89,2.65,41.2-4.64,91.75-4.95,35.32-7.67,44.25-14.5,50.25-9.38,8.31-22.69,10.61-35.32,6.14Zm-65.22-51.87c-52.73-25.94-86.51-69.82-98.79-128.2-3.07-15.07-3.59-51-.69-64.84,7.68-37.11,22.36-66.13,46.75-91.79,35.15-37.06,80.37-56.65,130.7-56.65,49.82,0,94.86,19.23,129.16,55.18,26.1,27.13,40.77,55.84,48.28,93.67,2.56,12.59,2.56,46.92.17,61.08a181.4,181.4,0,0,1-69.1,113c-13,9.79-44.7,26.89-49.82,26.89-1.88,0-2.05-1.94-1.19-9.81,1.53-12.63,3.07-15.25,10.23-18.26,11.44-4.77,30.89-18.63,42.83-30.61a163,163,0,0,0,42.82-75.41c4.44-17.57,3.93-56.64-1-74.73C390,138.36,343.1,93.66,285.61,81.72c-16.73-3.42-47.1-3.42-64,0-58.18,11.94-106.29,58.86-121,117.89-3.92,16-3.92,55.11,0,71.15,9.73,39.07,35,74.9,68.08,96.23a147.45,147.45,0,0,0,17.58,10.07c7.16,3.07,8.7,5.63,10.06,18.25.85,7.68.68,9.9-1.19,9.9-1.2,0-9.9-3.75-19.11-8.19ZM175.9,327c-17.75-14.16-33.44-39.28-39.93-63.91-3.92-14.88-3.92-43.17.17-58,10.75-40.06,40.27-71.12,81.22-85.71,14-4.94,45-6,62.27-2.25C339,130.33,381.15,189.79,373,248.77c-3.24,23.77-11.43,43.29-25.93,61.42-7.17,9.16-24.57,24.54-27.64,24.54-.51,0-1-5.8-1-12.87V309l8.88-10.58c33.44-40.06,31.05-96-5.46-132.74-14.16-14.29-30.54-22.69-51.7-26.56-13.65-2.53-16.55-2.53-30.88-.17-21.76,3.55-38.61,12-53.58,26.78C148.94,202,146.55,258.29,180,298.38L188.8,309v13c0,7.17-.57,13-1.27,13s-5.63-3.41-10.92-7.68Zm59.2-69.66c-15.18-7.07-23.37-20.39-23.54-37.76,0-15.61,8.7-29.23,23.71-37.2,9.56-5,26.45-5,36,0a46.34,46.34,0,0,1,22.18,26.85c9.9,33.65-25.76,63.13-58,48.07Z"
+      transform="translate(-0.14 -0.14)"
+    />
+    <circle fill="#ffffff" cx="255.74" cy="221.24" r="42.55" />
+    <path
+      fill="#ffffff"
+      d="M260,280.42a83.61,83.61,0,0,1,14.25,2.9,51.55,51.55,0,0,1,14.26,7.13c3.76,2.73,6.49,5.56,8.19,9s2.56,7.54,3.07,14.25c.34,6.72.34,16-1.19,33.44s-4.61,42.79-7,59.08-4.09,23.55-6.31,28.84a25.82,25.82,0,0,1-18.94,16.55,41,41,0,0,1-9.89.85,42.41,42.41,0,0,1-9.9-.85c-3.92-.86-9-2.39-12.8-5.46-3.92-3.07-6.48-7.51-8.53-13.31s-3.58-12.8-5.63-26.79-4.78-34.8-6.48-50.67-2.39-26.79-2.53-34.13.17-11,1-14.5a28.93,28.93,0,0,1,4.09-9.38,31.14,31.14,0,0,1,6.83-7,27.87,27.87,0,0,1,8-4.3A60.8,60.8,0,0,1,241.35,283c4.43-.85,9.55-1.7,12.18-2.05a13.34,13.34,0,0,1,5.56,0Z"
+      transform="translate(-0.14 -0.14)"
+    />
+  </symbol>
+  <symbol id="google" fill="none" viewBox="0 0 14 14">
+    <path
+      d="m0 0v2.12148.84795 2.12148h1.75v-2.12148-.84795-2.12148z"
+      fill="#fab908"
+      transform="translate(6.125 4.45453)"
+    />
+    <path
+      d="m.875 1.75c.48325 0 .875-.39175.875-.875 0-.483249-.39175-.875-.875-.875-.483249 0-.875.391751-.875.875 0 .48325.391751.875.875.875z"
+      fill="#0066d9"
+      transform="translate(0 5.64764)"
+    />
+    <path
+      d="m.875 1.75c.48325 0 .875-.39175.875-.875 0-.483249-.39175-.875-.875-.875-.483249 0-.875.391751-.875.875 0 .48325.391751.875.875.875z"
+      fill="#0066d9"
+      transform="translate(0 6.60236)"
+    />
+    <path
+      d="m1.75 0h-1.75v.954546h1.75z"
+      fill="#0066d9"
+      transform="translate(0 6.52264)"
+    />
+    <path
+      d="m.875 1.75c.48325 0 .875-.39175.875-.875 0-.483249-.39175-.875-.875-.875-.483249 0-.875.391751-.875.875 0 .48325.391751.875.875.875z"
+      fill="#4285f4"
+      transform="translate(12.25 6.60236)"
+    />
+    <path
+      d="m.875 1.75c.48325 0 .875-.39175.875-.875 0-.483249-.39175-.875-.875-.875-.483249 0-.875.391751-.875.875 0 .48325.391751.875.875.875z"
+      fill="#4285f4"
+      transform="translate(12.25 5.64764)"
+    />
+    <path
+      d="m1.75 0h-1.75v.954546h1.75z"
+      fill="#4285f4"
+      transform="matrix(-1 0 0 -1 14 7.47736)"
+    />
+    <path
+      d="m.875 1.75c.48325 0 .875-.39175.875-.875 0-.483249-.39175-.875-.875-.875-.483249 0-.875.391751-.875.875 0 .48325.391751.875.875.875z"
+      fill="#ea4335"
+      transform="translate(3.02274 8.51141)"
+    />
+    <path
+      d="m.875 1.75c.48325 0 .875-.39175.875-.875 0-.483249-.39175-.875-.875-.875-.483249 0-.875.391751-.875.875 0 .48325.391751.875.875.875z"
+      fill="#ea4335"
+      transform="translate(3.02274 9.46594)"
+    />
+    <path
+      d="m1.75 0h-1.75v.954546h1.75z"
+      fill="#ea4335"
+      transform="translate(3.02274 9.38641)"
+    />
+    <path
+      d="m.875 1.75c.48325 0 .875-.39175.875-.875 0-.483249-.39175-.875-.875-.875-.483249 0-.875.391751-.875.875 0 .48325.391751.875.875.875z"
+      fill="#ea4335"
+      transform="translate(3.02274 2.78406)"
+    />
+    <path
+      d="m.875 1.75c.48325 0 .875-.39175.875-.875 0-.483249-.39175-.875-.875-.875-.483249 0-.875.391751-.875.875 0 .48325.391751.875.875.875z"
+      fill="#ea4335"
+      transform="translate(3.02274 5.88641)"
+    />
+    <path
+      d="m1.75 0h-1.75v3.12216h1.75z"
+      fill="#ea4335"
+      transform="translate(3.02274 3.65906)"
+    />
+    <path
+      d="m.875 1.75c.48325 0 .875-.39175.875-.875 0-.483249-.39175-.875-.875-.875-.483249 0-.875.391751-.875.875 0 .48325.391751.875.875.875z"
+      fill="#34a853"
+      transform="translate(9.22726 3.73859)"
+    />
+    <path
+      d="m.875 1.75c.48325 0 .875-.39175.875-.875 0-.483249-.39175-.875-.875-.875-.483249 0-.875.391751-.875.875 0 .48325.391751.875.875.875z"
+      fill="#34a853"
+      transform="translate(9.22726 2.78406)"
+    />
+    <path
+      d="m1.75 0h-1.75v.954546h1.75z"
+      fill="#34a853"
+      transform="matrix(-1 0 0 -1 10.9773 4.61359)"
+    />
+    <g fill="#fab908">
+      <path
+        d="m.875 1.75c.48325 0 .875-.39175.875-.875 0-.483249-.39175-.875-.875-.875-.483249 0-.875.391751-.875.875 0 .48325.391751.875.875.875z"
+        transform="translate(6.125 .954529)"
+      />
+      <path
+        d="m.875 1.75c.48325 0 .875-.39175.875-.875 0-.483249-.39175-.875-.875-.875-.483249 0-.875.391751-.875.875 0 .48325.391751.875.875.875z"
+        transform="translate(6.125)"
+      />
+      <path
+        d="m1.75 0h-1.75v.954546h1.75z"
+        transform="matrix(-1 0 0 -1 7.875 1.82953)"
+      />
+      <path
+        d="m.875 1.75c.48325 0 .875-.39175.875-.875 0-.483249-.39175-.875-.875-.875-.483249 0-.875.391751-.875.875 0 .48325.391751.875.875.875z"
+        transform="translate(6.125 12.25)"
+      />
+      <path
+        d="m.875 1.75c.48325 0 .875-.39175.875-.875 0-.483249-.39175-.875-.875-.875-.483249 0-.875.391751-.875.875 0 .48325.391751.875.875.875z"
+        transform="translate(6.125 11.2955)"
+      />
+      <path
+        d="m1.75 0h-1.75v.954546h1.75z"
+        transform="matrix(-1 0 0 -1 7.875 13.125)"
+      />
+    </g>
+    <path
+      d="m.875 1.75c.48325 0 .875-.39175.875-.875 0-.483249-.39175-.875-.875-.875-.483249 0-.875.391751-.875.875 0 .48325.391751.875.875.875z"
+      fill="#34a853"
+      transform="translate(9.22726 9.46594)"
+    />
+    <path
+      d="m.875 1.75c.48325 0 .875-.39175.875-.875 0-.483249-.39175-.875-.875-.875-.483249 0-.875.391751-.875.875 0 .48325.391751.875.875.875z"
+      fill="#34a853"
+      transform="translate(9.22726 6.36359)"
+    />
+    <path
+      d="m1.75 0h-1.75v3.10227h1.75z"
+      fill="#34a853"
+      transform="matrix(-1 0 0 -1 10.9773 10.3409)"
+    />
+    <path
+      d="m.875 1.75c.48325 0 .875-.39175.875-.875 0-.483249-.39175-.875-.875-.875-.483249 0-.875.391751-.875.875 0 .48325.391751.875.875.875z"
+      fill="#fab908"
+      transform="translate(6.125 3.57953)"
+    />
+    <path
+      d="m.875 1.75c.48325 0 .875-.39175.875-.875 0-.483249-.39175-.875-.875-.875-.483249 0-.875.391751-.875.875 0 .48325.391751.875.875.875z"
+      fill="#fab908"
+      transform="translate(6.125 8.67047)"
+    />
+  </symbol>
+  <symbol id="npr-one" viewBox="0 0 15 16">
+    <g clip-rule="evenodd" fill-rule="evenodd">
+      <path
+        d="m-.00000001 3.99903 3.11681001 1.9192c.6747-1.24356 1.93544-2.08032 3.37935-2.08032v-3.83791c-2.77571 0-5.1993 1.60843-6.49616001 3.99903z"
+        fill="#d61900"
+        transform="translate(1.00378)"
+      />
+      <path
+        d="m3.78823 5.28599c-.12325-.40495-.18984-.83705-.18984-1.28579 0-.75804.19011-1.4688.52217-2.081-1.53085-.942623-2.25153-1.386398-3.11681-1.91919993-.638301 1.17671993-1.00375 2.54287993-1.00375 4.00019993 0 1.45723.365449 2.82349 1.00375 4.0002l1.97257-1.21466z"
+        fill="#f30"
+        transform="translate(0 4.00128)"
+      />
+      <path
+        d="m-.00000001 1.21467c1.29686001 2.3906 3.72045001 3.99903 6.49616001 3.99903v-3.83801c-1.15017 0-2.18402-.530854-2.89814-1.37539816h-1.62563l.00018-.00029136z"
+        fill="#83aeed"
+        transform="translate(1.00378 10.7867)"
+      />
+      <path
+        d="m6.49625 1.9192-3.1168-1.91919949c-.67471 1.24355949-1.93535 2.08022949-3.37944981 2.08022949v3.838c2.77589981 0 5.19938981-1.60843 6.49624981-3.99903z"
+        fill="#3266cc"
+        transform="translate(7.50012 10.0768)"
+      />
+      <path
+        d="m.522174 4.0002c0 .75815-.190114 1.46881-.52217447 2.08101l3.11681047 1.91919c.63839-1.17671 1.00375-2.54297 1.00375-4.0002 0-1.45732-.36536-2.82348-1.00375-4.00019993-.86528.53280193-1.58596.97657693-3.11681047 1.91919993.33206047.6122.52217447 1.32296.52217447 2.081z"
+        fill="#3a3a3a"
+        transform="translate(10.8795 4.00128)"
+      />
+      <path
+        d="m.00000019 3.83791c1.44409981 0 2.70473981.83676 3.37944981 2.08032l3.1168-1.9192c-1.29686-2.3906-3.72044-3.99903-6.49624981-3.99903z"
+        fill="#191919"
+        transform="translate(7.50012)"
+      />
+    </g>
+  </symbol>
+  <symbol id="overcast" viewBox="0 0 365 365" fill="none">
+    <g xmlns="http://www.w3.org/2000/svg" id="surface1">
+      <path
+        style=" stroke:none;fill-rule:nonzero;fill:rgb(96.099854%,49.398804%,12.5%);fill-opacity:1;"
+        d="M 90.179688 274.820313 C 66.550781 251.195313 51.9375 218.554688 51.9375 182.5 C 51.9375 146.445313 66.550781 113.804688 90.179688 90.179688 L 101.789063 101.789063 C 81.136719 122.445313 68.359375 150.980469 68.359375 182.5 C 68.359375 214.019531 81.136719 242.554688 101.789063 263.210938 Z M 125.890625 239.109375 C 111.402344 224.621094 102.441406 204.609375 102.441406 182.5 C 102.441406 160.390625 111.402344 140.378906 125.890625 125.890625 L 137.503906 137.503906 C 125.988281 149.019531 118.863281 164.925781 118.863281 182.5 C 118.863281 200.074219 125.988281 215.980469 137.503906 227.496094 Z M 227.496094 227.496094 C 239.011719 215.980469 246.136719 200.074219 246.136719 182.5 C 246.136719 164.925781 239.011719 149.019531 227.496094 137.503906 L 239.109375 125.890625 C 253.597656 140.378906 262.558594 160.390625 262.558594 182.5 C 262.558594 204.609375 253.597656 224.621094 239.109375 239.109375 Z M 274.820313 274.820313 L 263.210938 263.210938 C 283.863281 242.554688 296.640625 214.019531 296.640625 182.5 C 296.640625 150.980469 283.863281 122.445313 263.210938 101.789063 L 274.820313 90.179688 C 298.449219 113.804688 313.0625 146.445313 313.0625 182.5 C 313.0625 218.554688 298.449219 251.195313 274.820313 274.820313 Z M 182.5 16.640625 C 90.898438 16.640625 16.640625 90.898438 16.640625 182.5 C 16.640625 255.765625 64.148438 317.933594 130.039063 339.886719 L 172.632813 212.101563 C 160.238281 207.972656 151.296875 196.28125 151.296875 182.5 C 151.296875 165.265625 165.265625 151.296875 182.5 151.296875 C 199.734375 151.296875 213.703125 165.265625 213.703125 182.5 C 213.703125 196.28125 204.761719 207.972656 192.367188 212.101563 L 234.960938 339.886719 C 300.851563 317.933594 348.359375 255.765625 348.359375 182.5 C 348.359375 90.898438 274.101563 16.640625 182.5 16.640625 Z M 202.902344 347.109375 C 195.519531 341.375 188.371094 335.058594 181.539063 328.164063 C 174.933594 334.996094 168.046875 341.269531 160.945313 346.96875 C 168 347.882813 175.195313 348.359375 182.5 348.359375 C 189.40625 348.359375 196.214844 347.933594 202.902344 347.109375 Z M 191.792969 316.824219 C 200.890625 327.066406 210.65625 336.113281 220.847656 343.898438 C 221.527344 343.734375 222.203125 343.570313 222.878906 343.402344 L 205.261719 299.355469 C 200.972656 305.472656 196.472656 311.300781 191.792969 316.824219 Z M 182.257813 305.34375 C 187.945313 298.007813 193.300781 290.164063 198.257813 281.84375 L 182.5 242.453125 L 166.550781 282.324219 C 171.425781 290.464844 176.679688 298.148438 182.257813 305.34375 Z M 143.78125 343.804688 C 153.617188 336.28125 163.054688 327.59375 171.875 317.78125 C 167.367188 312.621094 163.03125 307.179688 158.894531 301.46875 L 142.121094 343.402344 C 142.671875 343.539063 143.226563 343.671875 143.78125 343.804688 Z M 182.5 364.796875 C 81.820313 364.796875 0.207031 283.179688 0.207031 182.5 C 0.207031 81.820313 81.820313 0.203125 182.5 0.203125 C 283.179688 0.203125 364.796875 81.820313 364.796875 182.5 C 364.796875 283.179688 283.179688 364.796875 182.5 364.796875 "
+      />
+      <path
+        style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,100%,100%);fill-opacity:1;"
+        d="M 90.179688 274.820313 L 90.324219 274.675781 C 66.734375 251.085938 52.140625 218.496094 52.140625 182.5 C 52.140625 146.503906 66.730469 113.914063 90.324219 90.324219 L 90.179688 90.179688 L 90.03125 90.324219 L 101.644531 101.9375 L 101.789063 101.789063 L 101.644531 101.644531 C 80.953125 122.339844 68.15625 150.925781 68.15625 182.5 C 68.15625 214.074219 80.953125 242.660156 101.644531 263.355469 L 101.789063 263.210938 L 101.644531 263.0625 L 90.03125 274.675781 L 90.179688 274.820313 L 90.324219 274.675781 L 90.179688 274.820313 L 90.324219 274.96875 L 102.082031 263.210938 L 101.9375 263.0625 C 81.316406 242.445313 68.566406 213.964844 68.566406 182.5 C 68.566406 151.035156 81.316406 122.554688 101.9375 101.9375 L 102.082031 101.789063 L 90.179688 89.886719 L 90.03125 90.03125 C 66.367188 113.695313 51.730469 146.390625 51.730469 182.5 C 51.730469 218.609375 66.367188 251.304688 90.03125 274.96875 L 90.179688 275.113281 L 90.324219 274.96875 Z M 125.890625 239.109375 L 126.035156 238.964844 C 111.582031 224.515625 102.644531 204.550781 102.644531 182.5 C 102.644531 160.449219 111.582031 140.484375 126.035156 126.035156 L 125.890625 125.890625 L 125.742188 126.035156 L 137.355469 137.648438 L 137.503906 137.503906 L 137.355469 137.355469 C 125.804688 148.910156 118.660156 164.871094 118.660156 182.5 C 118.660156 200.128906 125.804688 216.089844 137.355469 227.644531 L 137.503906 227.496094 L 137.355469 227.351563 L 125.742188 238.964844 L 125.890625 239.109375 L 126.035156 238.964844 L 125.890625 239.109375 L 126.035156 239.257813 L 137.792969 227.496094 L 137.648438 227.351563 C 126.167969 215.871094 119.070313 200.015625 119.070313 182.5 C 119.070313 164.984375 126.167969 149.128906 137.648438 137.648438 L 137.792969 137.503906 L 125.890625 125.597656 L 125.742188 125.742188 C 111.21875 140.269531 102.234375 160.335938 102.234375 182.5 C 102.234375 204.664063 111.21875 224.730469 125.742188 239.257813 L 125.890625 239.402344 L 126.035156 239.257813 Z M 227.496094 227.496094 L 227.644531 227.644531 C 239.195313 216.089844 246.339844 200.128906 246.339844 182.5 C 246.339844 164.871094 239.195313 148.910156 227.644531 137.355469 L 227.496094 137.503906 L 227.644531 137.648438 L 239.257813 126.035156 L 239.109375 125.890625 L 238.964844 126.035156 C 253.417969 140.484375 262.355469 160.449219 262.355469 182.5 C 262.355469 204.550781 253.417969 224.515625 238.964844 238.964844 L 239.109375 239.109375 L 239.257813 238.964844 L 227.644531 227.351563 L 227.496094 227.496094 L 227.644531 227.644531 L 227.496094 227.496094 L 227.351563 227.644531 L 239.109375 239.402344 L 239.257813 239.257813 C 253.78125 224.730469 262.765625 204.664063 262.765625 182.5 C 262.765625 160.335938 253.78125 140.269531 239.257813 125.742188 L 239.109375 125.597656 L 227.207031 137.503906 L 227.351563 137.648438 C 238.832031 149.128906 245.929688 164.984375 245.929688 182.5 C 245.929688 200.015625 238.832031 215.871094 227.351563 227.351563 L 227.207031 227.496094 L 227.351563 227.644531 Z M 274.820313 274.820313 L 274.96875 274.675781 L 263.355469 263.0625 L 263.210938 263.210938 L 263.355469 263.355469 C 284.046875 242.660156 296.84375 214.074219 296.84375 182.5 C 296.84375 150.925781 284.046875 122.339844 263.355469 101.644531 L 263.210938 101.789063 L 263.355469 101.9375 L 274.96875 90.324219 L 274.820313 90.179688 L 274.675781 90.324219 C 298.265625 113.914063 312.855469 146.503906 312.855469 182.5 C 312.855469 218.496094 298.265625 251.085938 274.675781 274.675781 L 274.820313 274.820313 L 274.96875 274.675781 L 274.820313 274.820313 L 274.96875 274.96875 C 298.632813 251.304688 313.269531 218.609375 313.269531 182.5 C 313.269531 146.390625 298.632813 113.695313 274.96875 90.03125 L 274.820313 89.886719 L 262.917969 101.789063 L 263.0625 101.9375 C 283.683594 122.554688 296.433594 151.035156 296.433594 182.5 C 296.433594 213.964844 283.683594 242.445313 263.0625 263.0625 L 262.917969 263.210938 L 274.820313 275.113281 L 274.96875 274.96875 Z M 182.5 16.640625 L 182.5 16.433594 C 90.785156 16.433594 16.433594 90.785156 16.433594 182.5 C 16.433594 255.859375 64.003906 318.097656 129.972656 340.082031 L 130.167969 340.144531 L 172.894531 211.972656 L 172.699219 211.90625 C 160.382813 207.804688 151.503906 196.191406 151.503906 182.5 C 151.503906 173.941406 154.972656 166.191406 160.582031 160.582031 C 166.191406 154.972656 173.9375 151.503906 182.5 151.503906 C 191.058594 151.503906 198.808594 154.972656 204.417969 160.582031 C 210.027344 166.191406 213.496094 173.9375 213.496094 182.5 C 213.496094 196.191406 204.617188 207.804688 192.300781 211.90625 L 192.105469 211.972656 L 234.832031 340.144531 L 235.027344 340.082031 C 301 318.097656 348.566406 255.859375 348.566406 182.5 C 348.566406 90.785156 274.214844 16.433594 182.5 16.433594 L 182.5 16.84375 C 228.246094 16.84375 269.65625 35.386719 299.636719 65.363281 C 329.613281 95.34375 348.15625 136.753906 348.15625 182.5 C 348.15625 255.675781 300.703125 317.765625 234.898438 339.691406 L 234.960938 339.886719 L 235.15625 339.820313 L 192.5625 212.035156 L 192.367188 212.101563 L 192.433594 212.296875 C 204.910156 208.140625 213.90625 196.375 213.910156 182.5 C 213.90625 165.152344 199.847656 151.09375 182.5 151.089844 C 165.152344 151.09375 151.09375 165.152344 151.089844 182.5 C 151.09375 196.375 160.089844 208.140625 172.566406 212.296875 L 172.632813 212.101563 L 172.4375 212.035156 L 129.84375 339.820313 L 130.039063 339.886719 L 130.101563 339.691406 C 64.296875 317.765625 16.84375 255.675781 16.84375 182.5 C 16.84375 136.753906 35.386719 95.34375 65.363281 65.363281 C 95.34375 35.386719 136.753906 16.84375 182.5 16.84375 Z M 202.902344 347.109375 L 203.027344 346.949219 C 195.652344 341.21875 188.511719 334.90625 181.683594 328.019531 L 181.535156 327.867188 L 181.390625 328.019531 C 174.792969 334.847656 167.910156 341.113281 160.816406 346.808594 L 160.441406 347.109375 L 160.917969 347.171875 C 167.984375 348.089844 175.1875 348.566406 182.5 348.566406 C 189.414063 348.566406 196.230469 348.136719 202.925781 347.316406 L 203.417969 347.253906 L 203.027344 346.949219 L 202.902344 347.109375 L 202.875 346.90625 C 196.199219 347.726563 189.398438 348.15625 182.5 348.15625 C 175.203125 348.15625 168.019531 347.679688 160.972656 346.765625 L 160.945313 346.96875 L 161.074219 347.128906 C 168.179688 341.421875 175.078125 335.144531 181.6875 328.304688 L 181.539063 328.164063 L 181.394531 328.308594 C 188.230469 335.210938 195.386719 341.53125 202.773438 347.273438 L 202.902344 347.109375 L 202.875 346.90625 Z M 191.792969 316.824219 L 191.636719 316.964844 C 200.742188 327.210938 210.519531 336.269531 220.722656 344.058594 L 220.800781 344.117188 L 220.894531 344.097656 C 221.574219 343.9375 222.253906 343.769531 222.929688 343.601563 L 223.15625 343.542969 L 205.3125 298.929688 L 205.09375 299.238281 C 200.808594 305.347656 196.3125 311.171875 191.636719 316.695313 L 191.519531 316.832031 L 191.636719 316.964844 L 191.792969 316.824219 L 191.949219 316.960938 C 196.632813 311.429688 201.136719 305.59375 205.429688 299.472656 L 205.261719 299.355469 L 205.070313 299.433594 L 222.6875 343.476563 L 222.878906 343.402344 L 222.828125 343.203125 C 222.152344 343.371094 221.476563 343.535156 220.800781 343.695313 L 220.847656 343.898438 L 220.972656 343.734375 C 210.789063 335.957031 201.035156 326.917969 191.945313 316.691406 L 191.792969 316.824219 L 191.949219 316.960938 Z M 182.257813 305.34375 L 182.421875 305.46875 C 188.113281 298.128906 193.472656 290.273438 198.433594 281.945313 L 198.484375 281.859375 L 182.5 241.898438 L 166.320313 282.34375 L 166.375 282.429688 C 171.253906 290.578125 176.511719 298.269531 182.097656 305.46875 L 182.257813 305.679688 L 182.421875 305.46875 L 182.257813 305.34375 L 182.421875 305.21875 C 176.847656 298.03125 171.597656 290.351563 166.726563 282.21875 L 166.550781 282.324219 L 166.742188 282.402344 L 182.5 243.003906 L 198.066406 281.917969 L 198.257813 281.84375 L 198.078125 281.738281 C 193.128906 290.050781 187.777344 297.890625 182.097656 305.21875 L 182.257813 305.34375 L 182.421875 305.21875 Z M 143.78125 343.804688 L 143.90625 343.96875 C 153.75 336.4375 163.199219 327.738281 172.027344 317.917969 L 172.152344 317.785156 L 172.03125 317.648438 C 167.527344 312.492188 163.195313 307.054688 159.058594 301.351563 L 158.839844 301.046875 L 141.84375 343.542969 L 142.070313 343.601563 C 142.625 343.738281 143.179688 343.871094 143.734375 344.007813 L 143.828125 344.027344 L 143.90625 343.96875 L 143.78125 343.804688 L 143.828125 343.605469 C 143.273438 343.472656 142.722656 343.339844 142.171875 343.203125 L 142.121094 343.402344 L 142.3125 343.476563 L 159.085938 301.546875 L 158.894531 301.46875 L 158.726563 301.589844 C 162.871094 307.304688 167.207031 312.753906 171.722656 317.917969 L 171.875 317.78125 L 171.722656 317.644531 C 162.910156 327.445313 153.480469 336.128906 143.65625 343.644531 L 143.78125 343.804688 L 143.828125 343.605469 Z M 182.5 364.796875 L 182.5 364.589844 C 132.21875 364.589844 86.695313 344.210938 53.742188 311.257813 C 20.792969 278.304688 0.410156 232.78125 0.410156 182.5 C 0.410156 132.21875 20.792969 86.695313 53.742188 53.742188 C 86.695313 20.789063 132.21875 0.410156 182.5 0.410156 C 232.78125 0.410156 278.304688 20.789063 311.257813 53.742188 C 344.210938 86.695313 364.589844 132.21875 364.589844 182.5 C 364.589844 232.78125 344.210938 278.304688 311.257813 311.257813 C 278.304688 344.210938 232.78125 364.589844 182.5 364.589844 L 182.5 365 C 283.292969 365 365 283.292969 365 182.5 C 365 81.707031 283.292969 0 182.5 0 C 81.707031 0 0 81.707031 0 182.5 C 0 283.292969 81.707031 365 182.5 365 L 182.5 364.796875 "
+      />
+    </g>
+  </symbol>
+  <symbol id="pandora" viewBox="0 0 180 200">
+    <g id="bg">
+      <rect fill="#FFFFFF" width="180" height="200" />
+    </g>
+    <g id="icons">
+      <g>
+        <path
+          fill="#019FEE"
+          d="M160.7,74.2c-0.9-8.8-3.4-17.1-8.8-24.4c-4.1-5.6-9.4-9.8-15.6-13c-6-3-12.3-5-19-5.9l0,0
+                    c-3.9-0.6-7.8-0.9-11.8-0.9H43.8c-0.4,0-0.7,0.3-0.7,0.7l0,0c0,46.1,0,92.2,0,138.3v0.1c0,0.4,0.3,0.7,0.7,0.7l0,0
+                    c12.3,0,24.7,0,37,0c3.3,0,6-2.7,6.1-5.9c0-0.3,0-0.6,0-0.7c0-8.6,0-17.1,0-25.5v-0.3c0-0.4,0.3-0.7,0.7-0.7c0,0,0,0,0.1,0
+                    c3.1,0,6.4,0,9.6,0c2.4,0,4.9,0,7.3-0.3c7.8-0.6,15.7-2,23.1-5c2.3-0.9,4.6-2,6.9-3.1c9-4.9,15.8-11.7,20.6-20.8
+                    c2.3-4.6,3.9-9.4,4.9-14.6c0.6-2.7,0.9-5.4,1-8.3c0-0.1,0-0.1,0-0.3s0-0.1,0-0.3v-7c0,0,0,0,0-0.1C160.9,76,160.8,75.1,160.7,74.2
+                    z"
+        />
+      </g>
+    </g>
+  </symbol>
+  <symbol
+    id="pocket-casts"
+    viewBox="0 0 39 36"
+    style="enable-background:new 0 0 39 36;"
+  >
+    <g>
+      <path
+        fill="#F44336"
+        d="M18,36c9.9,0,18-8,18-18S28,0,18,0S0,8,0,18S8,36,18,36L18,36L18,36z"
+      />
+      <path
+        fill="#FFFFFF"
+        d="M17.8,27.1c-4.8-0.2-8.7-4.1-8.7-9c0-5,4.1-9,9-9s8.9,3.9,9,8.7c0,0.2,0.1,0.3,0.3,0.3H30
+                c0.2,0,0.3-0.1,0.3-0.3C30.1,11.2,24.7,5.9,18,5.9c-6.8,0-12.3,5.5-12.3,12.3c0,6.7,5.3,12.1,11.9,12.3c0.2,0,0.3-0.1,0.3-0.3v-2.6
+                C18.1,27.2,17.9,27.1,17.8,27.1L17.8,27.1L17.8,27.1z M18.1,11c-3.9,0-7.1,3.2-7.1,7.1c0,3.8,3,6.9,6.8,7.1c0.2,0,0.3-0.1,0.3-0.3
+                v-2.1c0-0.2-0.1-0.3-0.3-0.3c-2.3-0.2-4.1-2.1-4.1-4.4c0-2.4,2-4.4,4.4-4.4c2.3,0,4.2,1.8,4.4,4.1c0,0.2,0.2,0.3,0.3,0.3h2.1
+                c0.2,0,0.3-0.2,0.3-0.3C25,14,21.9,11,18.1,11L18.1,11L18.1,11z"
+      />
+    </g>
+  </symbol>
+  <symbol id="rss" viewBox="0 0 12 12">
+    <path
+      d="m1.59148 8.7795c-.878186.0032-1.58780186.71645-1.58566708 1.5938.00213478.8773.71521308 1.5871 1.59340708 1.5861.87819-.0011 1.58954-.7126 1.58955-1.59-.0032-.879-.71739-1.58991-1.59729-1.5899zm-1.59147997-4.7118v2.32108c1.48808997.00154 2.91461997.59358 3.96575997 1.64589 1.05115 1.05231 1.64082 2.47873 1.63927 3.96533h2.32333c.00464-2.10318-.82881-4.12172-2.31634-5.60999-1.48753-1.48826-3.5068-2.32386-5.61201997-2.32231zm0-4.06189726v2.32108726c5.33125997.00952 9.65431997 4.31803 9.67666997 9.64411h2.32333c-.0096-6.61422-5.37938-11.97100707-11.99999997-11.9710001z"
+      fill="#257BBC"
+    />
+  </symbol>
+  <symbol
+    id="spotify"
+    viewBox="0 0 170.1 170.1"
+    style="enable-background:new 0 0 170.1 170.1;"
+    xml:space="preserve"
+  >
+    <g>
+      <g>
+        <g>
+          <path
+            fill="#1ED760"
+            d="M85,1.3C38.8,1.3,1.3,38.8,1.3,85c0,46.3,37.5,83.7,83.7,83.7c46.3,0,83.7-37.5,83.7-83.7
+                        C168.8,38.8,131.3,1.3,85,1.3z M123.4,122.1c-1.5,2.5-4.7,3.2-7.2,1.7c-19.7-12-44.4-14.7-73.6-8.1c-2.8,0.6-5.6-1.1-6.2-3.9
+                        c-0.6-2.8,1.1-5.6,3.9-6.2c31.9-7.3,59.3-4.2,81.3,9.3C124.2,116.4,124.9,119.6,123.4,122.1z M133.7,99.3c-1.9,3.1-5.9,4-9,2.2
+                        c-22.5-13.8-56.8-17.8-83.4-9.8c-3.5,1-7.1-0.9-8.1-4.3c-1-3.5,0.9-7.1,4.4-8.1c30.4-9.2,68.2-4.8,94.1,11.1
+                        C134.6,92.2,135.6,96.2,133.7,99.3z M134.6,75.5c-27-16-71.5-17.5-97.3-9.7c-4.1,1.3-8.5-1.1-9.8-5.2c-1.3-4.1,1.1-8.5,5.2-9.8
+                        c29.6-9,78.8-7.2,109.8,11.2c3.7,2.2,4.9,7,2.7,10.7C143.1,76.5,138.3,77.7,134.6,75.5z"
+          />
+        </g>
+      </g>
+    </g>
+  </symbol>
+  <symbol
+    id="stitcher"
+    viewBox="0 0 122.88 51.61"
+    style="enable-background:new 0 0 122.88 51.61"
+  >
+    <g>
+      <polygon
+        fill="#3590C5"
+        points="0,10.14 21.5,10.14 21.5,49.15 0,49.15 0,10.14"
+      />
+      <polygon
+        fill="#C53827"
+        points="101.38,7.99 122.88,7.99 122.88,43.93 101.38,43.93 101.38,7.99"
+      />
+      <polygon
+        fill="#EC8B24"
+        points="76.19,0 97.69,0 97.69,46.7 76.19,46.7 76.19,0"
+      />
+      <polygon
+        fill="#FBC618"
+        points="51,6.76 72.5,6.76 72.5,51.61 51,51.61 51,6.76"
+      />
+      <polygon
+        fill="#612268"
+        points="25.5,3.07 47,3.07 47,46.39 25.5,46.39 25.5,3.07"
+      />
+    </g>
+  </symbol>
+  <symbol id="tuneIn" viewBox="56 56 200 88" fill="none">
+    <g id="Logos">
+      <g id="Logo__x2013__Horizontal_1A_12_">
+        <g id="Logo_2_">
+          <path
+            fill="#1C203C"
+            d="M95,96.8v4c0,0.4-0.4,0.8-0.8,0.8h-5c-0.2,0-0.4,0.2-0.4,0.4v21.2c0,0.4-0.4,0.8-0.8,0.8h-4
+				c-0.4,0-0.8-0.4-0.8-0.8V102c0-0.2-0.2-0.4-0.4-0.4h-5c-0.4,0-0.8-0.4-0.8-0.8v-4c0-0.4,0.4-0.8,0.8-0.8h16.4
+				C94.6,96,95,96.4,95,96.8z M117,96h-4c-0.4,0-0.8,0.4-0.8,0.8v18.8c0,1.8-1.4,3.2-3.9,3.2c-2.4,0-3.8-1.4-3.8-3.2V96.8
+				c0-0.4-0.4-0.8-0.8-0.8h-4c-0.4,0-0.8,0.4-0.8,0.8v18.8c0,4.8,4,8.8,9.4,8.8c5.5,0,9.5-4,9.5-8.8V96.8
+				C117.8,96.4,117.4,96,117,96z M139.6,96h-4c-0.4,0-0.8,0.4-0.8,0.8v15c0,0.2-0.3,0.3-0.4,0.1l-5.5-15.2c-0.1-0.4-0.4-0.7-1-0.7
+				h-4.8c-0.4,0-0.8,0.4-0.8,0.8v26.4c0,0.4,0.4,0.8,0.8,0.8h4c0.4,0,0.8-0.4,0.8-0.8v-13.8c0-0.2,0.3-0.3,0.4-0.1l5.4,14
+				c0.1,0.3,0.4,0.7,1.1,0.7h4.7c0.4,0,0.8-0.4,0.8-0.8V96.8C140.4,96.4,140,96,139.6,96z M160.3,118.4h-9.5c-0.2,0-0.4-0.2-0.4-0.4
+				v-4.8c0-0.2,0.2-0.4,0.4-0.4h9c0.4,0,0.8-0.4,0.8-0.8v-4c0-0.4-0.4-0.8-0.8-0.8h-9c-0.2,0-0.4-0.2-0.4-0.4V102
+				c0-0.2,0.2-0.4,0.4-0.4h9.3c0.4,0,0.8-0.4,0.8-0.8v-4c0-0.4-0.4-0.8-0.8-0.8h-14.5c-0.4,0-0.8,0.4-0.8,0.8v26.4
+				c0,0.4,0.4,0.8,0.8,0.8h14.7c0.4,0,0.8-0.4,0.8-0.8v-4C161.1,118.8,160.7,118.4,160.3,118.4z M256,59v62c0,1.7-1.3,3-3,3h-69v17
+				c0,1.7-1.3,3-3,3H59c-1.7,0-3-1.3-3-3V79c0-1.7,1.3-3,3-3h119V59c0-1.7,1.3-3,3-3h72C254.7,56,256,57.3,256,59z M178,82H62.5
+				c-0.3,0-0.5,0.2-0.5,0.5v55c0,0.3,0.2,0.5,0.5,0.5h115c0.3,0,0.5-0.2,0.5-0.5V82z M213.8,99.4c0-0.4-0.4-0.8-0.8-0.8h-3.4
+				c-0.2,0-0.4-0.2-0.4-0.4V81.8c0-0.2,0.2-0.4,0.4-0.4h3c0.4,0,0.8-0.4,0.8-0.8v-3.8c0-0.4-0.4-0.8-0.8-0.8h-12.4
+				c-0.4,0-0.8,0.4-0.8,0.8v3.8c0,0.4,0.4,0.8,0.8,0.8h3c0.2,0,0.4,0.2,0.4,0.4v16.4c0,0.2-0.2,0.4-0.4,0.4h-3.4
+				c-0.4,0-0.8,0.4-0.8,0.8v3.8c0,0.4,0.4,0.8,0.8,0.8H213c0.4,0,0.8-0.4,0.8-0.8V99.4z M236.2,76.8c0-0.4-0.4-0.8-0.8-0.8h-4
+				c-0.4,0-0.8,0.4-0.8,0.8v15c0,0.2-0.3,0.3-0.4,0.1l-5.5-15.2c-0.1-0.4-0.4-0.7-1-0.7H219c-0.4,0-0.8,0.4-0.8,0.8v26.4
+				c0,0.4,0.4,0.8,0.8,0.8h4c0.4,0,0.8-0.4,0.8-0.8V89.4c0-0.2,0.3-0.3,0.4-0.1l5.4,14c0.1,0.3,0.4,0.7,1.1,0.7h4.7
+				c0.4,0,0.8-0.4,0.8-0.8V76.8z"
+          />
+        </g>
+      </g>
+    </g>
+  </symbol>
+  <symbol id="caret-down" viewBox="0 0 320 512">
+    <path
+      d="M310.6 246.6l-127.1 128C176.4 380.9 168.2 384 160 384s-16.38-3.125-22.63-9.375l-127.1-128C.2244 237.5-2.516 223.7 2.438 211.8S19.07 192 32 192h255.1c12.94 0 24.62 7.781 29.58 19.75S319.8 237.5 310.6 246.6z"
+    />
+  </symbol>
+  <symbol id="icon-chevron-left" viewBox="0 0 256 512">
+    <path
+      d="M231.293 473.899l19.799-19.799c4.686-4.686 4.686-12.284 0-16.971L70.393 256 251.092 74.87c4.686-4.686 4.686-12.284 0-16.971L231.293 38.1c-4.686-4.686-12.284-4.686-16.971 0L4.908 247.515c-4.686 4.686-4.686 12.284 0 16.971L214.322 473.9c4.687 4.686 12.285 4.686 16.971-.001z"
+    >
+    </path>
+  </symbol>
+  <symbol id="icon-chevron-right" viewBox="0 0 256 512">
+    <path
+      d="M24.707 38.101L4.908 57.899c-4.686 4.686-4.686 12.284 0 16.971L185.607 256 4.908 437.13c-4.686 4.686-4.686 12.284 0 16.971L24.707 473.9c4.686 4.686 12.284 4.686 16.971 0l209.414-209.414c4.686-4.686 4.686-12.284 0-16.971L41.678 38.101c-4.687-4.687-12.285-4.687-16.971 0z"
+    >
+    </path>
+  </symbol>
+  <symbol
+    id="hero-icons-screen"
+    fill="none"
+    viewBox="0 0 24 24"
+    stroke="currentColor"
+    stroke-width="2"
+  >
+    <path
+      stroke-linecap="round"
+      stroke-linejoin="round"
+      d="M9.75 17L9 20l-1 1h8l-1-1-.75-3M3 13h18M5 17h14a2 2 0 002-2V5a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z"
+    />
+  </symbol>
+  <symbol
+    id="hero-icons-calendar"
+    fill="none"
+    viewBox="0 0 24 24"
+    stroke="currentColor"
+    stroke-width="2"
+  >
+    <path
+      stroke-linecap="round"
+      stroke-linejoin="round"
+      d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z"
+    />
+  </symbol>
+  <symbol
+    id="hero-icons-download"
+    fill="none"
+    viewBox="0 0 24 24"
+    stroke="currentColor"
+    stroke-width="2"
+  >
+    <path
+      stroke-linecap="round"
+      stroke-linejoin="round"
+      d="M7 16a4 4 0 01-.88-7.903A5 5 0 1115.9 6L16 6a5 5 0 011 9.9M9 19l3 3m0 0l3-3m-3 3V10"
+    />
+  </symbol>
+  <symbol
+    id="hero-icons-phone"
+    fill="none"
+    viewBox="0 0 24 24"
+    stroke="currentColor"
+    stroke-width="2"
+  >
+    <path
+      stroke-linecap="round"
+      stroke-linejoin="round"
+      d="M12 18h.01M8 21h8a2 2 0 002-2V5a2 2 0 00-2-2H8a2 2 0 00-2 2v14a2 2 0 002 2z"
+    />
+  </symbol>
+  <symbol id="question-mark" viewBox="0 0 24 24">
+    <path
+      d="M12,2C6.47715,2,2,6.47715,2,12s4.47715,10,10,10,10-4.47715,10-10S17.52285,2,12,2m5.657,15.657c-3.12411,3.12428-8.18943,3.1244-11.31371,.00029-3.12427-3.12411-3.1244-8.18943-.00029-11.31371,3.12411-3.12427,8.18943-3.1244,11.31371-.00029,1.50031,1.50023,2.34321,3.53501,2.34329,5.65671,.00283,2.12231-.84039,4.15821-2.343,5.657m-4.31-1.311c.00055,.74393-.60207,1.34745-1.346,1.348-.74393,.00055-1.34745-.60207-1.348-1.346-.00055-.74393,.60207-1.34745,1.346-1.348h.001c.74354,0,1.34645,.60246,1.347,1.346m1.853-6.964v.011c-.00037,.84943-.33771,1.66402-.938,2.265l-1.194,1.194-.068,.173v.475c0,.27614-.22386,.5-.5,.5h-1c-.27614,0-.5-.22386-.5-.5v-.475c.00041-.59558,.23705-1.16667,.658-1.588l1.193-1.193c.22621-.2254,.35325-.53166,.353-.851v-.193c-.00275-.66316-.54083-1.19946-1.204-1.2-.52564,.00898-.98778,.35026-1.151,.85-.06455,.20985-.25844,.35304-.478,.353h-1.022c-.28001,.00089-.50772-.22539-.5086-.50539-.0001-.03174,.00278-.06341,.0086-.09461,.29722-1.57879,1.71897-2.69248,3.323-2.603,1.74182,.15532,3.06542,1.63367,3.028,3.382"
+    />
+  </symbol>
+  <symbol
+    id="eye"
+    xmlns="http://www.w3.org/2000/svg"
+    viewBox="0 0 576 512"
+  ><path
+      d="M160 256C160 185.3 217.3 128 288 128C358.7 128 416 185.3 416 256C416 326.7 358.7 384 288 384C217.3 384 160 326.7 160 256zM288 336C332.2 336 368 300.2 368 256C368 211.8 332.2 176 288 176C287.3 176 286.7 176 285.1 176C287.3 181.1 288 186.5 288 192C288 227.3 259.3 256 224 256C218.5 256 213.1 255.3 208 253.1C208 254.7 208 255.3 208 255.1C208 300.2 243.8 336 288 336L288 336zM95.42 112.6C142.5 68.84 207.2 32 288 32C368.8 32 433.5 68.84 480.6 112.6C527.4 156 558.7 207.1 573.5 243.7C576.8 251.6 576.8 260.4 573.5 268.3C558.7 304 527.4 355.1 480.6 399.4C433.5 443.2 368.8 480 288 480C207.2 480 142.5 443.2 95.42 399.4C48.62 355.1 17.34 304 2.461 268.3C-.8205 260.4-.8205 251.6 2.461 243.7C17.34 207.1 48.62 156 95.42 112.6V112.6zM288 80C222.8 80 169.2 109.6 128.1 147.7C89.6 183.5 63.02 225.1 49.44 256C63.02 286 89.6 328.5 128.1 364.3C169.2 402.4 222.8 432 288 432C353.2 432 406.8 402.4 447.9 364.3C486.4 328.5 512.1 286 526.6 256C512.1 225.1 486.4 183.5 447.9 147.7C406.8 109.6 353.2 80 288 80V80z"
+    />
+  </symbol>
+  <symbol
+    id="eye-slash"
+    xmlns="http://www.w3.org/2000/svg"
+    viewBox="0 0 640 512"
+  ><path
+      d="M150.7 92.77C195 58.27 251.8 32 320 32C400.8 32 465.5 68.84 512.6 112.6C559.4 156 590.7 207.1 605.5 243.7C608.8 251.6 608.8 260.4 605.5 268.3C592.1 300.6 565.2 346.1 525.6 386.7L630.8 469.1C641.2 477.3 643.1 492.4 634.9 502.8C626.7 513.2 611.6 515.1 601.2 506.9L9.196 42.89C-1.236 34.71-3.065 19.63 5.112 9.196C13.29-1.236 28.37-3.065 38.81 5.112L150.7 92.77zM189.8 123.5L235.8 159.5C258.3 139.9 287.8 128 320 128C390.7 128 448 185.3 448 256C448 277.2 442.9 297.1 433.8 314.7L487.6 356.9C521.1 322.8 545.9 283.1 558.6 256C544.1 225.1 518.4 183.5 479.9 147.7C438.8 109.6 385.2 79.1 320 79.1C269.5 79.1 225.1 97.73 189.8 123.5L189.8 123.5zM394.9 284.2C398.2 275.4 400 265.9 400 255.1C400 211.8 364.2 175.1 320 175.1C319.3 175.1 318.7 176 317.1 176C319.3 181.1 320 186.5 320 191.1C320 202.2 317.6 211.8 313.4 220.3L394.9 284.2zM404.3 414.5L446.2 447.5C409.9 467.1 367.8 480 320 480C239.2 480 174.5 443.2 127.4 399.4C80.62 355.1 49.34 304 34.46 268.3C31.18 260.4 31.18 251.6 34.46 243.7C44 220.8 60.29 191.2 83.09 161.5L120.8 191.2C102.1 214.5 89.76 237.6 81.45 255.1C95.02 286 121.6 328.5 160.1 364.3C201.2 402.4 254.8 432 320 432C350.7 432 378.8 425.4 404.3 414.5H404.3zM192 255.1C192 253.1 192.1 250.3 192.3 247.5L248.4 291.7C258.9 312.8 278.5 328.6 302 333.1L358.2 378.2C346.1 381.1 333.3 384 319.1 384C249.3 384 191.1 326.7 191.1 255.1H192z"
+    /></symbol>
+  <symbol
+    id="mailbox"
+    width="24"
+    height="19"
+    viewBox="0 0 24 19"
+    fill="none"
+    xmlns="http://www.w3.org/2000/svg"
+  >
+    <path
+      d="M21 0.5H3C1.3125 0.5 0 1.85938 0 3.5V15.5C0 17.1875 1.3125 18.5 3 18.5H21C22.6406 18.5 24 17.1875 24 15.5V3.5C24 1.85938 22.6406 0.5 21 0.5ZM3 2H21C21.7969 2 22.5 2.70312 22.5 3.5V5.23438L13.3125 12.0781C12.5156 12.6875 11.4375 12.6875 10.6406 12.0781L1.5 5.1875V3.5C1.5 2.70312 2.15625 2 3 2ZM22.5 15.5C22.5 16.3438 21.7969 17 21 17H3C2.15625 17 1.5 16.3438 1.5 15.5V7.0625L9.75 13.25C10.4062 13.7656 11.2031 14.0469 12 14.0469C12.75 14.0469 13.5469 13.7656 14.25 13.25L22.5 7.0625V15.5Z"
+      fill="#176DB6"
+    />
+  </symbol>
+
+  <symbol id="security" viewBox="0 0 122.88 121.63">
+    <defs>
+      <style>
+        .cls-1, .cls-2 { fill-rule: evenodd; } .cls-2 { fill: #176db6; }
+      </style>
+    </defs>
+    <title>security</title>
+    <path
+      class="cls-1"
+      d="M55.15,0A150.86,150.86,0,0,0,73.54,10.06a33.21,33.21,0,0,0-4.38,7.21,142.57,142.57,0,0,1-14-7.86c-13.69,10.64-29.44,15.93-46.63,15-1.3,49.52,17.19,77,46.81,87.78,21.19-8,36.46-24.12,43.11-48.78h.76a32.63,32.63,0,0,0,7.51-.87c-7.52,30.05-25.51,49.31-51.38,59.06C19.64,108.59-1.49,76.65.08,17c18.78,1,37.21-3.08,55.07-16.95Z"
+    />
+    <path
+      class="cls-1"
+      d="M40.3,53.09h1.5V49.78a14.28,14.28,0,0,1,3.94-9.88,13.13,13.13,0,0,1,19.18,0,14.25,14.25,0,0,1,4,9.88v3.31h1.49a2.21,2.21,0,0,1,2.21,2.21V78.65a2.22,2.22,0,0,1-2.21,2.21H40.3a2.22,2.22,0,0,1-2.21-2.21V55.3a2.21,2.21,0,0,1,2.21-2.21Zm5.68,0H64.69V49.78a10.07,10.07,0,0,0-2.77-7,9,9,0,0,0-13.17,0,10.07,10.07,0,0,0-2.77,7v3.31ZM53.52,68l-2.38,6.25h8.39l-2.21-6.34a4.34,4.34,0,1,0-3.8.09Z"
+    />
+    <path
+      class="cls-2"
+      d="M99.23,6.92A23.65,23.65,0,1,1,75.58,30.57,23.65,23.65,0,0,1,99.23,6.92ZM93.79,30a18.48,18.48,0,0,1,1.91,1.85,75.71,75.71,0,0,1,6-8.31c6-7.18,3.25-5.79,11.5-5.79L112,19.05a80,80,0,0,0-7.59,10.12,118.45,118.45,0,0,0-7.77,12.91l-.71,1.38-.66-1.4a34,34,0,0,0-4.39-7.12,24.22,24.22,0,0,0-5.58-5.13c1.07-3.53,6.19-1.72,8.48.22Z"
+    />
+  </symbol>
+  <symbol
+    id="icon-calendar-cta"
+    viewBox="0 0 14 14"
+    id=".9035053200639143"
+    xmlns="http://www.w3.org/2000/svg"
+  >
+    <path data-name="Rectangle 1826" fill="none" d="M0 0h14v14H0z" />
+    <path
+      data-name="Path 1415"
+      d="M10.5 2.334h-.583v-.875a.292.292 0 0 0-.292-.292h-.583a.292.292 0 0 0-.292.292v.875h-3.5v-.875a.292.292 0 0 0-.292-.292h-.583a.292.292 0 0 0-.292.292v.875H3.5a1.751 1.751 0 0 0-1.75 1.75v6.417a1.751 1.751 0 0 0 1.75 1.75h7a1.751 1.751 0 0 0 1.75-1.75V4.084a1.751 1.751 0 0 0-1.75-1.75m.583 8.167a.584.584 0 0 1-.583.583h-7a.584.584 0 0 1-.583-.583V4.084a.584.584 0 0 1 .583-.583h7a.584.584 0 0 1 .583.583zM9.917 5.542v.583a.292.292 0 0 1-.292.292h-5.25a.292.292 0 0 1-.292-.292v-.583a.292.292 0 0 1 .292-.292h5.25a.292.292 0 0 1 .292.292"
+      fill="#176db6"
+    />
+  </symbol>
+  <symbol
+    id="icon-phone-cta"
+    viewBox="0 0 14 14"
+    id=".4533889117644243"
+    xmlns="http://www.w3.org/2000/svg"
+  >
+    <path data-name="Rectangle 1842" fill="none" d="M0 0h14v14H0z" />
+    <path
+      data-name="Path 1423"
+      d="M9.916.583H4.083a1.751 1.751 0 0 0-1.75 1.75v9.333a1.751 1.751 0 0 0 1.75 1.75h5.833a1.751 1.751 0 0 0 1.75-1.75V2.333a1.751 1.751 0 0 0-1.75-1.75m.583 11.083a.584.584 0 0 1-.583.583H4.083a.584.584 0 0 1-.583-.583V2.333a.584.584 0 0 1 .583-.583h5.833a.584.584 0 0 1 .583.583zm-2.624-1.458A.875.875 0 1 1 7 9.333a.875.875 0 0 1 .875.875m.875-7v.583a.292.292 0 0 1-.292.292H5.541a.292.292 0 0 1-.292-.292v-.583a.292.292 0 0 1 .292-.292h2.917a.292.292 0 0 1 .292.292"
+      fill="#176db6"
+    />
+  </symbol>
+  <symbol
+    id="icon-browse"
+    viewBox="0 0 24 24"
+    id=".27522233009653774"
+    xmlns="http://www.w3.org/2000/svg"
+  >
+    <path d="M0 0h24v24H0z" fill="none" />
+    <path
+      data-name="Path 1426"
+      d="M7 4v2a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1V4a1 1 0 0 1 1-1h2a1 1 0 0 1 1 1m6-1h-2a1 1 0 0 0-1 1v2a1 1 0 0 0 1 1h2a1 1 0 0 0 1-1V4a1 1 0 0 0-1-1m7 0h-2a1 1 0 0 0-1 1v2a1 1 0 0 0 1 1h2a1 1 0 0 0 1-1V4a1 1 0 0 0-1-1M6 10H4a1 1 0 0 0-1 1v2a1 1 0 0 0 1 1h2a1 1 0 0 0 1-1v-2a1 1 0 0 0-1-1m7 0h-2a1 1 0 0 0-1 1v2a1 1 0 0 0 1 1h2a1 1 0 0 0 1-1v-2a1 1 0 0 0-1-1m7 0h-2a1 1 0 0 0-1 1v2a1 1 0 0 0 1 1h2a1 1 0 0 0 1-1v-2a1 1 0 0 0-1-1M6 17H4a1 1 0 0 0-1 1v2a1 1 0 0 0 1 1h2a1 1 0 0 0 1-1v-2a1 1 0 0 0-1-1m7 0h-2a1 1 0 0 0-1 1v2a1 1 0 0 0 1 1h2a1 1 0 0 0 1-1v-2a1 1 0 0 0-1-1m7 0h-2a1 1 0 0 0-1 1v2a1 1 0 0 0 1 1h2a1 1 0 0 0 1-1v-2a1 1 0 0 0-1-1"
+      fill="#f2f2f2"
+    />
+  </symbol>
+  <symbol
+    id="icon-play"
+    viewBox="0 0 20 20"
+    id=".7350175391779503"
+    xmlns="http://www.w3.org/2000/svg"
+  >
+    <path data-name="Rectangle 1852" fill="none" d="M0 0h20v20H0z" />
+    <path
+      data-name="Path 1438"
+      d="M17.676 9.255a.833.833 0 0 1 0 1.491l-12.3 6.152a.833.833 0 0 1-1.206-.745V3.848a.833.833 0 0 1 1.206-.745z"
+      fill="#fff"
+    />
+  </symbol>
+  <symbol
+    id="info-tooltip"
+    width="16"
+    height="16"
+    viewBox="0 0 16 16"
+    xmlns="http://www.w3.org/2000/svg"
+  >
+    <path
+      d="M8 0C3.5625 0 0 3.59375 0 8C0 12.4375 3.5625 16 8 16C12.4062 16 16 12.4375 16 8C16 3.59375 12.4062 0 8 0ZM8 4C8.53125 4 9 4.46875 9 5C9 5.5625 8.53125 6 8 6C7.4375 6 7 5.5625 7 5C7 4.46875 7.4375 4 8 4ZM9.25 12H6.75C6.3125 12 6 11.6875 6 11.25C6 10.8438 6.3125 10.5 6.75 10.5H7.25V8.5H7C6.5625 8.5 6.25 8.1875 6.25 7.75C6.25 7.34375 6.5625 7 7 7H8C8.40625 7 8.75 7.34375 8.75 7.75V10.5H9.25C9.65625 10.5 10 10.8438 10 11.25C10 11.6875 9.65625 12 9.25 12Z"
+    />
+  </symbol>
+  <symbol
+    id="blue-caret"
+    width="18"
+    height="10"
+    viewBox="0 0 18 10"
+    xmlns="http://www.w3.org/2000/svg"
+  >
+    <path
+      d="M16.875 2.21875L9.75 8.92188C9.51562 9.15625 9.23438 9.25 9 9.25C8.71875 9.25 8.4375 9.15625 8.20312 8.96875L1.07812 2.21875C0.609375 1.79688 0.609375 1.09375 1.03125 0.625C1.45312 0.15625 2.15625 0.15625 2.625 0.578125L9 6.57812L15.3281 0.578125C15.7969 0.15625 16.5 0.15625 16.9219 0.625C17.3438 1.09375 17.3438 1.79688 16.875 2.21875Z"
+    />
+  </symbol>
+  <symbol
+    id="account-icon"
+    width="24"
+    height="25"
+    viewBox="0 0 24 25"
+    xmlns="http://www.w3.org/2000/svg"
+  >
+    <path
+      d="M12 0.5C5.34375 0.5 0 5.89062 0 12.5C0 19.1562 5.34375 24.5 12 24.5C18.6094 24.5 24 19.1562 24 12.5C24 5.89062 18.6094 0.5 12 0.5ZM12 23C9.75 23 7.6875 22.3438 6 21.1719C6.1875 18.8281 8.10938 17 10.5 17H13.5C15.8438 17 17.7656 18.8281 17.9531 21.1719C16.2656 22.3438 14.2031 23 12 23ZM19.2656 20.0469C18.6094 17.4688 16.2656 15.5 13.5 15.5H10.5C7.6875 15.5 5.34375 17.4688 4.6875 20.0469C2.71875 18.125 1.5 15.4531 1.5 12.5C1.5 6.73438 6.1875 2 12 2C17.7656 2 22.5 6.73438 22.5 12.5C22.5 15.4531 21.2344 18.125 19.2656 20.0469ZM12 6.5C9.89062 6.5 8.25 8.1875 8.25 10.25C8.25 12.3594 9.89062 14 12 14C14.0625 14 15.75 12.3594 15.75 10.25C15.75 8.1875 14.0625 6.5 12 6.5ZM12 12.5C10.7344 12.5 9.75 11.5156 9.75 10.25C9.75 9.03125 10.7344 8 12 8C13.2188 8 14.25 9.03125 14.25 10.25C14.25 11.5156 13.2188 12.5 12 12.5Z"
+    />
+  </symbol>
+  <symbol
+    id="new-checkmark"
+    width="19"
+    height="13"
+    viewBox="0 0 19 13"
+    xmlns="http://www.w3.org/2000/svg"
+  >
+    <path
+      d="M17.9375 0.523438C18.3281 0.914062 18.3281 1.5 17.9375 1.85156L7.625 12.1641C7.27344 12.5547 6.6875 12.5547 6.33594 12.1641L1.02344 6.85156C0.632812 6.5 0.632812 5.91406 1.02344 5.52344C1.375 5.17188 1.96094 5.17188 2.3125 5.52344L7 10.2109L16.6484 0.523438C17 0.171875 17.5859 0.171875 17.9375 0.523438Z"
+    />
+  </symbol>
+  <symbol
+    id="pdf"
+    width="15"
+    height="21"
+    viewBox="0 0 15 21"
+    xmlns="http://www.w3.org/2000/svg"
+  >
+    <path
+      d="M7.1875 8.54187C7.1875 8.38562 7.03125 8.22937 6.875 8.22937C6.67969 8.22937 6.5625 8.38562 6.5625 8.54187C6.5625 8.65906 6.5625 9.47937 6.91406 10.5341C6.99219 10.1825 7.1875 9.28406 7.1875 8.54187ZM10 0.41687V5.41687H15L10 0.41687ZM3.125 16.9403C3.125 17.3309 3.51562 17.4091 3.67188 17.1747C3.86719 16.9012 4.21875 16.3544 4.6875 15.6122C4.10156 15.9247 3.59375 16.2762 3.20312 16.7059C3.125 16.7841 3.125 16.8622 3.125 16.9403ZM8.75 5.41687V0.41687H1.875C0.820312 0.41687 0 1.27625 0 2.29187V18.5419C0 19.5966 0.820312 20.4169 1.875 20.4169H13.125C14.1406 20.4169 15 19.5966 15 18.5419V6.66687H10C9.29688 6.66687 8.75 6.12 8.75 5.41687ZM11.4062 12.6044C12.3438 12.6044 13.125 13.3856 13.125 14.3231C13.125 15.2997 12.3828 16.0419 11.4062 16.0419C11.1719 16.0419 10.9766 16.0419 10.7422 15.9637C9.96094 15.6903 9.25781 15.3387 8.63281 14.87C7.69531 15.0653 6.83594 15.3387 6.09375 15.6122C5.54688 16.6669 5.03906 17.4481 4.6875 17.9169C4.375 18.3075 3.90625 18.5419 3.39844 18.5419C2.53906 18.5419 1.875 17.8778 1.875 17.0184C1.875 16.5497 1.99219 16.1591 2.30469 15.8466C2.92969 15.2216 3.75 14.6356 4.76562 14.1669C5.19531 13.2684 5.625 12.37 5.9375 11.4716C5.3125 9.90906 5.3125 8.58093 5.3125 8.54187C5.3125 7.6825 5.97656 6.97937 6.875 6.97937C7.73438 6.97937 8.4375 7.6825 8.4375 8.54187C8.4375 9.51843 8.125 10.7294 8.08594 11.0028C8.04688 11.12 8.00781 11.2762 7.92969 11.3934C8.24219 11.9403 8.63281 12.4481 9.10156 12.8778C10.2734 12.6825 11.0938 12.6434 11.2109 12.6044H11.4062ZM6.09375 14.2841C6.79688 14.0497 7.5 13.8544 8.16406 13.6981C7.69531 13.2294 7.30469 12.7216 6.99219 12.2137C6.71875 12.9559 6.40625 13.6591 6.09375 14.2841ZM11.4062 14.7919C11.6797 14.7919 11.875 14.5966 11.875 14.3622C11.875 14.0887 11.6406 13.8544 11.4062 13.8544H11.25C11.2109 13.8934 10.5859 13.8934 9.64844 14.0497C10.0781 14.3231 10.5859 14.5575 11.1328 14.7528C11.25 14.7919 11.3281 14.7919 11.4062 14.7919Z"
+    />
+  </symbol>
+  <symbol
+    id="contact"
+    width="21"
+    height="21"
+    viewBox="0 0 21 21"
+    fill="#176DB6"
+    xmlns="http://www.w3.org/2000/svg"
+  >
+    <path
+      d="M17.9609 0.41687H2.96094C1.55469 0.41687 0.460938 1.54968 0.460938 2.91687V14.1278C0.460938 15.495 1.55469 16.5887 2.96094 16.5887H6.71094V19.87C6.71094 20.2606 7.14062 20.4559 7.45312 20.2216L12.3359 16.5887H17.9609C19.3281 16.5887 20.4609 15.4559 20.4609 14.1278V2.91687C20.4609 1.54968 19.3672 0.41687 17.9609 0.41687ZM18.625 14.1669C18.625 14.5184 18.3125 14.7919 18 14.7919H11.75L8.625 17.1356V14.7919H3C2.64844 14.7919 2.375 14.5184 2.375 14.1669V2.91687C2.375 2.60437 2.64844 2.29187 3 2.29187H18C18.3125 2.29187 18.625 2.60437 18.625 2.91687V14.1669Z"
+    />
+  </symbol>
+  <symbol
+    id="new-calendar"
+    width="18"
+    height="21"
+    viewBox="0 0 18 21"
+    fill="#176DB6"
+    xmlns="http://www.w3.org/2000/svg"
+  >
+    <path
+      d="M4.625 0.41687C4.9375 0.41687 5.25 0.72937 5.25 1.04187V2.91687H12.75V1.04187C12.75 0.72937 13.0234 0.41687 13.375 0.41687C13.6875 0.41687 14 0.72937 14 1.04187V2.91687H15.25C16.6172 2.91687 17.75 4.04968 17.75 5.41687V17.9169C17.75 19.3231 16.6172 20.4169 15.25 20.4169H2.75C1.34375 20.4169 0.25 19.3231 0.25 17.9169V5.41687C0.25 4.04968 1.34375 2.91687 2.75 2.91687H4V1.04187C4 0.72937 4.27344 0.41687 4.625 0.41687ZM16.5 7.91687H1.5V17.9169C1.5 18.62 2.04688 19.1669 2.75 19.1669H15.25C15.9141 19.1669 16.5 18.62 16.5 17.9169V7.91687ZM15.25 4.16687H2.75C2.04688 4.16687 1.5 4.75281 1.5 5.41687V6.66687H16.5V5.41687C16.5 4.75281 15.9141 4.16687 15.25 4.16687Z"
+    />
+  </symbol>
+  <symbol
+    id="repeat"
+    width="13"
+    height="13"
+    viewBox="0 0 13 13"
+    xmlns="http://www.w3.org/2000/svg"
+  >
+    <path
+      d="M11.5273 7.37976C11.1973 7.2782 10.8672 7.45593 10.7656 7.78601C10.2324 9.69031 8.45508 11.0106 6.47461 11.0106C4.77344 11.0106 3.25 10.0458 2.48828 8.57312H5.05273C5.38281 8.57312 5.66211 8.31921 5.66211 7.96375C5.66211 7.63367 5.4082 7.35437 5.05273 7.35437H0.990234C0.660156 7.35437 0.380859 7.63367 0.380859 7.96375V12.0262C0.380859 12.3817 0.660156 12.6356 0.990234 12.6356C1.3457 12.6356 1.59961 12.3817 1.59961 12.0262V9.4364C2.61523 11.1376 4.46875 12.2294 6.47461 12.2294C8.98828 12.2294 11.2227 10.5536 11.9336 8.14148C12.0352 7.8114 11.8574 7.48132 11.5273 7.37976ZM11.9844 0.44812C11.6289 0.44812 11.375 0.727417 11.375 1.0575V3.67273C10.3594 1.97156 8.50586 0.85437 6.5 0.85437C3.98633 0.85437 1.72656 2.55554 1.01562 4.96765C0.939453 5.27234 1.11719 5.62781 1.44727 5.70398C1.77734 5.80554 2.10742 5.62781 2.18359 5.29773C2.74219 3.41882 4.51953 2.07312 6.5 2.07312C8.17578 2.07312 9.69922 3.06335 10.4609 4.51062H7.92188C7.56641 4.51062 7.3125 4.78992 7.3125 5.12C7.3125 5.47546 7.56641 5.72937 7.92188 5.72937H11.9844C12.3145 5.72937 12.5938 5.47546 12.5938 5.12V1.0575C12.5938 0.727417 12.3145 0.44812 11.9844 0.44812Z"
+    />
+  </symbol>
+  <symbol id="dollar-circle" width="66" height="66" viewBox="0 0 66 66" xmlns="http://www.w3.org/2000/svg">
+    <path d="M30.6745 22.775C31.5941 22.4822 32.5899 22.3658 33.4975 22.2875C33.6739 22.2114 33.8882 22.2233 34.0646 22.1472C35.1866 22.0808 36.2607 22.8721 36.4152 23.956C36.6078 25.1281 35.7784 26.1141 34.6063 26.3067C34.5182 26.3448 34.3038 26.3328 34.2156 26.3709C33.5224 26.4612 32.8291 26.5514 32.1359 26.6417C30.8255 26.9986 29.5413 27.6581 28.6739 28.5559C27.8946 29.4156 27.5583 30.8162 28.9208 31.0644C30.0309 31.2125 31.203 31.0199 32.2869 30.8654C32.5895 30.8393 32.8039 30.8513 32.9802 30.7751C34.5811 30.6065 36.5346 30.2856 38.2758 30.684C40.4459 31.1063 42.0772 32.703 42.6005 34.8828C43.0858 36.9746 42.2466 38.9063 40.9265 40.2089C40.3736 40.8662 39.6564 41.3853 38.9011 41.8162L39.4724 43.1385C39.9294 44.1964 39.4788 45.3325 38.4209 45.7896C37.3631 46.2466 36.1388 45.8341 35.6817 44.7762L34.9962 43.1894C33.6478 43.4582 32.1731 43.6769 30.7485 43.7693C29.6265 43.8356 28.6405 43.0063 28.5742 41.8843C28.3816 40.7122 29.2991 39.6881 30.4212 39.6218C30.6356 39.6338 30.9381 39.6077 31.1144 39.5315C32.3246 39.4271 33.4466 39.3607 34.5807 39.08C36.1935 38.697 37.2634 38.0256 37.9044 37.3302C38.8099 36.5205 38.7675 34.9697 37.405 34.7215C36.2569 34.4853 35.0848 34.6779 33.9127 34.8704C33.6101 34.8965 33.4338 34.9727 33.2194 34.9607C31.7448 35.1794 29.8413 35.3741 28.2644 35.1139C26.0443 34.8178 24.3629 33.3474 23.9277 31.1295C23.4424 29.0377 24.4078 27.1561 25.6899 25.7653C26.0164 25.3105 26.5073 24.9938 26.96 24.589L26.3507 23.1785C25.8936 22.1206 26.3943 20.8582 27.4521 20.4012C28.51 19.9442 29.6842 20.4829 30.1413 21.5408L30.6745 22.775ZM55.5921 23.3073C61.0003 35.8251 55.2044 50.2546 42.7747 55.6247C30.2569 61.0329 15.8655 55.3252 10.4573 42.8073C5.08715 30.3776 10.7568 15.8981 23.2747 10.4899C35.7044 5.11976 50.222 10.8776 55.5921 23.3073ZM25.1028 14.7213C14.9651 19.1012 10.3469 30.9296 14.6887 40.9792C19.0686 51.1169 30.8089 55.7732 40.9466 51.3933C50.9961 47.0515 55.7406 35.2731 51.3607 25.1354C47.0189 15.0858 35.1523 10.3795 25.1028 14.7213Z" />
+  </symbol>
+  <symbol id="shield-check" viewBox="0 0 16 16">
+    <path fill-rule="evenodd" d="M8 0c-.69 0-1.843.265-2.928.56-1.11.3-2.229.655-2.887.87a1.54 1.54 0 0 0-1.044 1.262c-.596 4.477.787 7.795 2.465 9.99a11.777 11.777 0 0 0 2.517 2.453c.386.273.744.482 1.048.625.28.132.581.24.829.24s.548-.108.829-.24a7.159 7.159 0 0 0 1.048-.625 11.775 11.775 0 0 0 2.517-2.453c1.678-2.195 3.061-5.513 2.465-9.99a1.541 1.541 0 0 0-1.044-1.263 62.467 62.467 0 0 0-2.887-.87C9.843.266 8.69 0 8 0zm2.146 5.146a.5.5 0 0 1 .708.708l-3 3a.5.5 0 0 1-.708 0l-1.5-1.5a.5.5 0 1 1 .708-.708L7.5 7.793l2.646-2.647z"/>
+  </symbol>
+  <symbol id="box-up-right" viewBox="0 0 16 16">
+    <path fill-rule="evenodd" d="M8.636 3.5a.5.5 0 0 0-.5-.5H1.5A1.5 1.5 0 0 0 0 4.5v10A1.5 1.5 0 0 0 1.5 16h10a1.5 1.5 0 0 0 1.5-1.5V7.864a.5.5 0 0 0-1 0V14.5a.5.5 0 0 1-.5.5h-10a.5.5 0 0 1-.5-.5v-10a.5.5 0 0 1 .5-.5h6.636a.5.5 0 0 0 .5-.5z"/>
+    <path fill-rule="evenodd" d="M16 .5a.5.5 0 0 0-.5-.5h-5a.5.5 0 0 0 0 1h3.793L6.146 9.146a.5.5 0 1 0 .708.708L15 1.707V5.5a.5.5 0 0 0 1 0v-5z"/>
+  </symbol>
+  <symbol id="calendar-clock" viewBox="0 0 576 512">
+    <path d="M432 224C352.4 224 288 288.4 288 368s64.38 144 144 144S576 447.6 576 368S511.6 224 432 224zM480 384h-54.25C420.4 384 416 379.6 416 374.3V304C416 295.2 423.2 288 432 288C440.8 288 448 295.2 448 304V352h32c8.838 0 16 7.164 16 16S488.8 384 480 384zM284.6 464H64c-8.822 0-16-7.176-16-16V192H448V128c0-35.35-28.65-64-64-64h-40V24c0-13.25-10.75-24-23.1-24S296 10.75 296 24V64h-144V24C152 10.75 141.3 0 128 0S104 10.75 104 24V64H64C28.65 64 0 92.65 0 128v320c0 35.35 28.65 64 64 64h267C312.6 499.1 296.9 482.8 284.6 464z"/>
+  </symbol>
+  <symbol id="triangle-exclamation" viewBox="0 0 512 512">
+    <path d="M256 32c14.2 0 27.3 7.5 34.5 19.8l216 368c7.3 12.4 7.3 27.7 .2 40.1S486.3 480 472 480H40c-14.3 0-27.6-7.7-34.7-20.1s-7-27.8 .2-40.1l216-368C228.7 39.5 241.8 32 256 32zm0 128c-13.3 0-24 10.7-24 24V296c0 13.3 10.7 24 24 24s24-10.7 24-24V184c0-13.3-10.7-24-24-24zm32 224a32 32 0 1 0 -64 0 32 32 0 1 0 64 0z"/>
+  </symbol>
+</svg>
+
+<div class="Page-overlay"></div>
+
+
+<bsp-header class="Page-header">
+    <div class="Page-header-hamburger-menu">
+        <div class="Page-header-hamburger-menu-wrapper">
+            <div class="Page-header-hamburger-menu-content">
+                
+                    <div class="MobileNavigation"><nav>
+        <ul class="MobileNavigation-items"><li class="MobileNavigation-items-item"><bsp-toggler class="MobileNavigationItem">
+    <div class="MobileNavigationItem-text" data-toggle-trigger="navigation-item"><a class="MobileNavigationItem-text-link" href="{{url('investment')}}" data-cms-ai="0">
+                    <span class="MobileNavigationItem-text-link-label">Marketplace</span>
+                    <span class="MobileNavigationItem-text-active"><svg><use href="#new-checkmark"></use></svg></span></a></div></bsp-toggler>
+</li><li class="MobileNavigation-items-item"><bsp-toggler class="MobileNavigationItem">
+    <div class="MobileNavigationItem-text" data-toggle-trigger="navigation-item"><a class="MobileNavigationItem-text-link" href="rm-1031-exchange.html" data-cms-ai="0">
+                    <span class="MobileNavigationItem-text-link-label">1031 Exchange</span>
+                    <span class="MobileNavigationItem-text-active"><svg><use href="#new-checkmark"></use></svg></span></a></div></bsp-toggler>
+</li><li class="MobileNavigation-items-item"
+                data-current-nav-item><bsp-toggler class="MobileNavigationItem">
+    <div class="MobileNavigationItem-text" data-toggle-trigger="navigation-item"><a class="MobileNavigationItem-text-link" href="rm-communities.html" data-cms-ai="0">
+                    <span class="MobileNavigationItem-text-link-label">RM Communities</span>
+                    <span class="MobileNavigationItem-text-active"><svg><use href="#new-checkmark"></use></svg></span></a></div></bsp-toggler>
+</li><li class="MobileNavigation-items-item"><bsp-toggler class="MobileNavigationItem" data-toggle="navigation-item">
+    <div class="MobileNavigationItem-text" data-toggle-trigger="navigation-item"><a class="MobileNavigationItem-text-link" href="knowledge-center/why-reits.html" data-cms-ai="0">
+                    <span class="MobileNavigationItem-text-link-label"> REITs</span>
+                    <span class="MobileNavigationItem-text-active"><svg><use href="#new-checkmark"></use></svg></span><div class="MobileNavigationItem-more">
+                            <button aria-label="Open Sub Navigation"><svg class="chevron-down"><use href="#blue-caret"></use></svg></button>
+                        </div></a></div><div class="MobileNavigationItem-items-container">
+            <ul class="MobileNavigationItem-items"><li class="MobileNavigationItem-items-item"><a class="NavigationLink" href="investment-options/the-income-reit.html" data-cms-ai="0">
+  <span class="NavigationLink-text">Income REIT</span>
+  <span class="NavigationLink-active"><svg class="icon-checkmark"><use href="#icon-checkmark"></use></svg></span>
+    </a>
+</li><li class="MobileNavigationItem-items-item"><a class="NavigationLink" href="investment-options/the-apartment-growth-reit.html" data-cms-ai="0">
+  <span class="NavigationLink-text">Growth REIT</span>
+  <span class="NavigationLink-active"><svg class="icon-checkmark"><use href="#icon-checkmark"></use></svg></span>
+    </a>
+</li><li class="MobileNavigationItem-items-item"><a class="NavigationLink" href="knowledge-center/why-reits.html" data-cms-ai="0">
+  <span class="NavigationLink-text">Why REITS</span>
+  <span class="NavigationLink-active"><svg class="icon-checkmark"><use href="#icon-checkmark"></use></svg></span>
+    </a>
+</li></ul>
+        </div></bsp-toggler>
+</li><li class="MobileNavigation-items-item"><bsp-toggler class="MobileNavigationItem" data-toggle="navigation-item">
+    <div class="MobileNavigationItem-text" data-toggle-trigger="navigation-item"><a class="MobileNavigationItem-text-link" href="investment-options.html" data-cms-ai="0">
+                    <span class="MobileNavigationItem-text-link-label"> Research</span>
+                    <span class="MobileNavigationItem-text-active"><svg><use href="#new-checkmark"></use></svg></span><div class="MobileNavigationItem-more">
+                            <button aria-label="Open Sub Navigation"><svg class="chevron-down"><use href="#blue-caret"></use></svg></button>
+                        </div></a></div><div class="MobileNavigationItem-items-container">
+            <ul class="MobileNavigationItem-items"><li class="MobileNavigationItem-items-item"><a class="NavigationLink" href="knowledge-center/track-record.html" data-cms-ai="0">
+  <span class="NavigationLink-text">Track Record</span>
+  <span class="NavigationLink-active"><svg class="icon-checkmark"><use href="#icon-checkmark"></use></svg></span>
+    </a>
+</li><li class="MobileNavigationItem-items-item"><a class="NavigationLink" href="past-investments.html" data-cms-ai="0">
+  <span class="NavigationLink-text">Past Investments</span>
+  <span class="NavigationLink-active"><svg class="icon-checkmark"><use href="#icon-checkmark"></use></svg></span>
+    </a>
+</li><li class="MobileNavigationItem-items-item"><a class="NavigationLink" href="due-diligence-process.html" data-cms-ai="0">
+  <span class="NavigationLink-text">Due Diligence Process</span>
+  <span class="NavigationLink-active"><svg class="icon-checkmark"><use href="#icon-checkmark"></use></svg></span>
+    </a>
+</li><li class="MobileNavigationItem-items-item"><a class="NavigationLink" href="investment-options.html" data-cms-ai="0">
+  <span class="NavigationLink-text">Investment Options</span>
+  <span class="NavigationLink-active"><svg class="icon-checkmark"><use href="#icon-checkmark"></use></svg></span>
+    </a>
+</li><li class="MobileNavigationItem-items-item"><a class="NavigationLink" href="investment-options/1031-exchange.html" data-cms-ai="0">
+  <span class="NavigationLink-text">1031 Exchange</span>
+  <span class="NavigationLink-active"><svg class="icon-checkmark"><use href="#icon-checkmark"></use></svg></span>
+    </a>
+</li><li class="MobileNavigationItem-items-item"><a class="NavigationLink" href="knowledge-center/why-commercial-real-estate.html" data-cms-ai="0">
+  <span class="NavigationLink-text">Why Commercial Real Estate</span>
+  <span class="NavigationLink-active"><svg class="icon-checkmark"><use href="#icon-checkmark"></use></svg></span>
+    </a>
+</li><li class="MobileNavigationItem-items-item"><a class="NavigationLink" href="knowledge-center.html" data-cms-ai="0">
+  <span class="NavigationLink-text">Knowledge Center</span>
+  <span class="NavigationLink-active"><svg class="icon-checkmark"><use href="#icon-checkmark"></use></svg></span>
+    </a>
+</li></ul>
+        </div></bsp-toggler>
+</li></ul>
+    </nav>
+    <div class="MobileNavigation-authenticated" data-loggedin-item>
+        <div style="height: 25px"></div>
+        <li class="MobileNavigationItem-items-item">
+            <bsp-auth-button>
+                <a class="NavigationLink Button" data-size="small" href="#" target="_self" data-cms-ai="0"><span class="NavigationLink-text"
+                        data-logout>Logout</span></a>
+            </bsp-auth-button>
+        </li>
+    </div>
+    <div class="MobileNavigation-unauthenticated">
+        <bsp-auth-button><a class="Page-header-joinBtn Button AuthButton" data-size="default" data-modal-id="Join" href="#join" data-cms-ai="0">Join</a></bsp-auth-button>
+
+        <bsp-auth-button><a class="Page-header-signInBtn NotButton AuthButton" data-size="default" data-modal-id="SignIn" href="#signIn" data-cms-ai="0">Sign in</a></bsp-auth-button>
+
+    </div></div>
+
+                
+                
+            </div>
+        </div>
+    </div>
+
+    <div class="Page-header-account-menu">
+        <div class="MobileNavigation-authenticated">
+            <div class="MobileNavigation-authenticated-title" data-username></div>
+            <div class="MobileNavigationItem-authenticated-items-container">
+                <a class="NavigationLink" href="https://app.realtymogul.com{{url('active-investments')}}" data-cms-ai="0"><span class="NavigationLink-text">Dashboard</span></a>
+                <a class="NavigationLink messages" href="https://app.realtymogul.com/investor-dashboard/messages" data-cms-ai="0"><span class="NavigationLink-text">Messages</span><span class="messages-count"></span></a>
+                <a class="NavigationLink" href="https://app.realtymogul.com/investor-dashboard/profile" data-cms-ai="0"><span class="NavigationLink-text">My Profile</span></a>
+                <a class="NavigationLink" href="#logout" data-cms-ai="0"><span class="NavigationLink-text">Sign out</span></a>
+            </div>
+        </div>
+        <div class="MobileNavigation-unauthenticated">
+            <bsp-auth-button><a class="Page-header-joinBtn Button AuthButton" data-size="default" data-modal-id="Join" href="#join" data-cms-ai="0">Join</a></bsp-auth-button>
+
+            <bsp-auth-button><a class="Page-header-account-menu-signInBtn AuthButton" data-size="default" data-modal-id="SignIn" href="#signIn" data-cms-ai="0">Sign in</a></bsp-auth-button>
+
+        </div>
+    </div>
+
+    <div class="Page-header-bar">
+
+        
+            
+                <div class="Page-header-bar-logo"><a aria-label="home page" href="index.html" data-cms-ai="0"  >
+    
+        <img class="PageLogo-image" src="https://realtymogul.brightspotgocdn.com/9d/35/a0265c0e416da16bebfc628b4626/logo-stacked-black.ca6b1bab.svg" alt="Logo" width="130" />
+    
+    </a>
+</div>
+            
+        
+            <a class="Page-header-bar-logo-mobile" href="index.html" data-cms-ai="0"><img src="https://realtymogul.brightspotgocdn.com/ab/ef/40cd335f43f1bb6a0b5ce36c8b6a/logo.svg"></img></a>
+
+        <div class="Page-header-navigation">
+            
+                <div class="Navigation"><nav>
+            <ul class="Navigation-items"><li class="Navigation-items-item"><bsp-navigation-item class="NavigationItem">
+    <div class="NavigationItem-text"><a class="NavigationItem-text-link" href="{{url('investment')}}" data-cms-ai="0">
+                    <span class="NavigationItem-text-link-label">Marketplace</span>
+                </a></div></bsp-navigation-item>
+</li><li class="Navigation-items-item"><bsp-navigation-item class="NavigationItem">
+    <div class="NavigationItem-text"><a class="NavigationItem-text-link" href="rm-1031-exchange.html" data-cms-ai="0">
+                    <span class="NavigationItem-text-link-label">1031 Exchange</span>
+                </a></div></bsp-navigation-item>
+</li><li class="Navigation-items-item" data-current-nav-item><bsp-navigation-item class="NavigationItem">
+    <div class="NavigationItem-text"><a class="NavigationItem-text-link" href="rm-communities.html" data-cms-ai="0">
+                    <span class="NavigationItem-text-link-label">RM Communities</span>
+                </a></div></bsp-navigation-item>
+</li><li class="Navigation-items-item"><bsp-navigation-item class="NavigationItem">
+    <div class="NavigationItem-text"><a class="NavigationItem-text-link" href="knowledge-center/why-reits.html" data-cms-ai="0">
+                    <span class="NavigationItem-text-link-label"> REITs</span>
+                </a><div class="NavigationItem-more">
+                <button aria-label="Open Sub Navigation"><svg class="chevron-down"><use href="#chevron-up-nav"></use></svg></button>
+            </div></div><div class="NavigationItem-items-container"  ><ul class="NavigationItem-items"><li class="NavigationItem-items-item" ><a class="NavigationLink" href="investment-options/the-income-reit.html" data-cms-ai="0">
+  <span class="NavigationLink-text">Income REIT</span>
+  <span class="NavigationLink-active"><svg class="icon-checkmark"><use href="#icon-checkmark"></use></svg></span>
+    </a>
+</li><li class="NavigationItem-items-item" ><a class="NavigationLink" href="investment-options/the-apartment-growth-reit.html" data-cms-ai="0">
+  <span class="NavigationLink-text">Growth REIT</span>
+  <span class="NavigationLink-active"><svg class="icon-checkmark"><use href="#icon-checkmark"></use></svg></span>
+    </a>
+</li><li class="NavigationItem-items-item" ><a class="NavigationLink" href="knowledge-center/why-reits.html" data-cms-ai="0">
+  <span class="NavigationLink-text">Why REITS</span>
+  <span class="NavigationLink-active"><svg class="icon-checkmark"><use href="#icon-checkmark"></use></svg></span>
+    </a>
+</li></ul></div></bsp-navigation-item>
+</li><li class="Navigation-items-item"><bsp-navigation-item class="NavigationItem">
+    <div class="NavigationItem-text"><a class="NavigationItem-text-link" href="investment-options.html" data-cms-ai="0">
+                    <span class="NavigationItem-text-link-label"> Research</span>
+                </a><div class="NavigationItem-more">
+                <button aria-label="Open Sub Navigation"><svg class="chevron-down"><use href="#chevron-up-nav"></use></svg></button>
+            </div></div><div class="NavigationItem-items-container"  ><ul class="NavigationItem-items"><li class="NavigationItem-items-item" ><a class="NavigationLink" href="knowledge-center/track-record.html" data-cms-ai="0">
+  <span class="NavigationLink-text">Track Record</span>
+  <span class="NavigationLink-active"><svg class="icon-checkmark"><use href="#icon-checkmark"></use></svg></span>
+    </a>
+</li><li class="NavigationItem-items-item" ><a class="NavigationLink" href="past-investments.html" data-cms-ai="0">
+  <span class="NavigationLink-text">Past Investments</span>
+  <span class="NavigationLink-active"><svg class="icon-checkmark"><use href="#icon-checkmark"></use></svg></span>
+    </a>
+</li><li class="NavigationItem-items-item" ><a class="NavigationLink" href="due-diligence-process.html" data-cms-ai="0">
+  <span class="NavigationLink-text">Due Diligence Process</span>
+  <span class="NavigationLink-active"><svg class="icon-checkmark"><use href="#icon-checkmark"></use></svg></span>
+    </a>
+</li><li class="NavigationItem-items-item" ><a class="NavigationLink" href="investment-options.html" data-cms-ai="0">
+  <span class="NavigationLink-text">Investment Options</span>
+  <span class="NavigationLink-active"><svg class="icon-checkmark"><use href="#icon-checkmark"></use></svg></span>
+    </a>
+</li><li class="NavigationItem-items-item" ><a class="NavigationLink" href="investment-options/1031-exchange.html" data-cms-ai="0">
+  <span class="NavigationLink-text">1031 Exchange</span>
+  <span class="NavigationLink-active"><svg class="icon-checkmark"><use href="#icon-checkmark"></use></svg></span>
+    </a>
+</li><li class="NavigationItem-items-item" ><a class="NavigationLink" href="knowledge-center/why-commercial-real-estate.html" data-cms-ai="0">
+  <span class="NavigationLink-text">Why Commercial Real Estate</span>
+  <span class="NavigationLink-active"><svg class="icon-checkmark"><use href="#icon-checkmark"></use></svg></span>
+    </a>
+</li><li class="NavigationItem-items-item" ><a class="NavigationLink" href="knowledge-center.html" data-cms-ai="0">
+  <span class="NavigationLink-text">Knowledge Center</span>
+  <span class="NavigationLink-active"><svg class="icon-checkmark"><use href="#icon-checkmark"></use></svg></span>
+    </a>
+</li></ul></div></bsp-navigation-item>
+</li><li class="Navigation-items-item" data-overflow-trigger><bsp-navigation-item class="NavigationItem">
+    <div class="NavigationItem-text"><div class="NavigationItem-text-link">
+                <span class="NavigationItem-text-link-label">More</span>
+            </div></div></bsp-navigation-item>
+</li>
+            </ul>
+        </nav></div>
+            
+        </div>
+
+        <div class="Page-header-menu-triggers">
+    <button class="Page-header-menu-trigger-account">
+        <svg class="account-icon">
+            <use xlink:href="#account-icon"></use>
+            <div class="NavigationItem-notification"></div>
+        </svg>
+    </button>
+    <button class="Page-header-menu-trigger">
+        <svg class="burger-menu">
+            <use xlink:href="#burger-menu"></use>
+        </svg>
+        <svg class="burger-menu-close">
+            <use xlink:href="#burger-menu-close"></use>
+        </svg>
+    </button>
+</div>
+
+
+        <div class="Page-header-end">
+            <div class="Page-header-authenticated">
+                <div class="Navigation">
+    <nav>
+        <ul class="Navigation-items">
+            <li class="Navigation-items-item">
+                <bsp-navigation-item class="NavigationItem" data-show-when-logged-in="true">
+                    <div class="NavigationItem-mailbox">
+                        <a href="https://app.realtymogul.com/investor-dashboard/messages" target="_blank" style="margin-top: 2px" data-cms-ai="0"><span>
+                            <svg class="icon"><use href="#mailbox"></use></svg>
+                            <div class="NavigationItem-notification"></div>
+                        </span></a>
+                    </div>
+                </bsp-navigation-item>
+            </li>
+            <li class="Navigation-items-item">
+                <bsp-navigation-item class="NavigationItem">
+                    <div class="NavigationItem-text">
+                        <div class="NavigationItem-text-link">
+                            <span class="NavigationItem-text-link-label" data-username></span>
+                        </div>
+                        <div class="NavigationItem-more">
+                            <button aria-label="Open Sub Navigation"><svg class="chevron-down"><use href="#chevron-up-nav"></use></svg></button>
+                        </div>
+                    </div>
+                    <div class="NavigationItem-items-container">
+                        <ul class="NavigationItem-items">
+                            <li class="NavigationItem-items-item"><a class="NavigationLink" href="https://app.realtymogul.com/investor-dashboard/"
+                                    target="_self" data-cms-ai="0"><span class="NavigationLink-text">Dashboard</span></a>
+                            </li>
+                            <li class="NavigationItem-items-item"><a class="NavigationLink" href="https://app.realtymogul.com/investor-dashboard/profile"
+                                    target="_self" data-cms-ai="0"><span class="NavigationLink-text">Profile</span></a>
+                            </li>
+                            <li class="NavigationItem-items-item">
+                                <bsp-auth-button>
+                                    <a class="NavigationLink" href="#"
+                                        target="_self" data-cms-ai="0"><span class="NavigationLink-text" data-logout>Logout</span></a>
+                                </bsp-auth-button>
+                            </li>
+                        </ul>
+                    </div>
+                </bsp-navigation-item>
+            </li>
+        </ul>
+    </nav>
+</div>
+
+            </div>
+            <div class="Page-header-unauthenticated">
+                <bsp-auth-button><a class="Page-header-signInBtn NotButton AuthButton" data-size="default" data-modal-id="SignIn" href="#signIn" data-cms-ai="0">Sign in</a></bsp-auth-button>
+
+                <bsp-auth-button><a class="Page-header-joinBtn Button AuthButton" data-size="default" data-modal-id="Join" href="#join" data-cms-ai="0">Join</a></bsp-auth-button>
+
+            </div>
+        </div>
+    </div>
+</bsp-header>
+
+
+
+    
+
+
+    <div class="Page-content" style="min-height: 100vh">
+        
+
+        
+            <div class="Page-pageLead" data-pagelead><div class="PageHeading"  style="--opacityOverlay: 0%; background-color:var(--color-callout-bg); --color-heading-text:#ffffff;background-image: url('../realtymogul.brightspotgocdn.com/dims4/default/0d30d10/2147483647/strip/true/crop/4000x1000%2b0%2b250/resize/1440x360%21/quality/90/indexe118.html?url=https%3A%2F%2Fbrightspot-go-k1-realtymogul.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fe1%2F9e%2F4e12723a49a08e1d13a55fd29f72%2Faustin-gradient.png');" data-text-align="center" data-with-bg >
+    <div class="PageHeading-content-wrapper">
+        <div class="PageHeading-content">
+            
+            
+            
+                <h1 class="PageHeading-title"><br>RM Communities<br><br></h1>
+            
+            
+                <div class="PageHeading-divider"></div>
+                <h2 class="PageHeading-subHeading"><br><br><div class="cms-textAlign-center"><b>An owner &amp; operator of multifamily real estate </b></div></h2>
+            
+            
+        </div>
+    </div>
+</div></div>
+        
+
+        
+
+        
+            <main class="Page-oneColumn" data-modulewell><div class="PagePromoModuleL" 
+
+
+ data-image-position="right">
+    
+    <a class="AnchorLink" id="welcome-to-rm-communities" name="welcome-to-rm-communities" data-cms-ai="0"></a>
+
+
+
+    
+
+    <div class="PagePromoModuleL-content-wrapper">
+        <div class="PagePromoModuleL-content">
+            
+    <div class="PagePromo-title" data-animate="fade">
+        Welcome to RM Communities
+    </div>
+
+
+
+            
+    <div class="PagePromo-description" data-animate="fade">
+        A national commercial real estate private equity firm focused on the acquisition and repositioning of value-add and core-plus multifamily properties.<br><br>RM Communities has grown its real estate portfolio to include over 2,300 multifamily units and over $375 million in real estate with a fully dedicated team of acquisitions, underwriting, and asset management professionals.<sup>1,2</sup><br>
+    </div>
+
+
+
+            <div class="PagePromo-button-wrapper">
+                
+            </div>
+        </div>
+    </div>
+</div><div class="RichTextModule" data-module 
+
+
+    data-module-margin="none"
+>
+    
+    <a class="AnchorLink" id="rich-text-module-b30000" name="rich-text-module-b30000" data-cms-ai="0"></a>
+
+
+    
+    
+    <div class="RichTextModule-items RichTextBody"><div class="Enhancement" data-align-center>
+        <div class="Enhancement-item">
+            
+            
+                
+                    
+                        
+                            
+                                <figure class="Figure">
+    
+    <a class="AnchorLink" id="image-340000" name="image-340000" data-cms-ai="0"></a>
+
+
+    
+        <picture>
+    
+    
+        
+            
+
+        
+    
+
+    
+    
+        
+    
+
+    
+        <source
+            srcset="https://realtymogul.brightspotgocdn.com/1e/fa/99ce91f74832ae727162e220f97f/rm-comm-table-4-new-orderl.svg"
+     />
+
+    
+
+
+    
+    
+    <img class="Image"
+        data-image-size="large-3x4-auto" alt="RM Comm Table 4 new orderl.svg" src="https://realtymogul.brightspotgocdn.com/1e/fa/99ce91f74832ae727162e220f97f/rm-comm-table-4-new-orderl.svg"
+         loading="lazy">
+
+
+</picture>
+
+    
+
+    
+</figure>
+
+                            
+                        
+                    
+                
+            
+        </div>
+    </div><p></p></div>
+
+
+</div><div class="PagePromoModuleL"  data-inverse-colors data-has-background style="--color-module-background:#152e53;  --opacityOverlay: 0%;"
+
+
+ data-image-position="right">
+    
+    <a class="AnchorLink" id="acquisition-criteria" name="acquisition-criteria" data-cms-ai="0"></a>
+
+
+
+    
+        
+            
+                
+    <div class="PagePromo-media"><span class="Link"><picture>
+    
+    
+        
+            
+
+        
+    
+
+    
+    
+        
+    
+            <source type="image/webp"  width="1440" height="810"
+            srcset="https://realtymogul.brightspotgocdn.com/dims4/default/082ee22/2147483647/strip/true/crop/1786x1005+0+192/resize/1440x810!/format/webp/quality/90/?url=https%3A%2F%2Fbrightspot-go-k1-realtymogul.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fbf%2F26%2F085c1d60468fbe68a7ded45d5bb5%2Fridgeline-aerial.jpg 1x,https://realtymogul.brightspotgocdn.com/dims4/default/74eba53/2147483647/strip/true/crop/1786x1005+0+192/resize/2880x1620!/format/webp/quality/90/?url=https%3A%2F%2Fbrightspot-go-k1-realtymogul.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fbf%2F26%2F085c1d60468fbe68a7ded45d5bb5%2Fridgeline-aerial.jpg 2x"
+     />
+
+    
+
+    
+        <source width="1440" height="810"
+            srcset="../realtymogul.brightspotgocdn.com/dims4/default/47557f4/2147483647/strip/true/crop/1786x1005%2b0%2b192/resize/1440x810%21/quality/90/index75e7.html?url=https%3A%2F%2Fbrightspot-go-k1-realtymogul.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fbf%2F26%2F085c1d60468fbe68a7ded45d5bb5%2Fridgeline-aerial.jpg"
+     />
+
+    
+
+
+    
+    
+    <img class="Image"
+        data-image-size="xl-16x9" alt="Ridgeline-aerial.jpg" width="1440" height="810" srcset="https://realtymogul.brightspotgocdn.com/dims4/default/47557f4/2147483647/strip/true/crop/1786x1005+0+192/resize/1440x810!/quality/90/?url=https%3A%2F%2Fbrightspot-go-k1-realtymogul.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fbf%2F26%2F085c1d60468fbe68a7ded45d5bb5%2Fridgeline-aerial.jpg 1x,https://realtymogul.brightspotgocdn.com/dims4/default/29d7ce8/2147483647/strip/true/crop/1786x1005+0+192/resize/2880x1620!/quality/90/?url=https%3A%2F%2Fbrightspot-go-k1-realtymogul.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fbf%2F26%2F085c1d60468fbe68a7ded45d5bb5%2Fridgeline-aerial.jpg 2x" src="../realtymogul.brightspotgocdn.com/dims4/default/47557f4/2147483647/strip/true/crop/1786x1005%2b0%2b192/resize/1440x810%21/quality/90/index75e7.html?url=https%3A%2F%2Fbrightspot-go-k1-realtymogul.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fbf%2F26%2F085c1d60468fbe68a7ded45d5bb5%2Fridgeline-aerial.jpg"
+         loading="lazy">
+
+
+</picture>
+
+</span></div>
+
+
+            
+        
+    
+
+    <div class="PagePromoModuleL-content-wrapper">
+        <div class="PagePromoModuleL-content">
+            
+    <div class="PagePromo-title" data-animate="fade">
+        Acquisition Criteria
+    </div>
+
+
+
+            
+    <div class="PagePromo-description" data-animate="fade">
+        <br><br><b>◆ Multifamily (50+ units preferred) and Mixed-Use</b><br><br><br><b>◆ $10 Million+ Purchase Price</b><br><br><br><b>◆ Class A &amp; B Assets</b><br><br><br><b>◆ Primary, Secondary and Tertiary Markets</b><br><br><br><b>◆ Value-Add &amp; Core-Plus</b><br><br><br><br>
+    </div>
+
+
+
+            <div class="PagePromo-button-wrapper">
+                
+            </div>
+        </div>
+    </div>
+</div><div class="OneColumnContainer" data-module>
+    
+    <a class="AnchorLink" id="container-1-column-210000" name="container-1-column-210000" data-cms-ai="0"></a>
+
+
+
+
+
+    <div class="OneColumnContainer-container" data-modulewell>
+        
+            <div class="RichTextModule" data-module 
+
+>
+    
+    <a class="AnchorLink" id="rm-communities-webinar" name="rm-communities-webinar" data-cms-ai="0"></a>
+
+
+    
+        <div class="RichTextModule-title">RM Communities Q1 2024 Webinar</div>
+    
+    
+    <div class="RichTextModule-items RichTextBody"><p>View selected segments, or the full <b>Q1 2024 Multifamily Market Update and Outlook </b>webinar.</p><p><i>Hosted by: Todd Hanson, Managing Director, and Ian Rosa, Director of Investments, at RM Communities.</i></p></div>
+
+
+</div>
+        
+    </div>
+</div>
+<bsp-video-playlist-module data-module class="VideoPlaylistModule" data-clipped data-playlist-bottom>
+    
+    <a class="AnchorLink" id="video-playlist-9b0000" name="video-playlist-9b0000" data-cms-ai="0"></a>
+
+
+    
+    <div class="VideoPlaylistModule-body">
+        
+            <div class="VideoPlaylistModule-player"><bsp-vimeo-player data-video-player class="VimeoVideoPlayer"
+    data-player-id=""
+    data-video-id="953325465"
+    data-video-title="Q1 2024 Webinar: RM Communities Overview.">
+
+    <iframe id="VimeoVideoPlayer-" src="https://player.vimeo.com/video/953325465?transparent=0" allowfullscreen></iframe>
+</ps-vimeo-player>
+</div>
+        
+        
+            <div class="VideoPlaylistModule-playlist">
+                <div class="VideoPlaylistModule-playlist-items">
+                    
+                        <div class="VideoPlaylistModule-playlist-items-item">
+                            <div class="VideoPlaylistItem" is-current content-id="0000018f-e087-dd28-addf-f5974edb0000">
+    
+        <div class="VideoPlaylistItem-media">
+            
+                <picture>
+    
+    
+        
+            
+
+        
+    
+
+    
+    
+        
+    
+            <source type="image/webp"  width="500" height="281"
+            srcset="https://realtymogul.brightspotgocdn.com/dims4/default/5e1fce1/2147483647/strip/true/crop/1920x1079+0+12/resize/500x281!/format/webp/quality/90/?url=https%3A%2F%2Fbrightspot-go-k1-realtymogul.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fd1%2F2c%2Fe65d80a84f36b0042c91d4a665b1%2F2-rm-comm-q1-overview.jpg 1x,https://realtymogul.brightspotgocdn.com/dims4/default/cdd58b2/2147483647/strip/true/crop/1920x1079+0+12/resize/1000x562!/format/webp/quality/90/?url=https%3A%2F%2Fbrightspot-go-k1-realtymogul.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fd1%2F2c%2Fe65d80a84f36b0042c91d4a665b1%2F2-rm-comm-q1-overview.jpg 2x"
+     />
+
+    
+
+    
+        <source width="500" height="281"
+            srcset="../realtymogul.brightspotgocdn.com/dims4/default/0e2367a/2147483647/strip/true/crop/1920x1079%2b0%2b12/resize/500x281%21/quality/90/index8be7.html?url=https%3A%2F%2Fbrightspot-go-k1-realtymogul.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fd1%2F2c%2Fe65d80a84f36b0042c91d4a665b1%2F2-rm-comm-q1-overview.jpg"
+     />
+
+    
+
+
+    
+    
+    <img class="Image"
+        data-image-size="medium-16x9" alt="2 RM-COMM-Q1-Overview.jpg" width="500" height="281" srcset="https://realtymogul.brightspotgocdn.com/dims4/default/0e2367a/2147483647/strip/true/crop/1920x1079+0+12/resize/500x281!/quality/90/?url=https%3A%2F%2Fbrightspot-go-k1-realtymogul.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fd1%2F2c%2Fe65d80a84f36b0042c91d4a665b1%2F2-rm-comm-q1-overview.jpg 1x,https://realtymogul.brightspotgocdn.com/dims4/default/92e2d93/2147483647/strip/true/crop/1920x1079+0+12/resize/1000x562!/quality/90/?url=https%3A%2F%2Fbrightspot-go-k1-realtymogul.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fd1%2F2c%2Fe65d80a84f36b0042c91d4a665b1%2F2-rm-comm-q1-overview.jpg 2x" src="../realtymogul.brightspotgocdn.com/dims4/default/0e2367a/2147483647/strip/true/crop/1920x1079%2b0%2b12/resize/500x281%21/quality/90/index8be7.html?url=https%3A%2F%2Fbrightspot-go-k1-realtymogul.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fd1%2F2c%2Fe65d80a84f36b0042c91d4a665b1%2F2-rm-comm-q1-overview.jpg"
+         loading="lazy">
+
+
+</picture>
+
+            
+
+            <div class="VideoPlaylistItem-playIcon">
+                <svg><use xlink:href="#play-arrow"></use></svg>
+            </div>
+
+            <div class="VideoPlaylistItem-playingText">
+                On Now
+            </div>
+        </div>
+    
+    <div class="VideoPlaylistItem-body">
+        
+            <div class="VideoPlaylistItem-title">Q1 2024 Webinar: RM Communities Overview.</div>
+        
+        
+
+        
+        <div class="VideoPlaylistItem-data"
+            
+            
+            
+            >
+                
+                <div data-title>Q1 2024 Webinar: RM Communities Overview.</div>
+                
+            </div>
+    </div>
+    <template>
+        
+            <bsp-vimeo-player data-video-player class="VimeoVideoPlayer"
+    data-player-id=""
+    data-video-id="953325465"
+    data-video-title="Q1 2024 Webinar: RM Communities Overview.">
+
+    <iframe id="VimeoVideoPlayer-" src="https://player.vimeo.com/video/953325465?transparent=0" allowfullscreen></iframe>
+</ps-vimeo-player>
+
+        
+    </template>
+</div>
+
+                        </div>
+                    
+                        <div class="VideoPlaylistModule-playlist-items-item">
+                            <div class="VideoPlaylistItem" content-id="0000018f-e088-dd28-addf-f59ce20a0000">
+    
+        <div class="VideoPlaylistItem-media">
+            
+                <picture>
+    
+    
+        
+            
+
+        
+    
+
+    
+    
+        
+    
+            <source type="image/webp"  width="500" height="281"
+            srcset="https://realtymogul.brightspotgocdn.com/dims4/default/577b285/2147483647/strip/true/crop/2736x1538+0+17/resize/500x281!/format/webp/quality/90/?url=https%3A%2F%2Fbrightspot-go-k1-realtymogul.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fd9%2F4d%2F1f23e3334dcb8ee3d3d9d9fa68e1%2F3-rm-comm-q1-in-review.jpg 1x,https://realtymogul.brightspotgocdn.com/dims4/default/211e81b/2147483647/strip/true/crop/2736x1538+0+17/resize/1000x562!/format/webp/quality/90/?url=https%3A%2F%2Fbrightspot-go-k1-realtymogul.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fd9%2F4d%2F1f23e3334dcb8ee3d3d9d9fa68e1%2F3-rm-comm-q1-in-review.jpg 2x"
+     />
+
+    
+
+    
+        <source width="500" height="281"
+            srcset="../realtymogul.brightspotgocdn.com/dims4/default/4f33f03/2147483647/strip/true/crop/2736x1538%2b0%2b17/resize/500x281%21/quality/90/index6528.html?url=https%3A%2F%2Fbrightspot-go-k1-realtymogul.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fd9%2F4d%2F1f23e3334dcb8ee3d3d9d9fa68e1%2F3-rm-comm-q1-in-review.jpg"
+     />
+
+    
+
+
+    
+    
+    <img class="Image"
+        data-image-size="medium-16x9" alt="3 RM-COMM-Q1-in-Review.jpg" width="500" height="281" srcset="https://realtymogul.brightspotgocdn.com/dims4/default/4f33f03/2147483647/strip/true/crop/2736x1538+0+17/resize/500x281!/quality/90/?url=https%3A%2F%2Fbrightspot-go-k1-realtymogul.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fd9%2F4d%2F1f23e3334dcb8ee3d3d9d9fa68e1%2F3-rm-comm-q1-in-review.jpg 1x,https://realtymogul.brightspotgocdn.com/dims4/default/a3eed4b/2147483647/strip/true/crop/2736x1538+0+17/resize/1000x562!/quality/90/?url=https%3A%2F%2Fbrightspot-go-k1-realtymogul.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fd9%2F4d%2F1f23e3334dcb8ee3d3d9d9fa68e1%2F3-rm-comm-q1-in-review.jpg 2x" src="../realtymogul.brightspotgocdn.com/dims4/default/4f33f03/2147483647/strip/true/crop/2736x1538%2b0%2b17/resize/500x281%21/quality/90/index6528.html?url=https%3A%2F%2Fbrightspot-go-k1-realtymogul.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fd9%2F4d%2F1f23e3334dcb8ee3d3d9d9fa68e1%2F3-rm-comm-q1-in-review.jpg"
+         loading="lazy">
+
+
+</picture>
+
+            
+
+            <div class="VideoPlaylistItem-playIcon">
+                <svg><use xlink:href="#play-arrow"></use></svg>
+            </div>
+
+            <div class="VideoPlaylistItem-playingText">
+                On Now
+            </div>
+        </div>
+    
+    <div class="VideoPlaylistItem-body">
+        
+            <div class="VideoPlaylistItem-title">Q1 2024 Webinar: Q1 in Review. Themes in Current Environment</div>
+        
+        
+
+        
+        <div class="VideoPlaylistItem-data"
+            
+            
+            
+            >
+                
+                <div data-title>Q1 2024 Webinar: Q1 in Review. Themes in Current Environment</div>
+                
+            </div>
+    </div>
+    <template>
+        
+            <bsp-vimeo-player data-video-player class="VimeoVideoPlayer"
+    data-player-id=""
+    data-video-id="953326345"
+    data-video-title="Q1 2024 Webinar: Q1 in Review. Themes in Current Environment">
+
+    <iframe id="VimeoVideoPlayer-" src="https://player.vimeo.com/video/953326345?transparent=0" allowfullscreen></iframe>
+</ps-vimeo-player>
+
+        
+    </template>
+</div>
+
+                        </div>
+                    
+                        <div class="VideoPlaylistModule-playlist-items-item">
+                            <div class="VideoPlaylistItem" content-id="0000018f-e089-dd28-addf-f59dc23a0000">
+    
+        <div class="VideoPlaylistItem-media">
+            
+                <picture>
+    
+    
+        
+            
+
+        
+    
+
+    
+    
+        
+    
+            <source type="image/webp"  width="500" height="281"
+            srcset="https://realtymogul.brightspotgocdn.com/dims4/default/dbc8ccf/2147483647/strip/true/crop/1920x1079+0+12/resize/500x281!/format/webp/quality/90/?url=https%3A%2F%2Fbrightspot-go-k1-realtymogul.s3.us-east-1.amazonaws.com%2Fbrightspot%2F5e%2Fea%2Ff716eb0041809ca99f390aa9a66d%2F4-rm-comm-q1-director-of-inv.jpg 1x,https://realtymogul.brightspotgocdn.com/dims4/default/6414669/2147483647/strip/true/crop/1920x1079+0+12/resize/1000x562!/format/webp/quality/90/?url=https%3A%2F%2Fbrightspot-go-k1-realtymogul.s3.us-east-1.amazonaws.com%2Fbrightspot%2F5e%2Fea%2Ff716eb0041809ca99f390aa9a66d%2F4-rm-comm-q1-director-of-inv.jpg 2x"
+     />
+
+    
+
+    
+        <source width="500" height="281"
+            srcset="../realtymogul.brightspotgocdn.com/dims4/default/107f75e/2147483647/strip/true/crop/1920x1079%2b0%2b12/resize/500x281%21/quality/90/indexfbf9.html?url=https%3A%2F%2Fbrightspot-go-k1-realtymogul.s3.us-east-1.amazonaws.com%2Fbrightspot%2F5e%2Fea%2Ff716eb0041809ca99f390aa9a66d%2F4-rm-comm-q1-director-of-inv.jpg"
+     />
+
+    
+
+
+    
+    
+    <img class="Image"
+        data-image-size="medium-16x9" alt="4-RM-COMM-Q1-Director-of-inv.jpg" width="500" height="281" srcset="https://realtymogul.brightspotgocdn.com/dims4/default/107f75e/2147483647/strip/true/crop/1920x1079+0+12/resize/500x281!/quality/90/?url=https%3A%2F%2Fbrightspot-go-k1-realtymogul.s3.us-east-1.amazonaws.com%2Fbrightspot%2F5e%2Fea%2Ff716eb0041809ca99f390aa9a66d%2F4-rm-comm-q1-director-of-inv.jpg 1x,https://realtymogul.brightspotgocdn.com/dims4/default/75ce0a2/2147483647/strip/true/crop/1920x1079+0+12/resize/1000x562!/quality/90/?url=https%3A%2F%2Fbrightspot-go-k1-realtymogul.s3.us-east-1.amazonaws.com%2Fbrightspot%2F5e%2Fea%2Ff716eb0041809ca99f390aa9a66d%2F4-rm-comm-q1-director-of-inv.jpg 2x" src="../realtymogul.brightspotgocdn.com/dims4/default/107f75e/2147483647/strip/true/crop/1920x1079%2b0%2b12/resize/500x281%21/quality/90/indexfbf9.html?url=https%3A%2F%2Fbrightspot-go-k1-realtymogul.s3.us-east-1.amazonaws.com%2Fbrightspot%2F5e%2Fea%2Ff716eb0041809ca99f390aa9a66d%2F4-rm-comm-q1-director-of-inv.jpg"
+         loading="lazy">
+
+
+</picture>
+
+            
+
+            <div class="VideoPlaylistItem-playIcon">
+                <svg><use xlink:href="#play-arrow"></use></svg>
+            </div>
+
+            <div class="VideoPlaylistItem-playingText">
+                On Now
+            </div>
+        </div>
+    
+    <div class="VideoPlaylistItem-body">
+        
+            <div class="VideoPlaylistItem-title">Q1 2024 Webinar: Director of Investments’ Perspective</div>
+        
+        
+
+        
+        <div class="VideoPlaylistItem-data"
+            
+            
+            
+            >
+                
+                <div data-title>Q1 2024 Webinar: Director of Investments’ Perspective</div>
+                
+            </div>
+    </div>
+    <template>
+        
+            <bsp-vimeo-player data-video-player class="VimeoVideoPlayer"
+    data-player-id=""
+    data-video-id="953346992"
+    data-video-title="Q1 2024 Webinar: Director of Investments’ Perspective">
+
+    <iframe id="VimeoVideoPlayer-" src="https://player.vimeo.com/video/953346992?transparent=0" allowfullscreen></iframe>
+</ps-vimeo-player>
+
+        
+    </template>
+</div>
+
+                        </div>
+                    
+                        <div class="VideoPlaylistModule-playlist-items-item">
+                            <div class="VideoPlaylistItem" content-id="0000018f-e08a-dd28-addf-f59edeaf0000">
+    
+        <div class="VideoPlaylistItem-media">
+            
+                <picture>
+    
+    
+        
+            
+
+        
+    
+
+    
+    
+        
+    
+            <source type="image/webp"  width="500" height="281"
+            srcset="https://realtymogul.brightspotgocdn.com/dims4/default/0dddcce/2147483647/strip/true/crop/1920x1079+0+12/resize/500x281!/format/webp/quality/90/?url=https%3A%2F%2Fbrightspot-go-k1-realtymogul.s3.us-east-1.amazonaws.com%2Fbrightspot%2F0f%2F91%2Fc78a14804ddbbf4aa4fef59ca0f0%2F5-rm-comm-q1-gameplan.jpg 1x,https://realtymogul.brightspotgocdn.com/dims4/default/fbb577b/2147483647/strip/true/crop/1920x1079+0+12/resize/1000x562!/format/webp/quality/90/?url=https%3A%2F%2Fbrightspot-go-k1-realtymogul.s3.us-east-1.amazonaws.com%2Fbrightspot%2F0f%2F91%2Fc78a14804ddbbf4aa4fef59ca0f0%2F5-rm-comm-q1-gameplan.jpg 2x"
+     />
+
+    
+
+    
+        <source width="500" height="281"
+            srcset="../realtymogul.brightspotgocdn.com/dims4/default/79ed88a/2147483647/strip/true/crop/1920x1079%2b0%2b12/resize/500x281%21/quality/90/indexddd7.html?url=https%3A%2F%2Fbrightspot-go-k1-realtymogul.s3.us-east-1.amazonaws.com%2Fbrightspot%2F0f%2F91%2Fc78a14804ddbbf4aa4fef59ca0f0%2F5-rm-comm-q1-gameplan.jpg"
+     />
+
+    
+
+
+    
+    
+    <img class="Image"
+        data-image-size="medium-16x9" alt="5 RM-COMM-Q1-Gameplan.jpg" width="500" height="281" srcset="https://realtymogul.brightspotgocdn.com/dims4/default/79ed88a/2147483647/strip/true/crop/1920x1079+0+12/resize/500x281!/quality/90/?url=https%3A%2F%2Fbrightspot-go-k1-realtymogul.s3.us-east-1.amazonaws.com%2Fbrightspot%2F0f%2F91%2Fc78a14804ddbbf4aa4fef59ca0f0%2F5-rm-comm-q1-gameplan.jpg 1x,https://realtymogul.brightspotgocdn.com/dims4/default/acb4fce/2147483647/strip/true/crop/1920x1079+0+12/resize/1000x562!/quality/90/?url=https%3A%2F%2Fbrightspot-go-k1-realtymogul.s3.us-east-1.amazonaws.com%2Fbrightspot%2F0f%2F91%2Fc78a14804ddbbf4aa4fef59ca0f0%2F5-rm-comm-q1-gameplan.jpg 2x" src="../realtymogul.brightspotgocdn.com/dims4/default/79ed88a/2147483647/strip/true/crop/1920x1079%2b0%2b12/resize/500x281%21/quality/90/indexddd7.html?url=https%3A%2F%2Fbrightspot-go-k1-realtymogul.s3.us-east-1.amazonaws.com%2Fbrightspot%2F0f%2F91%2Fc78a14804ddbbf4aa4fef59ca0f0%2F5-rm-comm-q1-gameplan.jpg"
+         loading="lazy">
+
+
+</picture>
+
+            
+
+            <div class="VideoPlaylistItem-playIcon">
+                <svg><use xlink:href="#play-arrow"></use></svg>
+            </div>
+
+            <div class="VideoPlaylistItem-playingText">
+                On Now
+            </div>
+        </div>
+    
+    <div class="VideoPlaylistItem-body">
+        
+            <div class="VideoPlaylistItem-title">Q1 2024 Webinar: Gameplan and Investing Philosophy</div>
+        
+        
+
+        
+        <div class="VideoPlaylistItem-data"
+            
+            
+            
+            >
+                
+                <div data-title>Q1 2024 Webinar: Gameplan and Investing Philosophy</div>
+                
+            </div>
+    </div>
+    <template>
+        
+            <bsp-vimeo-player data-video-player class="VimeoVideoPlayer"
+    data-player-id=""
+    data-video-id="953347648"
+    data-video-title="Q1 2024 Webinar: Gameplan and Investing Philosophy">
+
+    <iframe id="VimeoVideoPlayer-" src="https://player.vimeo.com/video/953347648?transparent=0" allowfullscreen></iframe>
+</ps-vimeo-player>
+
+        
+    </template>
+</div>
+
+                        </div>
+                    
+                        <div class="VideoPlaylistModule-playlist-items-item">
+                            <div class="VideoPlaylistItem" content-id="0000018f-e08c-dd28-addf-f59c012d0000">
+    
+        <div class="VideoPlaylistItem-media">
+            
+                <picture>
+    
+    
+        
+            
+
+        
+    
+
+    
+    
+        
+    
+            <source type="image/webp"  width="500" height="281"
+            srcset="https://realtymogul.brightspotgocdn.com/dims4/default/2b9e5c0/2147483647/strip/true/crop/1920x1079+0+12/resize/500x281!/format/webp/quality/90/?url=https%3A%2F%2Fbrightspot-go-k1-realtymogul.s3.us-east-1.amazonaws.com%2Fbrightspot%2F89%2Fb9%2F8dbe2a534e24ba6a93dd2741b19a%2Frm-comm-q1-qanda.jpg 1x,https://realtymogul.brightspotgocdn.com/dims4/default/ae3d957/2147483647/strip/true/crop/1920x1079+0+12/resize/1000x562!/format/webp/quality/90/?url=https%3A%2F%2Fbrightspot-go-k1-realtymogul.s3.us-east-1.amazonaws.com%2Fbrightspot%2F89%2Fb9%2F8dbe2a534e24ba6a93dd2741b19a%2Frm-comm-q1-qanda.jpg 2x"
+     />
+
+    
+
+    
+        <source width="500" height="281"
+            srcset="../realtymogul.brightspotgocdn.com/dims4/default/ddd2e84/2147483647/strip/true/crop/1920x1079%2b0%2b12/resize/500x281%21/quality/90/index7a7d.html?url=https%3A%2F%2Fbrightspot-go-k1-realtymogul.s3.us-east-1.amazonaws.com%2Fbrightspot%2F89%2Fb9%2F8dbe2a534e24ba6a93dd2741b19a%2Frm-comm-q1-qanda.jpg"
+     />
+
+    
+
+
+    
+    
+    <img class="Image"
+        data-image-size="medium-16x9" alt="RM-COMM-Q1-QandA.jpg" width="500" height="281" srcset="https://realtymogul.brightspotgocdn.com/dims4/default/ddd2e84/2147483647/strip/true/crop/1920x1079+0+12/resize/500x281!/quality/90/?url=https%3A%2F%2Fbrightspot-go-k1-realtymogul.s3.us-east-1.amazonaws.com%2Fbrightspot%2F89%2Fb9%2F8dbe2a534e24ba6a93dd2741b19a%2Frm-comm-q1-qanda.jpg 1x,https://realtymogul.brightspotgocdn.com/dims4/default/be951e7/2147483647/strip/true/crop/1920x1079+0+12/resize/1000x562!/quality/90/?url=https%3A%2F%2Fbrightspot-go-k1-realtymogul.s3.us-east-1.amazonaws.com%2Fbrightspot%2F89%2Fb9%2F8dbe2a534e24ba6a93dd2741b19a%2Frm-comm-q1-qanda.jpg 2x" src="../realtymogul.brightspotgocdn.com/dims4/default/ddd2e84/2147483647/strip/true/crop/1920x1079%2b0%2b12/resize/500x281%21/quality/90/index7a7d.html?url=https%3A%2F%2Fbrightspot-go-k1-realtymogul.s3.us-east-1.amazonaws.com%2Fbrightspot%2F89%2Fb9%2F8dbe2a534e24ba6a93dd2741b19a%2Frm-comm-q1-qanda.jpg"
+         loading="lazy">
+
+
+</picture>
+
+            
+
+            <div class="VideoPlaylistItem-playIcon">
+                <svg><use xlink:href="#play-arrow"></use></svg>
+            </div>
+
+            <div class="VideoPlaylistItem-playingText">
+                On Now
+            </div>
+        </div>
+    
+    <div class="VideoPlaylistItem-body">
+        
+            <div class="VideoPlaylistItem-title">Q1 2024 Webinar: Questions &amp; Answers</div>
+        
+        
+
+        
+        <div class="VideoPlaylistItem-data"
+            
+            
+            
+            >
+                
+                <div data-title>Q1 2024 Webinar: Questions &amp; Answers</div>
+                
+            </div>
+    </div>
+    <template>
+        
+            <bsp-vimeo-player data-video-player class="VimeoVideoPlayer"
+    data-player-id=""
+    data-video-id="953348828"
+    data-video-title="Q1 2024 Webinar: Questions &amp; Answers">
+
+    <iframe id="VimeoVideoPlayer-" src="https://player.vimeo.com/video/953348828?transparent=0" allowfullscreen></iframe>
+</ps-vimeo-player>
+
+        
+    </template>
+</div>
+
+                        </div>
+                    
+                        <div class="VideoPlaylistModule-playlist-items-item">
+                            <div class="VideoPlaylistItem" content-id="0000018f-e07e-dd28-addf-f57e6dd40000">
+    
+        <div class="VideoPlaylistItem-media">
+            
+                <picture>
+    
+    
+        
+            
+
+        
+    
+
+    
+    
+        
+    
+            <source type="image/webp"  width="500" height="281"
+            srcset="https://realtymogul.brightspotgocdn.com/dims4/default/5ba51dd/2147483647/strip/true/crop/2833x1592+17+0/resize/500x281!/format/webp/quality/90/?url=https%3A%2F%2Fbrightspot-go-k1-realtymogul.s3.us-east-1.amazonaws.com%2Fbrightspot%2F6e%2Fee%2F9a6c8f77487186cee02b11bd81c5%2F1-rm-comm-q1-full-video.jpg 1x,https://realtymogul.brightspotgocdn.com/dims4/default/1638525/2147483647/strip/true/crop/2833x1592+17+0/resize/1000x562!/format/webp/quality/90/?url=https%3A%2F%2Fbrightspot-go-k1-realtymogul.s3.us-east-1.amazonaws.com%2Fbrightspot%2F6e%2Fee%2F9a6c8f77487186cee02b11bd81c5%2F1-rm-comm-q1-full-video.jpg 2x"
+     />
+
+    
+
+    
+        <source width="500" height="281"
+            srcset="../realtymogul.brightspotgocdn.com/dims4/default/0c54a15/2147483647/strip/true/crop/2833x1592%2b17%2b0/resize/500x281%21/quality/90/index9a60.html?url=https%3A%2F%2Fbrightspot-go-k1-realtymogul.s3.us-east-1.amazonaws.com%2Fbrightspot%2F6e%2Fee%2F9a6c8f77487186cee02b11bd81c5%2F1-rm-comm-q1-full-video.jpg"
+     />
+
+    
+
+
+    
+    
+    <img class="Image"
+        data-image-size="medium-16x9" alt="1 RM-COMM Q1 full video.jpg" width="500" height="281" srcset="https://realtymogul.brightspotgocdn.com/dims4/default/0c54a15/2147483647/strip/true/crop/2833x1592+17+0/resize/500x281!/quality/90/?url=https%3A%2F%2Fbrightspot-go-k1-realtymogul.s3.us-east-1.amazonaws.com%2Fbrightspot%2F6e%2Fee%2F9a6c8f77487186cee02b11bd81c5%2F1-rm-comm-q1-full-video.jpg 1x,https://realtymogul.brightspotgocdn.com/dims4/default/3961da3/2147483647/strip/true/crop/2833x1592+17+0/resize/1000x562!/quality/90/?url=https%3A%2F%2Fbrightspot-go-k1-realtymogul.s3.us-east-1.amazonaws.com%2Fbrightspot%2F6e%2Fee%2F9a6c8f77487186cee02b11bd81c5%2F1-rm-comm-q1-full-video.jpg 2x" src="../realtymogul.brightspotgocdn.com/dims4/default/0c54a15/2147483647/strip/true/crop/2833x1592%2b17%2b0/resize/500x281%21/quality/90/index9a60.html?url=https%3A%2F%2Fbrightspot-go-k1-realtymogul.s3.us-east-1.amazonaws.com%2Fbrightspot%2F6e%2Fee%2F9a6c8f77487186cee02b11bd81c5%2F1-rm-comm-q1-full-video.jpg"
+         loading="lazy">
+
+
+</picture>
+
+            
+
+            <div class="VideoPlaylistItem-playIcon">
+                <svg><use xlink:href="#play-arrow"></use></svg>
+            </div>
+
+            <div class="VideoPlaylistItem-playingText">
+                On Now
+            </div>
+        </div>
+    
+    <div class="VideoPlaylistItem-body">
+        
+            <div class="VideoPlaylistItem-title">Q1 2024 Webinar: Full Webinar</div>
+        
+        
+
+        
+        <div class="VideoPlaylistItem-data"
+            
+            
+            
+            >
+                
+                <div data-title>Q1 2024 Webinar: Full Webinar</div>
+                
+            </div>
+    </div>
+    <template>
+        
+            <bsp-vimeo-player data-video-player class="VimeoVideoPlayer"
+    data-player-id=""
+    data-video-id="953323574"
+    data-video-title="Q1 2024 Webinar: Full Webinar">
+
+    <iframe id="VimeoVideoPlayer-" src="https://player.vimeo.com/video/953323574?transparent=0" allowfullscreen></iframe>
+</ps-vimeo-player>
+
+        
+    </template>
+</div>
+
+                        </div>
+                    
+                </div>
+                <button class="VideoPlaylistModule-playlistToggle" data-click="toggleExpand">View More Videos</button>
+            </div>
+        
+    </div>
+</bsp-video-playlist-module><div class="TwoColumnContainer5050" data-module data-has-background style="--color-module-background:#ffffff;">
+    
+    <a class="AnchorLink" id="container-module-2-column-320005" name="container-module-2-column-320005" data-cms-ai="0"></a>
+
+
+
+
+
+    <div class="TwoColumnContainer5050-container">
+        
+            <div class="TwoColumnContainer5050-column" data-modulewell>
+                <div class="RichTextModule" data-module 
+
+    data-module-padding
+
+
+    data-module-margin="none"
+>
+    
+    <a class="AnchorLink" id="terrace-hill-case-study" name="terrace-hill-case-study" data-cms-ai="0"></a>
+
+
+    
+        <div class="RichTextModule-title">Terrace Hill Case Study</div>
+    
+    
+    <div class="RichTextModule-items RichTextBody"><p><b>Date Acquired:</b> 5/31/2019</p><p><b>Purchase Price:</b> $18,700,000</p><p><b>Units:</b> 310</p><p>An affiliate of RM Communities acquired this 310-unit apartment property in May, 2019. The business plan was to make capital improvements to the exterior of the building and renovate a majority of the units to bring rents up to market, which at sale, was projected to generate a property-level IRR of 17.4%.</p><p>In the subsequent months, 219 of the 310 units were renovated and all renovated units were successfully leased, achieving an average premium rent rate of $134/month over the prior rent rates.</p><p>Based on this strong execution of the business plan which drove a 23% increase in the rental rate, the affiliate of RM Communities was able to successfully sell the property on October 25, 2021, resulting in:<br></p><ul class="rte2-style-ul"><li><h3>23.1% property-level IRR<sup>2,3</sup></h3></li><li><h3>1.53x equity multiple<sup>2,3</sup></h3></li><li><h3>5.3% average cash-on-cash return for investors.<sup>2,3</sup></h3></li></ul></div>
+
+
+</div>
+            </div>
+        
+        
+            <div class="TwoColumnContainer5050-column" data-modulewell>
+                <div class="RichTextModule" data-module 
+
+>
+    
+    <a class="AnchorLink" id="rich-text-module-110000" name="rich-text-module-110000" data-cms-ai="0"></a>
+
+
+    
+    
+    <div class="RichTextModule-items RichTextBody"><p></p><div class="Enhancement" data-align-center>
+        <div class="Enhancement-item">
+            
+            
+                
+                    
+                        <bsp-carousel class="Carousel">
+    
+    <a class="AnchorLink" id="gallery-4a0000" name="gallery-4a0000" data-cms-ai="0"></a>
+
+
+    <div class="Carousel-slides">
+        
+            <div class="Carousel-slide">
+                <div class="CarouselSlide" >
+    <div class="CarouselSlide-media">
+        
+            
+                
+                    <picture>
+    
+    
+        
+            
+
+        
+    
+
+    
+    
+        
+    
+            <source type="image/webp"  width="1000" height="563"
+            srcset="https://realtymogul.brightspotgocdn.com/dims4/default/0d722ee/2147483647/strip/true/crop/1455x819+0+66/resize/1000x563!/format/webp/quality/90/?url=https%3A%2F%2Fbrightspot-go-k1-realtymogul.s3.us-east-1.amazonaws.com%2Fbrightspot%2Ff9%2Fca%2Fc9eb87ac4555b2f9dc68a3ce3838%2Fterrace-hill-signage.jpg 1x,https://realtymogul.brightspotgocdn.com/dims4/default/5bcec9e/2147483647/strip/true/crop/1455x819+0+66/resize/2000x1126!/format/webp/quality/90/?url=https%3A%2F%2Fbrightspot-go-k1-realtymogul.s3.us-east-1.amazonaws.com%2Fbrightspot%2Ff9%2Fca%2Fc9eb87ac4555b2f9dc68a3ce3838%2Fterrace-hill-signage.jpg 2x"
+     />
+
+    
+
+    
+        <source width="1000" height="563"
+            srcset="../realtymogul.brightspotgocdn.com/dims4/default/ffe0f30/2147483647/strip/true/crop/1455x819%2b0%2b66/resize/1000x563%21/quality/90/indexb842.html?url=https%3A%2F%2Fbrightspot-go-k1-realtymogul.s3.us-east-1.amazonaws.com%2Fbrightspot%2Ff9%2Fca%2Fc9eb87ac4555b2f9dc68a3ce3838%2Fterrace-hill-signage.jpg"
+     />
+
+    
+
+
+    
+    
+    <img class="Image"
+        data-image-size="large-16x9" alt="terrace-hill-signage.jpg" width="1000" height="563" srcset="https://realtymogul.brightspotgocdn.com/dims4/default/ffe0f30/2147483647/strip/true/crop/1455x819+0+66/resize/1000x563!/quality/90/?url=https%3A%2F%2Fbrightspot-go-k1-realtymogul.s3.us-east-1.amazonaws.com%2Fbrightspot%2Ff9%2Fca%2Fc9eb87ac4555b2f9dc68a3ce3838%2Fterrace-hill-signage.jpg 1x,https://realtymogul.brightspotgocdn.com/dims4/default/dc25e0d/2147483647/strip/true/crop/1455x819+0+66/resize/2000x1126!/quality/90/?url=https%3A%2F%2Fbrightspot-go-k1-realtymogul.s3.us-east-1.amazonaws.com%2Fbrightspot%2Ff9%2Fca%2Fc9eb87ac4555b2f9dc68a3ce3838%2Fterrace-hill-signage.jpg 2x" src="../realtymogul.brightspotgocdn.com/dims4/default/ffe0f30/2147483647/strip/true/crop/1455x819%2b0%2b66/resize/1000x563%21/quality/90/indexb842.html?url=https%3A%2F%2Fbrightspot-go-k1-realtymogul.s3.us-east-1.amazonaws.com%2Fbrightspot%2Ff9%2Fca%2Fc9eb87ac4555b2f9dc68a3ce3838%2Fterrace-hill-signage.jpg"
+        >
+
+
+</picture>
+
+                
+            
+        
+    </div>
+    <div class="CarouselSlide-info">
+        <span class="CarouselSlide-slideCount"><span class="CarouselSlide-currentSlide">1</span>/<span class="CarouselSlide-slidesLength">8</span></span></div>
+</div>
+
+            </div>
+        
+            <div class="Carousel-slide">
+                <div class="CarouselSlide" >
+    <div class="CarouselSlide-media">
+        
+            
+                
+                    <picture>
+    
+    
+        
+            
+
+        
+    
+
+    
+    
+        
+    
+            <source type="image/webp"  width="1000" height="563"
+            srcset="https://realtymogul.brightspotgocdn.com/dims4/default/ecffc2e/2147483647/strip/true/crop/1455x819+0+66/resize/1000x563!/format/webp/quality/90/?url=https%3A%2F%2Fbrightspot-go-k1-realtymogul.s3.us-east-1.amazonaws.com%2Fbrightspot%2F0c%2F72%2F7d1e5ee949bdbd88c26bf1da802f%2Fterrrace-hill-pool.jpg 1x,https://realtymogul.brightspotgocdn.com/dims4/default/3342568/2147483647/strip/true/crop/1455x819+0+66/resize/2000x1126!/format/webp/quality/90/?url=https%3A%2F%2Fbrightspot-go-k1-realtymogul.s3.us-east-1.amazonaws.com%2Fbrightspot%2F0c%2F72%2F7d1e5ee949bdbd88c26bf1da802f%2Fterrrace-hill-pool.jpg 2x"
+     />
+
+    
+
+    
+        <source width="1000" height="563"
+            srcset="../realtymogul.brightspotgocdn.com/dims4/default/934d75a/2147483647/strip/true/crop/1455x819%2b0%2b66/resize/1000x563%21/quality/90/index5d45.html?url=https%3A%2F%2Fbrightspot-go-k1-realtymogul.s3.us-east-1.amazonaws.com%2Fbrightspot%2F0c%2F72%2F7d1e5ee949bdbd88c26bf1da802f%2Fterrrace-hill-pool.jpg"
+     />
+
+    
+
+
+    
+    
+    <img class="Image"
+        data-image-size="large-16x9" alt="terrrace-hill-pool.jpg" width="1000" height="563" srcset="https://realtymogul.brightspotgocdn.com/dims4/default/934d75a/2147483647/strip/true/crop/1455x819+0+66/resize/1000x563!/quality/90/?url=https%3A%2F%2Fbrightspot-go-k1-realtymogul.s3.us-east-1.amazonaws.com%2Fbrightspot%2F0c%2F72%2F7d1e5ee949bdbd88c26bf1da802f%2Fterrrace-hill-pool.jpg 1x,https://realtymogul.brightspotgocdn.com/dims4/default/30c23b4/2147483647/strip/true/crop/1455x819+0+66/resize/2000x1126!/quality/90/?url=https%3A%2F%2Fbrightspot-go-k1-realtymogul.s3.us-east-1.amazonaws.com%2Fbrightspot%2F0c%2F72%2F7d1e5ee949bdbd88c26bf1da802f%2Fterrrace-hill-pool.jpg 2x" src="../realtymogul.brightspotgocdn.com/dims4/default/934d75a/2147483647/strip/true/crop/1455x819%2b0%2b66/resize/1000x563%21/quality/90/index5d45.html?url=https%3A%2F%2Fbrightspot-go-k1-realtymogul.s3.us-east-1.amazonaws.com%2Fbrightspot%2F0c%2F72%2F7d1e5ee949bdbd88c26bf1da802f%2Fterrrace-hill-pool.jpg"
+        >
+
+
+</picture>
+
+                
+            
+        
+    </div>
+    <div class="CarouselSlide-info">
+        <span class="CarouselSlide-slideCount"><span class="CarouselSlide-currentSlide">2</span>/<span class="CarouselSlide-slidesLength">8</span></span></div>
+</div>
+
+            </div>
+        
+            <div class="Carousel-slide">
+                <div class="CarouselSlide" >
+    <div class="CarouselSlide-media">
+        
+            
+                
+                    <picture>
+    
+    
+        
+            
+
+        
+    
+
+    
+    
+        
+    
+            <source type="image/webp"  width="1000" height="563"
+            srcset="https://realtymogul.brightspotgocdn.com/dims4/default/c8e4d61/2147483647/strip/true/crop/1455x819+0+66/resize/1000x563!/format/webp/quality/90/?url=https%3A%2F%2Fbrightspot-go-k1-realtymogul.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fbe%2F45%2F3f10abeb4cf485f62ee92ebaed7d%2Fkitchen-before-terrace-hill.png 1x,https://realtymogul.brightspotgocdn.com/dims4/default/cca8138/2147483647/strip/true/crop/1455x819+0+66/resize/2000x1126!/format/webp/quality/90/?url=https%3A%2F%2Fbrightspot-go-k1-realtymogul.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fbe%2F45%2F3f10abeb4cf485f62ee92ebaed7d%2Fkitchen-before-terrace-hill.png 2x"
+     />
+
+    
+
+    
+        <source width="1000" height="563"
+            srcset="../realtymogul.brightspotgocdn.com/dims4/default/846a7ea/2147483647/strip/true/crop/1455x819%2b0%2b66/resize/1000x563%21/quality/90/index4019.html?url=https%3A%2F%2Fbrightspot-go-k1-realtymogul.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fbe%2F45%2F3f10abeb4cf485f62ee92ebaed7d%2Fkitchen-before-terrace-hill.png"
+     />
+
+    
+
+
+    
+    
+    <img class="Image"
+        data-image-size="large-16x9" alt="kitchen-before-terrace-hill-.png" width="1000" height="563" srcset="https://realtymogul.brightspotgocdn.com/dims4/default/846a7ea/2147483647/strip/true/crop/1455x819+0+66/resize/1000x563!/quality/90/?url=https%3A%2F%2Fbrightspot-go-k1-realtymogul.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fbe%2F45%2F3f10abeb4cf485f62ee92ebaed7d%2Fkitchen-before-terrace-hill.png 1x,https://realtymogul.brightspotgocdn.com/dims4/default/a12e7b1/2147483647/strip/true/crop/1455x819+0+66/resize/2000x1126!/quality/90/?url=https%3A%2F%2Fbrightspot-go-k1-realtymogul.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fbe%2F45%2F3f10abeb4cf485f62ee92ebaed7d%2Fkitchen-before-terrace-hill.png 2x" src="../realtymogul.brightspotgocdn.com/dims4/default/846a7ea/2147483647/strip/true/crop/1455x819%2b0%2b66/resize/1000x563%21/quality/90/index4019.html?url=https%3A%2F%2Fbrightspot-go-k1-realtymogul.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fbe%2F45%2F3f10abeb4cf485f62ee92ebaed7d%2Fkitchen-before-terrace-hill.png"
+        >
+
+
+</picture>
+
+                
+            
+        
+    </div>
+    <div class="CarouselSlide-info">
+        <span class="CarouselSlide-slideCount"><span class="CarouselSlide-currentSlide">3</span>/<span class="CarouselSlide-slidesLength">8</span></span></div>
+</div>
+
+            </div>
+        
+            <div class="Carousel-slide">
+                <div class="CarouselSlide" >
+    <div class="CarouselSlide-media">
+        
+            
+                
+                    <picture>
+    
+    
+        
+            
+
+        
+    
+
+    
+    
+        
+    
+            <source type="image/webp"  width="1000" height="563"
+            srcset="https://realtymogul.brightspotgocdn.com/dims4/default/b569611/2147483647/strip/true/crop/1455x819+0+66/resize/1000x563!/format/webp/quality/90/?url=https%3A%2F%2Fbrightspot-go-k1-realtymogul.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fb3%2Fa6%2F20d1e6ec40c8b309c38323312cb4%2Fkitchen-after-terrace-hill.png 1x,https://realtymogul.brightspotgocdn.com/dims4/default/fa5d6b0/2147483647/strip/true/crop/1455x819+0+66/resize/2000x1126!/format/webp/quality/90/?url=https%3A%2F%2Fbrightspot-go-k1-realtymogul.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fb3%2Fa6%2F20d1e6ec40c8b309c38323312cb4%2Fkitchen-after-terrace-hill.png 2x"
+     />
+
+    
+
+    
+        <source width="1000" height="563"
+            srcset="../realtymogul.brightspotgocdn.com/dims4/default/e11aa1e/2147483647/strip/true/crop/1455x819%2b0%2b66/resize/1000x563%21/quality/90/index37b7.html?url=https%3A%2F%2Fbrightspot-go-k1-realtymogul.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fb3%2Fa6%2F20d1e6ec40c8b309c38323312cb4%2Fkitchen-after-terrace-hill.png"
+     />
+
+    
+
+
+    
+    
+    <img class="Image"
+        data-image-size="large-16x9" alt="Kitchen-after-terrace-hill.png" width="1000" height="563" srcset="https://realtymogul.brightspotgocdn.com/dims4/default/e11aa1e/2147483647/strip/true/crop/1455x819+0+66/resize/1000x563!/quality/90/?url=https%3A%2F%2Fbrightspot-go-k1-realtymogul.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fb3%2Fa6%2F20d1e6ec40c8b309c38323312cb4%2Fkitchen-after-terrace-hill.png 1x,https://realtymogul.brightspotgocdn.com/dims4/default/fa8980d/2147483647/strip/true/crop/1455x819+0+66/resize/2000x1126!/quality/90/?url=https%3A%2F%2Fbrightspot-go-k1-realtymogul.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fb3%2Fa6%2F20d1e6ec40c8b309c38323312cb4%2Fkitchen-after-terrace-hill.png 2x" src="../realtymogul.brightspotgocdn.com/dims4/default/e11aa1e/2147483647/strip/true/crop/1455x819%2b0%2b66/resize/1000x563%21/quality/90/index37b7.html?url=https%3A%2F%2Fbrightspot-go-k1-realtymogul.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fb3%2Fa6%2F20d1e6ec40c8b309c38323312cb4%2Fkitchen-after-terrace-hill.png"
+        >
+
+
+</picture>
+
+                
+            
+        
+    </div>
+    <div class="CarouselSlide-info">
+        <span class="CarouselSlide-slideCount"><span class="CarouselSlide-currentSlide">4</span>/<span class="CarouselSlide-slidesLength">8</span></span></div>
+</div>
+
+            </div>
+        
+            <div class="Carousel-slide">
+                <div class="CarouselSlide" >
+    <div class="CarouselSlide-media">
+        
+            
+                
+                    <picture>
+    
+    
+        
+            
+
+        
+    
+
+    
+    
+        
+    
+            <source type="image/webp"  width="1000" height="563"
+            srcset="https://realtymogul.brightspotgocdn.com/dims4/default/d0799b7/2147483647/strip/true/crop/1455x819+0+66/resize/1000x563!/format/webp/quality/90/?url=https%3A%2F%2Fbrightspot-go-k1-realtymogul.s3.us-east-1.amazonaws.com%2Fbrightspot%2F0a%2F2c%2F6a891bdf4ba58d03964ae0c829df%2Fbathroom-before-terrace-hill.png 1x,https://realtymogul.brightspotgocdn.com/dims4/default/9405643/2147483647/strip/true/crop/1455x819+0+66/resize/2000x1126!/format/webp/quality/90/?url=https%3A%2F%2Fbrightspot-go-k1-realtymogul.s3.us-east-1.amazonaws.com%2Fbrightspot%2F0a%2F2c%2F6a891bdf4ba58d03964ae0c829df%2Fbathroom-before-terrace-hill.png 2x"
+     />
+
+    
+
+    
+        <source width="1000" height="563"
+            srcset="../realtymogul.brightspotgocdn.com/dims4/default/08d7373/2147483647/strip/true/crop/1455x819%2b0%2b66/resize/1000x563%21/quality/90/index141c.html?url=https%3A%2F%2Fbrightspot-go-k1-realtymogul.s3.us-east-1.amazonaws.com%2Fbrightspot%2F0a%2F2c%2F6a891bdf4ba58d03964ae0c829df%2Fbathroom-before-terrace-hill.png"
+     />
+
+    
+
+
+    
+    
+    <img class="Image"
+        data-image-size="large-16x9" alt="bathroom-before-terrace-hill.png" width="1000" height="563" srcset="https://realtymogul.brightspotgocdn.com/dims4/default/08d7373/2147483647/strip/true/crop/1455x819+0+66/resize/1000x563!/quality/90/?url=https%3A%2F%2Fbrightspot-go-k1-realtymogul.s3.us-east-1.amazonaws.com%2Fbrightspot%2F0a%2F2c%2F6a891bdf4ba58d03964ae0c829df%2Fbathroom-before-terrace-hill.png 1x,https://realtymogul.brightspotgocdn.com/dims4/default/8917128/2147483647/strip/true/crop/1455x819+0+66/resize/2000x1126!/quality/90/?url=https%3A%2F%2Fbrightspot-go-k1-realtymogul.s3.us-east-1.amazonaws.com%2Fbrightspot%2F0a%2F2c%2F6a891bdf4ba58d03964ae0c829df%2Fbathroom-before-terrace-hill.png 2x" src="../realtymogul.brightspotgocdn.com/dims4/default/08d7373/2147483647/strip/true/crop/1455x819%2b0%2b66/resize/1000x563%21/quality/90/index141c.html?url=https%3A%2F%2Fbrightspot-go-k1-realtymogul.s3.us-east-1.amazonaws.com%2Fbrightspot%2F0a%2F2c%2F6a891bdf4ba58d03964ae0c829df%2Fbathroom-before-terrace-hill.png"
+        >
+
+
+</picture>
+
+                
+            
+        
+    </div>
+    <div class="CarouselSlide-info">
+        <span class="CarouselSlide-slideCount"><span class="CarouselSlide-currentSlide">5</span>/<span class="CarouselSlide-slidesLength">8</span></span></div>
+</div>
+
+            </div>
+        
+            <div class="Carousel-slide">
+                <div class="CarouselSlide" >
+    <div class="CarouselSlide-media">
+        
+            
+                
+                    <picture>
+    
+    
+        
+            
+
+        
+    
+
+    
+    
+        
+    
+            <source type="image/webp"  width="1000" height="563"
+            srcset="https://realtymogul.brightspotgocdn.com/dims4/default/c4ddca3/2147483647/strip/true/crop/1455x819+0+66/resize/1000x563!/format/webp/quality/90/?url=https%3A%2F%2Fbrightspot-go-k1-realtymogul.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fb3%2Ffe%2F1c714c184437af4710c93576725d%2Fbathroom-after-terrace-hill.png 1x,https://realtymogul.brightspotgocdn.com/dims4/default/06ba0c7/2147483647/strip/true/crop/1455x819+0+66/resize/2000x1126!/format/webp/quality/90/?url=https%3A%2F%2Fbrightspot-go-k1-realtymogul.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fb3%2Ffe%2F1c714c184437af4710c93576725d%2Fbathroom-after-terrace-hill.png 2x"
+     />
+
+    
+
+    
+        <source width="1000" height="563"
+            srcset="../realtymogul.brightspotgocdn.com/dims4/default/d6603ad/2147483647/strip/true/crop/1455x819%2b0%2b66/resize/1000x563%21/quality/90/index3d75.html?url=https%3A%2F%2Fbrightspot-go-k1-realtymogul.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fb3%2Ffe%2F1c714c184437af4710c93576725d%2Fbathroom-after-terrace-hill.png"
+     />
+
+    
+
+
+    
+    
+    <img class="Image"
+        data-image-size="large-16x9" alt="bathroom-after-terrace-hill.png" width="1000" height="563" srcset="https://realtymogul.brightspotgocdn.com/dims4/default/d6603ad/2147483647/strip/true/crop/1455x819+0+66/resize/1000x563!/quality/90/?url=https%3A%2F%2Fbrightspot-go-k1-realtymogul.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fb3%2Ffe%2F1c714c184437af4710c93576725d%2Fbathroom-after-terrace-hill.png 1x,https://realtymogul.brightspotgocdn.com/dims4/default/f3a41c0/2147483647/strip/true/crop/1455x819+0+66/resize/2000x1126!/quality/90/?url=https%3A%2F%2Fbrightspot-go-k1-realtymogul.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fb3%2Ffe%2F1c714c184437af4710c93576725d%2Fbathroom-after-terrace-hill.png 2x" src="../realtymogul.brightspotgocdn.com/dims4/default/d6603ad/2147483647/strip/true/crop/1455x819%2b0%2b66/resize/1000x563%21/quality/90/index3d75.html?url=https%3A%2F%2Fbrightspot-go-k1-realtymogul.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fb3%2Ffe%2F1c714c184437af4710c93576725d%2Fbathroom-after-terrace-hill.png"
+        >
+
+
+</picture>
+
+                
+            
+        
+    </div>
+    <div class="CarouselSlide-info">
+        <span class="CarouselSlide-slideCount"><span class="CarouselSlide-currentSlide">6</span>/<span class="CarouselSlide-slidesLength">8</span></span></div>
+</div>
+
+            </div>
+        
+            <div class="Carousel-slide">
+                <div class="CarouselSlide" >
+    <div class="CarouselSlide-media">
+        
+            
+                
+                    <picture>
+    
+    
+        
+            
+
+        
+    
+
+    
+    
+        
+    
+            <source type="image/webp"  width="1000" height="563"
+            srcset="https://realtymogul.brightspotgocdn.com/dims4/default/e1fb8bc/2147483647/strip/true/crop/1455x819+0+66/resize/1000x563!/format/webp/quality/90/?url=https%3A%2F%2Fbrightspot-go-k1-realtymogul.s3.us-east-1.amazonaws.com%2Fbrightspot%2F63%2Fdc%2F6cb1c0ff4357a85d8b6639f3c033%2Fliving-before-terrace-hill.png 1x,https://realtymogul.brightspotgocdn.com/dims4/default/060737a/2147483647/strip/true/crop/1455x819+0+66/resize/2000x1126!/format/webp/quality/90/?url=https%3A%2F%2Fbrightspot-go-k1-realtymogul.s3.us-east-1.amazonaws.com%2Fbrightspot%2F63%2Fdc%2F6cb1c0ff4357a85d8b6639f3c033%2Fliving-before-terrace-hill.png 2x"
+     />
+
+    
+
+    
+        <source width="1000" height="563"
+            srcset="../realtymogul.brightspotgocdn.com/dims4/default/e36eba6/2147483647/strip/true/crop/1455x819%2b0%2b66/resize/1000x563%21/quality/90/index4830.html?url=https%3A%2F%2Fbrightspot-go-k1-realtymogul.s3.us-east-1.amazonaws.com%2Fbrightspot%2F63%2Fdc%2F6cb1c0ff4357a85d8b6639f3c033%2Fliving-before-terrace-hill.png"
+     />
+
+    
+
+
+    
+    
+    <img class="Image"
+        data-image-size="large-16x9" alt="Living-before-terrace-hill.png" width="1000" height="563" srcset="https://realtymogul.brightspotgocdn.com/dims4/default/e36eba6/2147483647/strip/true/crop/1455x819+0+66/resize/1000x563!/quality/90/?url=https%3A%2F%2Fbrightspot-go-k1-realtymogul.s3.us-east-1.amazonaws.com%2Fbrightspot%2F63%2Fdc%2F6cb1c0ff4357a85d8b6639f3c033%2Fliving-before-terrace-hill.png 1x,https://realtymogul.brightspotgocdn.com/dims4/default/5698db4/2147483647/strip/true/crop/1455x819+0+66/resize/2000x1126!/quality/90/?url=https%3A%2F%2Fbrightspot-go-k1-realtymogul.s3.us-east-1.amazonaws.com%2Fbrightspot%2F63%2Fdc%2F6cb1c0ff4357a85d8b6639f3c033%2Fliving-before-terrace-hill.png 2x" src="../realtymogul.brightspotgocdn.com/dims4/default/e36eba6/2147483647/strip/true/crop/1455x819%2b0%2b66/resize/1000x563%21/quality/90/index4830.html?url=https%3A%2F%2Fbrightspot-go-k1-realtymogul.s3.us-east-1.amazonaws.com%2Fbrightspot%2F63%2Fdc%2F6cb1c0ff4357a85d8b6639f3c033%2Fliving-before-terrace-hill.png"
+        >
+
+
+</picture>
+
+                
+            
+        
+    </div>
+    <div class="CarouselSlide-info">
+        <span class="CarouselSlide-slideCount"><span class="CarouselSlide-currentSlide">7</span>/<span class="CarouselSlide-slidesLength">8</span></span></div>
+</div>
+
+            </div>
+        
+            <div class="Carousel-slide">
+                <div class="CarouselSlide" >
+    <div class="CarouselSlide-media">
+        
+            
+                
+                    <picture>
+    
+    
+        
+            
+
+        
+    
+
+    
+    
+        
+    
+            <source type="image/webp"  width="1000" height="563"
+            srcset="https://realtymogul.brightspotgocdn.com/dims4/default/91526f9/2147483647/strip/true/crop/1455x819+0+66/resize/1000x563!/format/webp/quality/90/?url=https%3A%2F%2Fbrightspot-go-k1-realtymogul.s3.us-east-1.amazonaws.com%2Fbrightspot%2F8d%2Feb%2F3fb8e0a2451aae2f03fc92c3e4ee%2Fliving-after-terrace-hill.png 1x,https://realtymogul.brightspotgocdn.com/dims4/default/4eec7d2/2147483647/strip/true/crop/1455x819+0+66/resize/2000x1126!/format/webp/quality/90/?url=https%3A%2F%2Fbrightspot-go-k1-realtymogul.s3.us-east-1.amazonaws.com%2Fbrightspot%2F8d%2Feb%2F3fb8e0a2451aae2f03fc92c3e4ee%2Fliving-after-terrace-hill.png 2x"
+     />
+
+    
+
+    
+        <source width="1000" height="563"
+            srcset="../realtymogul.brightspotgocdn.com/dims4/default/30bb1b9/2147483647/strip/true/crop/1455x819%2b0%2b66/resize/1000x563%21/quality/90/index4a57.html?url=https%3A%2F%2Fbrightspot-go-k1-realtymogul.s3.us-east-1.amazonaws.com%2Fbrightspot%2F8d%2Feb%2F3fb8e0a2451aae2f03fc92c3e4ee%2Fliving-after-terrace-hill.png"
+     />
+
+    
+
+
+    
+    
+    <img class="Image"
+        data-image-size="large-16x9" alt="Living-after-terrace-hill.png" width="1000" height="563" srcset="https://realtymogul.brightspotgocdn.com/dims4/default/30bb1b9/2147483647/strip/true/crop/1455x819+0+66/resize/1000x563!/quality/90/?url=https%3A%2F%2Fbrightspot-go-k1-realtymogul.s3.us-east-1.amazonaws.com%2Fbrightspot%2F8d%2Feb%2F3fb8e0a2451aae2f03fc92c3e4ee%2Fliving-after-terrace-hill.png 1x,https://realtymogul.brightspotgocdn.com/dims4/default/c2dde2a/2147483647/strip/true/crop/1455x819+0+66/resize/2000x1126!/quality/90/?url=https%3A%2F%2Fbrightspot-go-k1-realtymogul.s3.us-east-1.amazonaws.com%2Fbrightspot%2F8d%2Feb%2F3fb8e0a2451aae2f03fc92c3e4ee%2Fliving-after-terrace-hill.png 2x" src="../realtymogul.brightspotgocdn.com/dims4/default/30bb1b9/2147483647/strip/true/crop/1455x819%2b0%2b66/resize/1000x563%21/quality/90/index4a57.html?url=https%3A%2F%2Fbrightspot-go-k1-realtymogul.s3.us-east-1.amazonaws.com%2Fbrightspot%2F8d%2Feb%2F3fb8e0a2451aae2f03fc92c3e4ee%2Fliving-after-terrace-hill.png"
+        >
+
+
+</picture>
+
+                
+            
+        
+    </div>
+    <div class="CarouselSlide-info">
+        <span class="CarouselSlide-slideCount"><span class="CarouselSlide-currentSlide">8</span>/<span class="CarouselSlide-slidesLength">8</span></span></div>
+</div>
+
+            </div>
+        
+    </div>
+</bsp-carousel>
+
+                    
+                
+            
+        </div>
+    </div><p></p><h3><b>Slideshow above shows before and after renovation.</b></h3></div>
+
+
+</div>
+            </div>
+        
+    </div>
+</div><div class="PagePromoModuleL"  data-align-left data-inverse-colors data-has-background style="--color-module-background:#152e53;  --opacityOverlay: 0%;"
+
+
+ data-image-position="left">
+    
+    <a class="AnchorLink" id="rm-communities-is-a-subsidiary-of-realtymogul-co-and-an-affiliate-of-rm-securities" name="rm-communities-is-a-subsidiary-of-realtymogul-co-and-an-affiliate-of-rm-securities" data-cms-ai="0"></a>
+
+
+
+    
+        
+            
+                
+    <div class="PagePromo-media"><span class="Link"><picture>
+    
+    
+        
+            
+
+        
+    
+
+    
+    
+        
+    
+            <source type="image/webp"  width="1440" height="810"
+            srcset="https://realtymogul.brightspotgocdn.com/dims4/default/0ebf003/2147483647/strip/true/crop/1333x750+0+184/resize/1440x810!/format/webp/quality/90/?url=https%3A%2F%2Fbrightspot-go-k1-realtymogul.s3.us-east-1.amazonaws.com%2Fbrightspot%2F22%2Fa1%2F07feebe24de48bf02b2d5898033b%2Frm-sister-for-rm-comm.jpg 1x,https://realtymogul.brightspotgocdn.com/dims4/default/6d2a649/2147483647/strip/true/crop/1333x750+0+184/resize/2880x1620!/format/webp/quality/90/?url=https%3A%2F%2Fbrightspot-go-k1-realtymogul.s3.us-east-1.amazonaws.com%2Fbrightspot%2F22%2Fa1%2F07feebe24de48bf02b2d5898033b%2Frm-sister-for-rm-comm.jpg 2x"
+     />
+
+    
+
+    
+        <source width="1440" height="810"
+            srcset="../realtymogul.brightspotgocdn.com/dims4/default/5038e3b/2147483647/strip/true/crop/1333x750%2b0%2b184/resize/1440x810%21/quality/90/indexb8db.html?url=https%3A%2F%2Fbrightspot-go-k1-realtymogul.s3.us-east-1.amazonaws.com%2Fbrightspot%2F22%2Fa1%2F07feebe24de48bf02b2d5898033b%2Frm-sister-for-rm-comm.jpg"
+     />
+
+    
+
+
+    
+    
+    <img class="Image"
+        data-image-size="xl-16x9" alt="RM-sister-for-RM-comm.jpg" width="1440" height="810" srcset="https://realtymogul.brightspotgocdn.com/dims4/default/5038e3b/2147483647/strip/true/crop/1333x750+0+184/resize/1440x810!/quality/90/?url=https%3A%2F%2Fbrightspot-go-k1-realtymogul.s3.us-east-1.amazonaws.com%2Fbrightspot%2F22%2Fa1%2F07feebe24de48bf02b2d5898033b%2Frm-sister-for-rm-comm.jpg 1x,https://realtymogul.brightspotgocdn.com/dims4/default/4eb2db2/2147483647/strip/true/crop/1333x750+0+184/resize/2880x1620!/quality/90/?url=https%3A%2F%2Fbrightspot-go-k1-realtymogul.s3.us-east-1.amazonaws.com%2Fbrightspot%2F22%2Fa1%2F07feebe24de48bf02b2d5898033b%2Frm-sister-for-rm-comm.jpg 2x" src="../realtymogul.brightspotgocdn.com/dims4/default/5038e3b/2147483647/strip/true/crop/1333x750%2b0%2b184/resize/1440x810%21/quality/90/indexb8db.html?url=https%3A%2F%2Fbrightspot-go-k1-realtymogul.s3.us-east-1.amazonaws.com%2Fbrightspot%2F22%2Fa1%2F07feebe24de48bf02b2d5898033b%2Frm-sister-for-rm-comm.jpg"
+         loading="lazy">
+
+
+</picture>
+
+</span></div>
+
+
+            
+        
+    
+
+    <div class="PagePromoModuleL-content-wrapper">
+        <div class="PagePromoModuleL-content">
+            
+    <div class="PagePromo-title" data-animate="fade">
+        <br><b>RM Communities is a subsidiary of RealtyMogul Co. and an affiliate of RM Securities</b>
+    </div>
+
+
+
+            
+    <div class="PagePromo-description" data-animate="fade">
+        <br>RealtyMogul is a leading online technology platform for real estate investing with the mission of empowering investors to build a diversified real estate portfolio.<br><br>The RealtyMogul <span class="LinkEnhancement"><a class="Link"
+             href="knowledge-center/article/rm-communities-approach-to-prudent-acquisitions.html" data-cms-ai="0">approach</a></span> blends personalized service, proven business discipline and data-driven insights. This empowers RealtyMogul’s 290k+ members to create their own real estate portfolios.<br><br>RealtyMogul members have collectively invested over $1 billion in capital into more than $7.0 billion of real estate nationwide, including over 38,000 investments made since inception and as of April 17, 2024<sup>2,4</sup><br>
+    </div>
+
+
+
+            <div class="PagePromo-button-wrapper">
+                
+            </div>
+        </div>
+    </div>
+</div>
+<bsp-leadership-list-a class="PageListLeadershipA" data-module data-has-background style="--color-module-background:#ffffff;">
+    
+    
+    
+        
+    <a class="AnchorLink" id="rm-communities-team" name="rm-communities-team" data-cms-ai="0"></a>
+
+
+    
+    
+        <div class="PageList-header"  >
+            
+            
+                <div class="PageList-header-title" data-animate="fade">RM COMMUNITIES DEDICATED TEAM</div>
+            
+            
+            
+        </div>
+    
+
+
+    
+        <bsp-carousel class="PageList-items PageList-slides PageListCarouselLeadershipA">
+            
+                <div class="PageList-items-item">
+                    <div class="PagePromo">
+                      <div class="flip-inner">
+                        <div class="flip-front">
+                            
+                                
+    <div class="PagePromo-media"><span class="Link"><picture>
+    
+    
+        
+            
+
+        
+    
+
+    
+    
+        
+    
+            <source type="image/webp"  width="500" height="500"
+            srcset="https://realtymogul.brightspotgocdn.com/dims4/default/c2c5acb/2147483647/strip/true/crop/197x197+0+0/resize/500x500!/format/webp/quality/90/?url=https%3A%2F%2Fbrightspot-go-k1-realtymogul.s3.us-east-1.amazonaws.com%2Fbrightspot%2F97%2F51%2F0a03610f47b8a193bc2de9009f70%2Fjilliene-helam.png 1x,https://realtymogul.brightspotgocdn.com/dims4/default/1938152/2147483647/strip/true/crop/197x197+0+0/resize/1000x1000!/format/webp/quality/90/?url=https%3A%2F%2Fbrightspot-go-k1-realtymogul.s3.us-east-1.amazonaws.com%2Fbrightspot%2F97%2F51%2F0a03610f47b8a193bc2de9009f70%2Fjilliene-helam.png 2x"
+     />
+
+    
+
+    
+        <source width="500" height="500"
+            srcset="../realtymogul.brightspotgocdn.com/dims4/default/bfcf525/2147483647/strip/true/crop/197x197%2b0%2b0/resize/500x500%21/quality/90/index4ee7.html?url=https%3A%2F%2Fbrightspot-go-k1-realtymogul.s3.us-east-1.amazonaws.com%2Fbrightspot%2F97%2F51%2F0a03610f47b8a193bc2de9009f70%2Fjilliene-helam.png"
+     />
+
+    
+
+
+    
+    
+    <img class="Image"
+        data-image-size="medium-square" alt="Jilliene Helman.png" width="500" height="500" srcset="https://realtymogul.brightspotgocdn.com/dims4/default/bfcf525/2147483647/strip/true/crop/197x197+0+0/resize/500x500!/quality/90/?url=https%3A%2F%2Fbrightspot-go-k1-realtymogul.s3.us-east-1.amazonaws.com%2Fbrightspot%2F97%2F51%2F0a03610f47b8a193bc2de9009f70%2Fjilliene-helam.png 1x,https://realtymogul.brightspotgocdn.com/dims4/default/36d0bdc/2147483647/strip/true/crop/197x197+0+0/resize/1000x1000!/quality/90/?url=https%3A%2F%2Fbrightspot-go-k1-realtymogul.s3.us-east-1.amazonaws.com%2Fbrightspot%2F97%2F51%2F0a03610f47b8a193bc2de9009f70%2Fjilliene-helam.png 2x" src="../realtymogul.brightspotgocdn.com/dims4/default/bfcf525/2147483647/strip/true/crop/197x197%2b0%2b0/resize/500x500%21/quality/90/index4ee7.html?url=https%3A%2F%2Fbrightspot-go-k1-realtymogul.s3.us-east-1.amazonaws.com%2Fbrightspot%2F97%2F51%2F0a03610f47b8a193bc2de9009f70%2Fjilliene-helam.png"
+         loading="lazy">
+
+
+</picture>
+
+</span></div>
+
+
+                            
+
+                            
+                                <div class="PagePromo-title">
+                                    Jilliene Helman
+                                </div>
+                            
+
+                            
+                                <div class="PagePromo-jobTitle">
+                                    Chief Executive Officer
+                                </div>
+                            
+                        </div>
+
+                        <div class="flip-back">
+
+                            
+                                <div class="PagePromo-title">
+                                    Jilliene Helman
+                                </div>
+                            
+
+                            
+                                <div class="PagePromo-jobTitle">
+                                    Chief Executive Officer
+                                </div>
+                            
+
+                            <hr class="PagePromo-hr">
+
+                            
+                                <div class="PagePromo-description">
+                                    Jilliene Helman is Chief Executive Officer of RM Communities. She has been involved in investments with property values over $7 billion, including over 33,000 apartment and single-family units, and is considered a pioneer in real estate crowdfunding. Ms. Helman holds Bachelor’s degrees in International Business and Management Change from Georgetown University. <br><span class="LinkEnhancement"><a class="Link"
+             href="http://brokercheck.finra.org/individual/Summary/6269130" target="_blank" rel="noopener" data-cms-ai="0">BrokerCheck</a></span>
+                                </div>
+                            
+                        </div>
+                      </div>
+                    </div>
+                </div>
+            
+                <div class="PageList-items-item">
+                    <div class="PagePromo">
+                      <div class="flip-inner">
+                        <div class="flip-front">
+                            
+                                
+    <div class="PagePromo-media"><span class="Link"><picture>
+    
+    
+        
+            
+
+        
+    
+
+    
+    
+        
+    
+            <source type="image/webp"  width="500" height="500"
+            srcset="https://realtymogul.brightspotgocdn.com/dims4/default/4ddf90b/2147483647/strip/true/crop/500x500+0+0/resize/500x500!/format/webp/quality/90/?url=https%3A%2F%2Fbrightspot-go-k1-realtymogul.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fde%2Fad%2F73890f814595892eaedf25fe379b%2Ftodd-hanson.png 1x,https://realtymogul.brightspotgocdn.com/dims4/default/9e72df5/2147483647/strip/true/crop/500x500+0+0/resize/1000x1000!/format/webp/quality/90/?url=https%3A%2F%2Fbrightspot-go-k1-realtymogul.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fde%2Fad%2F73890f814595892eaedf25fe379b%2Ftodd-hanson.png 2x"
+     />
+
+    
+
+    
+        <source width="500" height="500"
+            srcset="../realtymogul.brightspotgocdn.com/dims4/default/92107f2/2147483647/strip/true/crop/500x500%2b0%2b0/resize/500x500%21/quality/90/indexb025.html?url=https%3A%2F%2Fbrightspot-go-k1-realtymogul.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fde%2Fad%2F73890f814595892eaedf25fe379b%2Ftodd-hanson.png"
+     />
+
+    
+
+
+    
+    
+    <img class="Image"
+        data-image-size="medium-square" alt="Todd Hanson.png" width="500" height="500" srcset="https://realtymogul.brightspotgocdn.com/dims4/default/92107f2/2147483647/strip/true/crop/500x500+0+0/resize/500x500!/quality/90/?url=https%3A%2F%2Fbrightspot-go-k1-realtymogul.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fde%2Fad%2F73890f814595892eaedf25fe379b%2Ftodd-hanson.png 1x,https://realtymogul.brightspotgocdn.com/dims4/default/c700640/2147483647/strip/true/crop/500x500+0+0/resize/1000x1000!/quality/90/?url=https%3A%2F%2Fbrightspot-go-k1-realtymogul.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fde%2Fad%2F73890f814595892eaedf25fe379b%2Ftodd-hanson.png 2x" src="../realtymogul.brightspotgocdn.com/dims4/default/92107f2/2147483647/strip/true/crop/500x500%2b0%2b0/resize/500x500%21/quality/90/indexb025.html?url=https%3A%2F%2Fbrightspot-go-k1-realtymogul.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fde%2Fad%2F73890f814595892eaedf25fe379b%2Ftodd-hanson.png"
+         loading="lazy">
+
+
+</picture>
+
+</span></div>
+
+
+                            
+
+                            
+                                <div class="PagePromo-title">
+                                    Todd Hanson
+                                </div>
+                            
+
+                            
+                                <div class="PagePromo-jobTitle">
+                                    Managing Director
+                                </div>
+                            
+                        </div>
+
+                        <div class="flip-back">
+
+                            
+                                <div class="PagePromo-title">
+                                    Todd Hanson
+                                </div>
+                            
+
+                            
+                                <div class="PagePromo-jobTitle">
+                                    Managing Director
+                                </div>
+                            
+
+                            <hr class="PagePromo-hr">
+
+                            
+                                <div class="PagePromo-description">
+                                    Todd Hanson is the Managing Director for RM Communities across the US with responsibility for overall strategy and directing all investment activities while also maintaining and developing capital and partnership opportunities. He was previously EVP, Head of Investments at a large multifamily PE firm and was a Director of the Real Estate Strategic Advisory Group at Houlihan Lokey Capital. Before joining Houlihan Lokey, Mr. Hanson was a corporate attorney with the Transactions Group of O’Melveny &amp; Meyers, specializing in real estate and related capital markets transactions. He holds a B.A. with highest distinction in Economics and Finance from the University of Minnesota, where he was an Academic All- American Scholar; a J.D. magna cum laude from the University of Minnesota Law School, where he was a recipient of the NCAA Post-Graduate Scholarship; and an MBA from Northwestern University’s Kellogg School of Management.<br>
+                                </div>
+                            
+                        </div>
+                      </div>
+                    </div>
+                </div>
+            
+                <div class="PageList-items-item">
+                    <div class="PagePromo">
+                      <div class="flip-inner">
+                        <div class="flip-front">
+                            
+                                
+    <div class="PagePromo-media"><span class="Link"><picture>
+    
+    
+        
+            
+
+        
+    
+
+    
+    
+        
+    
+            <source type="image/webp"  width="500" height="500"
+            srcset="https://realtymogul.brightspotgocdn.com/dims4/default/2972bae/2147483647/strip/true/crop/1200x1200+0+0/resize/500x500!/format/webp/quality/90/?url=https%3A%2F%2Fbrightspot-go-k1-realtymogul.s3.us-east-1.amazonaws.com%2Fbrightspot%2F64%2F3b%2Fc57b6c384d32ace02df71db533cf%2Fiam-rosa-suit.jpg 1x,https://realtymogul.brightspotgocdn.com/dims4/default/e56aa1b/2147483647/strip/true/crop/1200x1200+0+0/resize/1000x1000!/format/webp/quality/90/?url=https%3A%2F%2Fbrightspot-go-k1-realtymogul.s3.us-east-1.amazonaws.com%2Fbrightspot%2F64%2F3b%2Fc57b6c384d32ace02df71db533cf%2Fiam-rosa-suit.jpg 2x"
+     />
+
+    
+
+    
+        <source width="500" height="500"
+            srcset="../realtymogul.brightspotgocdn.com/dims4/default/25f2ec9/2147483647/strip/true/crop/1200x1200%2b0%2b0/resize/500x500%21/quality/90/index8731.html?url=https%3A%2F%2Fbrightspot-go-k1-realtymogul.s3.us-east-1.amazonaws.com%2Fbrightspot%2F64%2F3b%2Fc57b6c384d32ace02df71db533cf%2Fiam-rosa-suit.jpg"
+     />
+
+    
+
+
+    
+    
+    <img class="Image"
+        data-image-size="medium-square" alt="Iam-Rosa-Suit.jpg" width="500" height="500" srcset="https://realtymogul.brightspotgocdn.com/dims4/default/25f2ec9/2147483647/strip/true/crop/1200x1200+0+0/resize/500x500!/quality/90/?url=https%3A%2F%2Fbrightspot-go-k1-realtymogul.s3.us-east-1.amazonaws.com%2Fbrightspot%2F64%2F3b%2Fc57b6c384d32ace02df71db533cf%2Fiam-rosa-suit.jpg 1x,https://realtymogul.brightspotgocdn.com/dims4/default/e1c4ae5/2147483647/strip/true/crop/1200x1200+0+0/resize/1000x1000!/quality/90/?url=https%3A%2F%2Fbrightspot-go-k1-realtymogul.s3.us-east-1.amazonaws.com%2Fbrightspot%2F64%2F3b%2Fc57b6c384d32ace02df71db533cf%2Fiam-rosa-suit.jpg 2x" src="../realtymogul.brightspotgocdn.com/dims4/default/25f2ec9/2147483647/strip/true/crop/1200x1200%2b0%2b0/resize/500x500%21/quality/90/index8731.html?url=https%3A%2F%2Fbrightspot-go-k1-realtymogul.s3.us-east-1.amazonaws.com%2Fbrightspot%2F64%2F3b%2Fc57b6c384d32ace02df71db533cf%2Fiam-rosa-suit.jpg"
+         loading="lazy">
+
+
+</picture>
+
+</span></div>
+
+
+                            
+
+                            
+                                <div class="PagePromo-title">
+                                    Ian Rosa
+                                </div>
+                            
+
+                            
+                                <div class="PagePromo-jobTitle">
+                                    Director of Investments
+                                </div>
+                            
+                        </div>
+
+                        <div class="flip-back">
+
+                            
+                                <div class="PagePromo-title">
+                                    Ian Rosa
+                                </div>
+                            
+
+                            
+                                <div class="PagePromo-jobTitle">
+                                    Director of Investments
+                                </div>
+                            
+
+                            <hr class="PagePromo-hr">
+
+                            
+                                <div class="PagePromo-description">
+                                    Ian Rosa is the Director of Investments for RM Communities and has the responsibility of being involved at all levels of RM Communities, including strategies related to the firm as well as individual deals. Mr. Rosa is actively involved in developing and maintaining relationships with investors and partners. Mr. Rosa previously worked at Highline Real Estate Capital and Rialto Capital Management. Mr. Rosa has an M.B.A. from the University of Miami, a J.D. from DePaul University College of Law and a Bachelor’s degree from Indiana University.
+                                </div>
+                            
+                        </div>
+                      </div>
+                    </div>
+                </div>
+            
+                <div class="PageList-items-item">
+                    <div class="PagePromo">
+                      <div class="flip-inner">
+                        <div class="flip-front">
+                            
+                                
+    <div class="PagePromo-media"><span class="Link"><picture>
+    
+    
+        
+            
+
+        
+    
+
+    
+    
+        
+    
+            <source type="image/webp"  width="500" height="500"
+            srcset="https://realtymogul.brightspotgocdn.com/dims4/default/bebf13d/2147483647/strip/true/crop/180x180+0+0/resize/500x500!/format/webp/quality/90/?url=https%3A%2F%2Fbrightspot-go-k1-realtymogul.s3.us-east-1.amazonaws.com%2Fbrightspot%2F3d%2F0e%2F9da5d4f04c04830d845400e817e7%2Fderek.jpg 1x,https://realtymogul.brightspotgocdn.com/dims4/default/1f9165f/2147483647/strip/true/crop/180x180+0+0/resize/1000x1000!/format/webp/quality/90/?url=https%3A%2F%2Fbrightspot-go-k1-realtymogul.s3.us-east-1.amazonaws.com%2Fbrightspot%2F3d%2F0e%2F9da5d4f04c04830d845400e817e7%2Fderek.jpg 2x"
+     />
+
+    
+
+    
+        <source width="500" height="500"
+            srcset="../realtymogul.brightspotgocdn.com/dims4/default/dc16ae9/2147483647/strip/true/crop/180x180%2b0%2b0/resize/500x500%21/quality/90/index3ac3.html?url=https%3A%2F%2Fbrightspot-go-k1-realtymogul.s3.us-east-1.amazonaws.com%2Fbrightspot%2F3d%2F0e%2F9da5d4f04c04830d845400e817e7%2Fderek.jpg"
+     />
+
+    
+
+
+    
+    
+    <img class="Image"
+        data-image-size="medium-square" alt="derek.jpg" width="500" height="500" srcset="https://realtymogul.brightspotgocdn.com/dims4/default/dc16ae9/2147483647/strip/true/crop/180x180+0+0/resize/500x500!/quality/90/?url=https%3A%2F%2Fbrightspot-go-k1-realtymogul.s3.us-east-1.amazonaws.com%2Fbrightspot%2F3d%2F0e%2F9da5d4f04c04830d845400e817e7%2Fderek.jpg 1x,https://realtymogul.brightspotgocdn.com/dims4/default/b7f0ddd/2147483647/strip/true/crop/180x180+0+0/resize/1000x1000!/quality/90/?url=https%3A%2F%2Fbrightspot-go-k1-realtymogul.s3.us-east-1.amazonaws.com%2Fbrightspot%2F3d%2F0e%2F9da5d4f04c04830d845400e817e7%2Fderek.jpg 2x" src="../realtymogul.brightspotgocdn.com/dims4/default/dc16ae9/2147483647/strip/true/crop/180x180%2b0%2b0/resize/500x500%21/quality/90/index3ac3.html?url=https%3A%2F%2Fbrightspot-go-k1-realtymogul.s3.us-east-1.amazonaws.com%2Fbrightspot%2F3d%2F0e%2F9da5d4f04c04830d845400e817e7%2Fderek.jpg"
+         loading="lazy">
+
+
+</picture>
+
+</span></div>
+
+
+                            
+
+                            
+                                <div class="PagePromo-title">
+                                    Derek Jensen<br>
+                                </div>
+                            
+
+                            
+                                <div class="PagePromo-jobTitle">
+                                    Director of Acquisitions
+                                </div>
+                            
+                        </div>
+
+                        <div class="flip-back">
+
+                            
+                                <div class="PagePromo-title">
+                                    Derek Jensen<br>
+                                </div>
+                            
+
+                            
+                                <div class="PagePromo-jobTitle">
+                                    Director of Acquisitions
+                                </div>
+                            
+
+                            <hr class="PagePromo-hr">
+
+                            
+                                <div class="PagePromo-description">
+                                    Derek Jensen is a Director of Acquisitions for RM Communities, the direct acquisition arm of RealtyMogul, and has responsibility for overseeing direct acquisitions of multifamily opportunities in target markets across the US. Mr. Jensen has over 20 years of real estate experience, concentrated in the acquisition, management and disposition of over 10,000 multifamily units including market rate, value-add, affordable housing and fractured condominiums. Mr. Jensen has held positions at several private and institutional firms including Pacifica Companies and GFI Partners.
+                                </div>
+                            
+                        </div>
+                      </div>
+                    </div>
+                </div>
+            
+                <div class="PageList-items-item">
+                    <div class="PagePromo">
+                      <div class="flip-inner">
+                        <div class="flip-front">
+                            
+                                
+    <div class="PagePromo-media"><span class="Link"><picture>
+    
+    
+        
+            
+
+        
+    
+
+    
+    
+        
+    
+            <source type="image/webp"  width="500" height="500"
+            srcset="https://realtymogul.brightspotgocdn.com/dims4/default/f91a63f/2147483647/strip/true/crop/265x265+14+0/resize/500x500!/format/webp/quality/90/?url=https%3A%2F%2Fbrightspot-go-k1-realtymogul.s3.us-east-1.amazonaws.com%2Fbrightspot%2F13%2Fa3%2Ff6883e94443db5ba428aa5bb978c%2Fpopoff-square.jpg 1x,https://realtymogul.brightspotgocdn.com/dims4/default/2a63c29/2147483647/strip/true/crop/265x265+14+0/resize/1000x1000!/format/webp/quality/90/?url=https%3A%2F%2Fbrightspot-go-k1-realtymogul.s3.us-east-1.amazonaws.com%2Fbrightspot%2F13%2Fa3%2Ff6883e94443db5ba428aa5bb978c%2Fpopoff-square.jpg 2x"
+     />
+
+    
+
+    
+        <source width="500" height="500"
+            srcset="../realtymogul.brightspotgocdn.com/dims4/default/4fed0d3/2147483647/strip/true/crop/265x265%2b14%2b0/resize/500x500%21/quality/90/indexd26e.html?url=https%3A%2F%2Fbrightspot-go-k1-realtymogul.s3.us-east-1.amazonaws.com%2Fbrightspot%2F13%2Fa3%2Ff6883e94443db5ba428aa5bb978c%2Fpopoff-square.jpg"
+     />
+
+    
+
+
+    
+    
+    <img class="Image"
+        data-image-size="medium-square" alt="Popoff-square.jpg" width="500" height="500" srcset="https://realtymogul.brightspotgocdn.com/dims4/default/4fed0d3/2147483647/strip/true/crop/265x265+14+0/resize/500x500!/quality/90/?url=https%3A%2F%2Fbrightspot-go-k1-realtymogul.s3.us-east-1.amazonaws.com%2Fbrightspot%2F13%2Fa3%2Ff6883e94443db5ba428aa5bb978c%2Fpopoff-square.jpg 1x,https://realtymogul.brightspotgocdn.com/dims4/default/d7483fe/2147483647/strip/true/crop/265x265+14+0/resize/1000x1000!/quality/90/?url=https%3A%2F%2Fbrightspot-go-k1-realtymogul.s3.us-east-1.amazonaws.com%2Fbrightspot%2F13%2Fa3%2Ff6883e94443db5ba428aa5bb978c%2Fpopoff-square.jpg 2x" src="../realtymogul.brightspotgocdn.com/dims4/default/4fed0d3/2147483647/strip/true/crop/265x265%2b14%2b0/resize/500x500%21/quality/90/indexd26e.html?url=https%3A%2F%2Fbrightspot-go-k1-realtymogul.s3.us-east-1.amazonaws.com%2Fbrightspot%2F13%2Fa3%2Ff6883e94443db5ba428aa5bb978c%2Fpopoff-square.jpg"
+         loading="lazy">
+
+
+</picture>
+
+</span></div>
+
+
+                            
+
+                            
+                                <div class="PagePromo-title">
+                                    Christian Popoff<br>
+                                </div>
+                            
+
+                            
+                                <div class="PagePromo-jobTitle">
+                                    VP of Asset Management
+                                </div>
+                            
+                        </div>
+
+                        <div class="flip-back">
+
+                            
+                                <div class="PagePromo-title">
+                                    Christian Popoff<br>
+                                </div>
+                            
+
+                            
+                                <div class="PagePromo-jobTitle">
+                                    VP of Asset Management
+                                </div>
+                            
+
+                            <hr class="PagePromo-hr">
+
+                            
+                                <div class="PagePromo-description">
+                                    Christian Popoff is the Vice President of Asset Management for the RM Communities portfolio. His focus is centered on RMC’s growing collection of investments with an emphasis on maximizing performance, value creation, and acquisitions collaboration. With over 18 years of professional experience in commercial real estate investment management, he has a versatile background in all asset types through various roles as an advisor and owner/lender representative. He holds a B.S. in Finance from the University of Nevada, an MBA from National University, and completed the Light Construction &amp; Development Management certification program at the University of California, Irvine.<br>
+                                </div>
+                            
+                        </div>
+                      </div>
+                    </div>
+                </div>
+            
+                <div class="PageList-items-item">
+                    <div class="PagePromo">
+                      <div class="flip-inner">
+                        <div class="flip-front">
+                            
+                                
+    <div class="PagePromo-media"><span class="Link"><picture>
+    
+    
+        
+            
+
+        
+    
+
+    
+    
+        
+    
+            <source type="image/webp"  width="500" height="500"
+            srcset="https://realtymogul.brightspotgocdn.com/dims4/default/beb0a3a/2147483647/strip/true/crop/800x800+0+0/resize/500x500!/format/webp/quality/90/?url=https%3A%2F%2Fbrightspot-go-k1-realtymogul.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fad%2Fe0%2F264f790441fc8743f570397d0448%2Fronen.jpeg 1x,https://realtymogul.brightspotgocdn.com/dims4/default/afa0c97/2147483647/strip/true/crop/800x800+0+0/resize/1000x1000!/format/webp/quality/90/?url=https%3A%2F%2Fbrightspot-go-k1-realtymogul.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fad%2Fe0%2F264f790441fc8743f570397d0448%2Fronen.jpeg 2x"
+     />
+
+    
+
+    
+        <source width="500" height="500"
+            srcset="../realtymogul.brightspotgocdn.com/dims4/default/af12a94/2147483647/strip/true/crop/800x800%2b0%2b0/resize/500x500%21/quality/90/index5102.html?url=https%3A%2F%2Fbrightspot-go-k1-realtymogul.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fad%2Fe0%2F264f790441fc8743f570397d0448%2Fronen.jpeg"
+     />
+
+    
+
+
+    
+    
+    <img class="Image"
+        data-image-size="medium-square" alt="ronen.jpeg" width="500" height="500" srcset="https://realtymogul.brightspotgocdn.com/dims4/default/af12a94/2147483647/strip/true/crop/800x800+0+0/resize/500x500!/quality/90/?url=https%3A%2F%2Fbrightspot-go-k1-realtymogul.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fad%2Fe0%2F264f790441fc8743f570397d0448%2Fronen.jpeg 1x,https://realtymogul.brightspotgocdn.com/dims4/default/eaa4435/2147483647/strip/true/crop/800x800+0+0/resize/1000x1000!/quality/90/?url=https%3A%2F%2Fbrightspot-go-k1-realtymogul.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fad%2Fe0%2F264f790441fc8743f570397d0448%2Fronen.jpeg 2x" src="../realtymogul.brightspotgocdn.com/dims4/default/af12a94/2147483647/strip/true/crop/800x800%2b0%2b0/resize/500x500%21/quality/90/index5102.html?url=https%3A%2F%2Fbrightspot-go-k1-realtymogul.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fad%2Fe0%2F264f790441fc8743f570397d0448%2Fronen.jpeg"
+         loading="lazy">
+
+
+</picture>
+
+</span></div>
+
+
+                            
+
+                            
+                                <div class="PagePromo-title">
+                                    Yacov Ronen
+                                </div>
+                            
+
+                            
+                                <div class="PagePromo-jobTitle">
+                                    Senior Associate
+                                </div>
+                            
+                        </div>
+
+                        <div class="flip-back">
+
+                            
+                                <div class="PagePromo-title">
+                                    Yacov Ronen
+                                </div>
+                            
+
+                            
+                                <div class="PagePromo-jobTitle">
+                                    Senior Associate
+                                </div>
+                            
+
+                            <hr class="PagePromo-hr">
+
+                            
+                                <div class="PagePromo-description">
+                                    Yacov Ronen is a Senior Associate for RM Communities supporting the direct acquisitions of multifamily opportunities in the Mountain West region of the United States and Texas. Prior to joining RM Communities, Mr. Ronen worked as an Associate at RealtyMogul where he was directly involved in $400M in acquisitions across various asset classes. He holds B.A. in Economics from University of California, Santa Barbara.
+                                </div>
+                            
+                        </div>
+                      </div>
+                    </div>
+                </div>
+            
+                <div class="PageList-items-item">
+                    <div class="PagePromo">
+                      <div class="flip-inner">
+                        <div class="flip-front">
+                            
+                                
+    <div class="PagePromo-media"><span class="Link"><picture>
+    
+    
+        
+            
+
+        
+    
+
+    
+    
+        
+    
+            <source type="image/webp"  width="500" height="500"
+            srcset="https://realtymogul.brightspotgocdn.com/dims4/default/0106877/2147483647/strip/true/crop/1200x1200+0+0/resize/500x500!/format/webp/quality/90/?url=https%3A%2F%2Fbrightspot-go-k1-realtymogul.s3.us-east-1.amazonaws.com%2Fbrightspot%2F25%2F4c%2Fffeb8c324e1f9c1e9172bd7476a7%2Feric-b-headshot-1200x1200.jpg 1x,https://realtymogul.brightspotgocdn.com/dims4/default/3a7c938/2147483647/strip/true/crop/1200x1200+0+0/resize/1000x1000!/format/webp/quality/90/?url=https%3A%2F%2Fbrightspot-go-k1-realtymogul.s3.us-east-1.amazonaws.com%2Fbrightspot%2F25%2F4c%2Fffeb8c324e1f9c1e9172bd7476a7%2Feric-b-headshot-1200x1200.jpg 2x"
+     />
+
+    
+
+    
+        <source width="500" height="500"
+            srcset="../realtymogul.brightspotgocdn.com/dims4/default/d80e076/2147483647/strip/true/crop/1200x1200%2b0%2b0/resize/500x500%21/quality/90/indexdd24.html?url=https%3A%2F%2Fbrightspot-go-k1-realtymogul.s3.us-east-1.amazonaws.com%2Fbrightspot%2F25%2F4c%2Fffeb8c324e1f9c1e9172bd7476a7%2Feric-b-headshot-1200x1200.jpg"
+     />
+
+    
+
+
+    
+    
+    <img class="Image"
+        data-image-size="medium-square" alt="Eric-B-headshot-1200x1200.jpg" width="500" height="500" srcset="https://realtymogul.brightspotgocdn.com/dims4/default/d80e076/2147483647/strip/true/crop/1200x1200+0+0/resize/500x500!/quality/90/?url=https%3A%2F%2Fbrightspot-go-k1-realtymogul.s3.us-east-1.amazonaws.com%2Fbrightspot%2F25%2F4c%2Fffeb8c324e1f9c1e9172bd7476a7%2Feric-b-headshot-1200x1200.jpg 1x,https://realtymogul.brightspotgocdn.com/dims4/default/4f8d935/2147483647/strip/true/crop/1200x1200+0+0/resize/1000x1000!/quality/90/?url=https%3A%2F%2Fbrightspot-go-k1-realtymogul.s3.us-east-1.amazonaws.com%2Fbrightspot%2F25%2F4c%2Fffeb8c324e1f9c1e9172bd7476a7%2Feric-b-headshot-1200x1200.jpg 2x" src="../realtymogul.brightspotgocdn.com/dims4/default/d80e076/2147483647/strip/true/crop/1200x1200%2b0%2b0/resize/500x500%21/quality/90/indexdd24.html?url=https%3A%2F%2Fbrightspot-go-k1-realtymogul.s3.us-east-1.amazonaws.com%2Fbrightspot%2F25%2F4c%2Fffeb8c324e1f9c1e9172bd7476a7%2Feric-b-headshot-1200x1200.jpg"
+         loading="lazy">
+
+
+</picture>
+
+</span></div>
+
+
+                            
+
+                            
+                                <div class="PagePromo-title">
+                                    Eric Beaulieu
+                                </div>
+                            
+
+                            
+                                <div class="PagePromo-jobTitle">
+                                    Senior Associate
+                                </div>
+                            
+                        </div>
+
+                        <div class="flip-back">
+
+                            
+                                <div class="PagePromo-title">
+                                    Eric Beaulieu
+                                </div>
+                            
+
+                            
+                                <div class="PagePromo-jobTitle">
+                                    Senior Associate
+                                </div>
+                            
+
+                            <hr class="PagePromo-hr">
+
+                            
+                                <div class="PagePromo-description">
+                                    Eric Beaulieu is a Senior Associate for RM Communities, supporting the direct acquisitions of multifamily opportunities across the United States. Prior to RealtyMogul, Eric served as Investment Manager at a family office based in the Bay Area, directly managing a $150 million portfolio of middle-market industrial and office assets and acquiring commercial real estate assets throughout the Western United States. He holds a BA in Classics from Colby College, an MBA from the McDonough School of Business at Georgetown University, and is a CFA® charterholder. 
+                                </div>
+                            
+                        </div>
+                      </div>
+                    </div>
+                </div>
+            
+                <div class="PageList-items-item">
+                    <div class="PagePromo">
+                      <div class="flip-inner">
+                        <div class="flip-front">
+                            
+                                
+    <div class="PagePromo-media"><span class="Link"><picture>
+    
+    
+        
+            
+
+        
+    
+
+    
+    
+        
+    
+            <source type="image/webp"  width="500" height="500"
+            srcset="https://realtymogul.brightspotgocdn.com/dims4/default/563bcee/2147483647/strip/true/crop/1200x1200+0+0/resize/500x500!/format/webp/quality/90/?url=https%3A%2F%2Fbrightspot-go-k1-realtymogul.s3.us-east-1.amazonaws.com%2Fbrightspot%2F7b%2Fe4%2F597482e347b8862c03bb4cab1c55%2Fmichelle-hass-1200x1200.jpg 1x,https://realtymogul.brightspotgocdn.com/dims4/default/c140ce8/2147483647/strip/true/crop/1200x1200+0+0/resize/1000x1000!/format/webp/quality/90/?url=https%3A%2F%2Fbrightspot-go-k1-realtymogul.s3.us-east-1.amazonaws.com%2Fbrightspot%2F7b%2Fe4%2F597482e347b8862c03bb4cab1c55%2Fmichelle-hass-1200x1200.jpg 2x"
+     />
+
+    
+
+    
+        <source width="500" height="500"
+            srcset="../realtymogul.brightspotgocdn.com/dims4/default/714cc29/2147483647/strip/true/crop/1200x1200%2b0%2b0/resize/500x500%21/quality/90/index3d05.html?url=https%3A%2F%2Fbrightspot-go-k1-realtymogul.s3.us-east-1.amazonaws.com%2Fbrightspot%2F7b%2Fe4%2F597482e347b8862c03bb4cab1c55%2Fmichelle-hass-1200x1200.jpg"
+     />
+
+    
+
+
+    
+    
+    <img class="Image"
+        data-image-size="medium-square" alt="Michelle-Hass-1200x1200.jpg" width="500" height="500" srcset="https://realtymogul.brightspotgocdn.com/dims4/default/714cc29/2147483647/strip/true/crop/1200x1200+0+0/resize/500x500!/quality/90/?url=https%3A%2F%2Fbrightspot-go-k1-realtymogul.s3.us-east-1.amazonaws.com%2Fbrightspot%2F7b%2Fe4%2F597482e347b8862c03bb4cab1c55%2Fmichelle-hass-1200x1200.jpg 1x,https://realtymogul.brightspotgocdn.com/dims4/default/42871bb/2147483647/strip/true/crop/1200x1200+0+0/resize/1000x1000!/quality/90/?url=https%3A%2F%2Fbrightspot-go-k1-realtymogul.s3.us-east-1.amazonaws.com%2Fbrightspot%2F7b%2Fe4%2F597482e347b8862c03bb4cab1c55%2Fmichelle-hass-1200x1200.jpg 2x" src="../realtymogul.brightspotgocdn.com/dims4/default/714cc29/2147483647/strip/true/crop/1200x1200%2b0%2b0/resize/500x500%21/quality/90/index3d05.html?url=https%3A%2F%2Fbrightspot-go-k1-realtymogul.s3.us-east-1.amazonaws.com%2Fbrightspot%2F7b%2Fe4%2F597482e347b8862c03bb4cab1c55%2Fmichelle-hass-1200x1200.jpg"
+         loading="lazy">
+
+
+</picture>
+
+</span></div>
+
+
+                            
+
+                            
+                                <div class="PagePromo-title">
+                                    Michelle Hass
+                                </div>
+                            
+
+                            
+                                <div class="PagePromo-jobTitle">
+                                    Asset Manager
+                                </div>
+                            
+                        </div>
+
+                        <div class="flip-back">
+
+                            
+                                <div class="PagePromo-title">
+                                    Michelle Hass
+                                </div>
+                            
+
+                            
+                                <div class="PagePromo-jobTitle">
+                                    Asset Manager
+                                </div>
+                            
+
+                            <hr class="PagePromo-hr">
+
+                            
+                                <div class="PagePromo-description">
+                                    Michelle Hass is an Asset Manager for RM Communities and is responsible for the management of RM Communities’ portfolio with an emphasis on site operations, capital project management, due diligence, and post-acquisition asset transitions. Mrs. Hass has over 16 years of experience in third party apartment management as an Area Director over Midwest states with a focus on operational excellence, capital project coordination, and value enhancement.
+                                </div>
+                            
+                        </div>
+                      </div>
+                    </div>
+                </div>
+            
+        </bsp-carousel>
+    
+
+    
+</bsp-leadership-list-a>
+<div class="PageListStandardS" data-module  data-has-background style="--color-module-background:#ffffff;">
+    
+    
+    
+        
+    <a class="AnchorLink" id="contact-us-for-acquisition-opportunities" name="contact-us-for-acquisition-opportunities" data-cms-ai="0"></a>
+
+
+    
+    
+        <div class="PageList-header"  >
+            
+            
+                <div class="PageList-header-title" data-animate="fade">Contact us for Acquisition Opportunities </div>
+            
+            
+            
+        </div>
+    
+
+
+    
+        <div class="PageList-items">
+            
+                <div class="PageList-items-item">
+                    
+                        <div class="PagePromoModuleH"  data-has-background style="--color-module-background:#ffffff;  --opacityOverlay: 0%;"
+
+
+>
+    <div class="PagePromoModuleH-content">
+        
+    <div class="PagePromo-title" data-animate="fade">
+        Todd Hanson - Managing Director
+    </div>
+
+
+        <div class="PagePromoModuleH-descriptionSection">
+            
+
+            
+                <div class="PagePromoModuleH-number">
+                     949-872-9549
+                </div>
+            
+            
+                <div class="PagePromoModuleH-email">
+                    <a href = "mailto:todd.hanson@rm-communities.com" data-cms-ai="0">todd.hanson@rm-communities.com</a>
+                </div>
+            
+        </div>
+    </div>
+</div>
+
+                    
+                </div>
+            
+                <div class="PageList-items-item">
+                    
+                        <div class="PagePromoModuleH"  data-has-background style="--color-module-background:#ffffff;  --opacityOverlay: 0%;"
+
+
+>
+    <div class="PagePromoModuleH-content">
+        
+    <div class="PagePromo-title" data-animate="fade">
+        Derek Jensen - Director of Acquisitions
+    </div>
+
+
+        <div class="PagePromoModuleH-descriptionSection">
+            
+
+            
+                <div class="PagePromoModuleH-number">
+                    617-590-2306
+                </div>
+            
+            
+                <div class="PagePromoModuleH-email">
+                    <a href = "mailto: derek.Jensen@rm-communities.com" data-cms-ai="0"> derek.Jensen@rm-communities.com</a>
+                </div>
+            
+        </div>
+    </div>
+</div>
+
+                    
+                </div>
+            
+        </div>
+    
+
+    
+</div><div class="PagePromoModuleO" data-module 
+
+
+>
+    
+    <a class="AnchorLink" id="disclaimer" name="disclaimer" data-cms-ai="0"></a>
+
+
+    
+        <div class="PageList-header-title" data-animate="fade">DISCLAIMER</div>
+    
+    
+    
+        <div class="PagePromoModuleO-description">
+            1 References made to the RM Communities portfolio includes four properties that were acquired prior to the formation of RM Communities. Consequently, these assets are managed by an affiliate and are included as part of the RM Communities portfolio as a result of being acquired and managed by the same executive leadership and according to the same investment strategy employed by RM Communities.<br><br>2 Past performance is not indicative of future results and should not be used as a basis for an investor’s decision to invest. Investments made on the Realty Mogul Platform (“Platform”) prior to ${brokerDealerLaunchDate} were not offered by RM Securities, LLC and should not be viewed as indicative of or attributable to any performance related to the investment products or services offered by RM Securities, LLC, nor should you assume that any products or services offered by RM Securities, LLC will in the future will be profitable or equal to any performance of cumulative or specific past investments made on the Platform. Investment opportunities offered on the Platform are speculative, involve substantial risk (including loss of capital), and are illiquid. Please carefully review all Defined Terms herein, Platform Disclosures, and all of the specific offering documents for each investment product which contain important information about the fees you will pay, conflicts of interest, and relevant specific and general risks. All information and any calculations used herein is based on information from inception through ${brokerDealerLaunchDate}.<br><br>3 The Terrace Hill asset was acquired and managed by an affiliate of RM Communities. That affiliate is under the same executive management and employs the same investment and asset management strategies as RM Communities. Terrace Hill is the only deal in the portfolio to have gone full cycle<br><br>4 Capital invested includes: (i) common equity investments in real estate companies and funds; (ii) fixed income investments including preferred equity, senior debt, and mezzanine debt in connection with the acquisition or refinance of commercial real estate; (iii) residential debt investments in connection with financing the acquisition, improvement/renovation, and sale of single family homes; and (iii) loans originated for sale which include non-fractionalized loans sold to institutional buyers. Includes capital that has been deployed by, as well as material amounts of committed but undeployed cash held by, affiliated and unaffiliated real estate companies and funds, including cash in real estate funds that has been returned from completed investments. Certain investments are made by Realty Mogul, Co. or its affiliates. This information should not be used as a basis for an investor’s decision to invest. Investment opportunities on the RealtyMogul Platform are speculative and involve substantial risk.<br>
+        </div>
+    
+</div></main>
+        
+
+        <div class="DisclosureModal">
+    <div class="DisclosureModal-overlay">
+
+    </div>
+    <div class="DisclosureModal-content">
+        <div class="DisclosureModal-close">
+            <svg class="icon-close-rm"><use xlink:href="#icon-close-rm"></use></svg>
+        </div>
+        <div class="DisclosureModal-description"></div>
+    </div>
+</div>
+        <div class="CompareModal">
+    <div class="CompareModal-overlay">
+
+    </div>
+    <div class="CompareModal-contentSection">
+        <div class="CompareModal-close">
+            <svg class="icon-close-rm"><use xlink:href="#icon-close-rm"></use></svg>
+        </div>
+        <div class="CompareModal-title">
+
+        </div>
+        <div class="CompareModal-image"></div>
+    </div>
+</div>
+    </div>
+
+    
+    <div class="Page-below"  data-modulewell><div id="Join" class="JoinForm-wrapper">
+  <bsp-join-form class="JoinForm"  data-form-title="Join RealtyMogul" data-form-id="00000181-c9d7-d5b9-abad-edd7b9d10000" submits-inline
+>
+    <div class="JoinForm-header">
+      <div class="JoinForm-title">JOIN REALTYMOGUL</div>
+      <div class="Modal-close-btn">
+        <span class="Modal-close-btn-label"></span>
+        <svg class="icon-close-rm">
+          <use xlink:href="#icon-close-rm"></use>
+        </svg>
+      </div>
+    </div>
+    <div class="JoinForm-variation-container">
+      <form class="JoinForm-form" autocomplete="chrome-off" autocapitalize="off" autocorrect="off" autofocus="" role="combobox" spellcheck="false" action="#" method="POST" target="_blank">
+        <div class="AuthForm-message"></div>
+        <div class="top-text">
+          Create an account or
+          <a href="#signIn" data-cms-ai="0">sign in</a>.
+        </div>
+        <div class="JoinForm-items">
+          <div class="JoinForm-items-item">
+            <fieldset class="Fieldset" data-fieldset-lgcolumns="50-50">
+              <div class="Fieldset-items">
+                <div class="Fieldset-items-item" data-index="1">
+                  <bsp-text-input class="TextInput" data-bad-input="The browser is unable to convert your input" data-value-missing="This field is required">
+                    <input class="TextInput-input2" type="text" aria-label="First Name" name="first-name" required="" />
+                    <label class="TextInput-label">
+                      First Name&nbsp;<span class="TextInput-label-required">*</span>
+                    </label>
+                    <div class="TextInput-errors" aria-live="assertive"></div>
+                  </bsp-text-input>
+                </div>
+                <div class="Fieldset-items-item" data-index="2">
+                  <bsp-text-input class="TextInput" data-bad-input="The browser is unable to convert your input" data-value-missing="This field is required">
+                    <input class="TextInput-input2" type="text" aria-label="Last Name" name="last-name" required="" />
+                    <label class="TextInput-label">
+                      Last Name&nbsp;<span class="TextInput-label-required">*</span>
+                    </label>
+                    <div class="TextInput-errors" aria-live="assertive"></div>
+                  </bsp-text-input>
+                </div>
+              </div>
+            </fieldset>
+          </div>
+          <div class="JoinForm-items-item">
+            <div class="Accredited">
+              <div class="Accredited-title">Are you an Accredited Investor? <bsp-tooltip class="Tooltip">
+                  <button type="button">
+                    <svg class="info-tooltip">
+                      <use xlink:href="#info-tooltip"></use>
+                    </svg>
+                  </button>
+                  <div class="Tooltip-container" data-tippy-root=""></div>
+                  <template style="display: none;">
+                   <div class="Tooltip-body">
+                    <p>
+                      1) You have annual income greater than $200k (or $300k together with a spouse or partner) for the last 2 years, and expect to earn the same or greater for the current year.
+                    </p>
+                    <p>
+                      2) You have net worth greater than $1M, excluding your primary residence (individually or with your spouse or partner).
+                    </p>
+                    <p>
+                      3) You hold (in good standing) a Series 7, Series 65, or Series 82 license.
+                    </p>
+                    <p>
+                      4) Any trust, with total assets in excess of $5 million, not formed for the specific purpose of acquiring the securities offered.
+                    </p>
+                    <p>
+                      5) Any entity in which all the equity owners are accredited investors.
+                    </p>
+                    <p>
+                      6) Any corporation, limited liability company, or partnership, not formed for the specific purpose of acquiring the securities offered, with total investments in excess of $5 million.
+                    </p>
+                  </div>
+                  </template>
+                </bsp-tooltip>
+              </div>
+              <div class="Accredited-items" data-is-radio="">
+                <div class="Accredited-items-item">
+                  <div class="RadioInput">
+                    <label class="RadioInput-label">
+                      <input type="radio" name="are-you-an-accredited-investor" value="yes" required="" />
+                      <div class="RadioInput-custom"></div>
+                      <span>Yes</span>
+                    </label>
+                  </div>
+                </div>
+                <div class="Accredited-items-item">
+                  <div class="RadioInput">
+                    <label class="RadioInput-label">
+                      <input type="radio" name="are-you-an-accredited-investor" value="no" />
+                      <div class="RadioInput-custom"></div>
+                      <span>No</span>
+                    </label>
+                  </div>
+                </div>
+              </div>
+              <div class="RadioInput-errors" style="color: #e00" aria-live="assertive"></div>
+            </div>
+          </div>
+          <div class="JoinForm-items-item">
+            <bsp-phone-number-input class="PhoneNumberInput" data-bad-input="The browser is unable to convert your input">
+              <label class="PhoneNumberInput-label">Phone</label>
+              <input class="PhoneNumberInput-input2" type="tel" placeholder=" " aria-label="Phone" name="phone" />
+              <div class="PhoneNumberInput-errors" aria-live="assertive"></div>
+            </bsp-phone-number-input>
+          </div>
+          <div class="JoinForm-items-item">
+            <fieldset class="Fieldset">
+              <div class="Fieldset-items">
+                <div class="Fieldset-items-item" data-index="1">
+                  <div class="CheckboxInput">
+                    <input class="CheckboxInput-input" type="checkbox" name="optional-checkbox-label" id="joinform-checkbox" />
+                    <label for="joinform-checkbox" class="CheckboxInput-label">
+                      Send me text messages from RealtyMogul about new offers.
+                    </label>
+                  </div>
+                </div>
+              </div>
+            </fieldset>
+          </div>
+          <div class="JoinForm-items-item">
+            <bsp-email-input class="EmailInput" data-bad-input="The browser is unable to convert your input" data-value-missing="This field is required" data-type-mismatch="The value entered is not a valid email">
+              <label class="EmailInput-label">
+                Email&nbsp;<span class="TextInput-label-required">*</span>
+              </label>
+              <input class="EmailInput-input2" type="email" autocomplete="username" placeholder=" " aria-label="Email" name="email" required="" />
+              <div class="EmailInput-errors" aria-live="assertive"></div>
+            </bsp-email-input>
+          </div>
+          <div class="JoinForm-items-item">
+            <fieldset class="Fieldset">
+              <div class="Fieldset-items">
+                <div class="Fieldset-items-item" data-index="1">
+                  <bsp-password-input class="PasswordInput" data-bad-input="The browser is unable to convert your input" data-value-missing="This field is required">
+                    <label class="PasswordInput-label">
+                      Password&nbsp;<span class="TextInput-label-required">*</span>
+                    </label>
+                    <input class="PasswordInput-input2" autocomplete="new-password" type="password" placeholder=" " aria-label="Password" name="password" required="" />
+                    <svg class="icon-eye" style="fill: #9B9B9B" onclick="document.querySelector('.JoinModal .PasswordInput-input2').setAttribute('type', 'text'); document.querySelector('.icon-eye').style.display = 'none'; document.querySelector('.icon-eye-slash').style.display = 'block';">
+                      <use xlink:href="#eye"></use>
+                    </svg>
+                    <svg class="icon-eye-slash" style="fill: #9B9B9B;
+                                            display: none" onclick="document.querySelector('.JoinModal .PasswordInput-input2').setAttribute('type', 'password'); document.querySelector('.icon-eye-slash').style.display = 'none'; document.querySelector('.icon-eye').style.display = 'block';">
+                      <use xlink:href="#eye-slash"></use>
+                    </svg>
+                    <div class="PasswordInput-errors" aria-live="assertive"></div>
+                    <div class="PasswordInput-description">
+                      Must be 8 characters or more with an uppercase and lowercase character, a number, and a symbol.
+                    </div>
+                  </bsp-password-input>
+                </div>
+              </div>
+            </fieldset>
+          </div>
+        </div>
+        <div class="JoinForm-disclaimer">
+          By clicking "JOIN REALTYMOGUL" you are agreeing to our <a href="https://realtymogul.brightspotgocdn.com/e6/2b/faeb19844204af4e070303451c64/tos.pdf" target="_blank" data-cms-ai="0">Terms of Service</a> and <a href="https://realtymogul.brightspotgocdn.com/78/be/0ad447e640b491964e6de2e61a39/rm-legal-privacy-policy-02-2024.pdf" target="_blank" data-cms-ai="0">Privacy Policy</a>, and that you've had an opportunity to review RM Securities, LLC's <a href="https://realtymogul.brightspotgocdn.com/91/2e/b05ce3e84065996a12ce345dc5da/form-crs.pdf" target="_blank" data-cms-ai="0">Form Customer Relationship Summary</a>.
+        </div>
+        <button class="Button" type="submit">Join Realtymogul</button>
+      </form>
+    </div>
+  </bsp-join-form>
+</div><div id="SignIn" class="SignInForm-wrapper">
+  <bsp-signin-form class="SignInForm"  data-form-title="Sign In" data-form-id="00000181-cee4-db3b-adb3-dee732a30000" submits-inline
+>
+    <div class="SignInForm-header">
+      <div class="SignInForm-title">SIGN IN</div>
+
+      <div class="Modal-close-btn">
+        <svg class="icon-close-rm">
+          <use xlink:href="#icon-close-rm"></use>
+        </svg>
+      </div>
+    </div>
+    <div class="SignInForm-container">
+      <div class="AuthForm-message"></div>
+
+      <form class="SignInForm-form" autocomplete="chrome-off" novalidate="">
+        <div class="top-text">
+          Don’t have an account yet?
+          <a href="#join" data-cms-ai="0">Join RealtyMogul</a>.
+        </div>
+        <div class="SignInForm-items">
+          <div class="SignInForm-items-item">
+            <bsp-email-input class="EmailInput" data-bad-input="The browser is unable to convert your input" data-value-missing="This field is required" data-type-mismatch="The value entered is not a valid email">
+              <label class="EmailInput-label">Email&nbsp;<span class="TextInput-label-required">*</span>
+              </label>
+              <input class="EmailInput-input" type="email" autocomplete="username" placeholder=" " aria-label="Email" name="email" required="" />
+              <div class="EmailInput-errors" aria-live="assertive"></div>
+            </bsp-email-input>
+          </div>
+          <div class="SignInForm-items-item">
+            <bsp-password-input class="PasswordInput" data-bad-input="The browser is unable to convert your input" data-value-missing="This field is required">
+              <label class="PasswordInput-label">Password&nbsp;<span class="TextInput-label-required">*</span>
+              </label>
+              <input id="signIn-password-input" class="PasswordInput-input" autocomplete="new-password" type="password" placeholder=" " aria-label="Password" name="password" required="" />
+              <svg class="signIn-icon-eye" style="fill: #9B9B9B" onclick="document.querySelector('.SignInModal #signIn-password-input').setAttribute('type', 'text'); document.querySelector('.SignInModal .signIn-icon-eye').style.display = 'none'; document.querySelector('.SignInModal .signIn-icon-eye-slash').style.display = 'block';">
+                <use xlink:href="#eye"></use>
+              </svg>
+
+              <svg class="signIn-icon-eye-slash" style="fill: #9B9B9B; display: none" onclick="document.querySelector('.SignInModal #signIn-password-input').setAttribute('type', 'password'); document.querySelector('.SignInModal .signIn-icon-eye-slash').style.display = 'none'; document.querySelector('.SignInModal .signIn-icon-eye').style.display = 'block';">
+                <use xlink:href="#eye-slash"></use>
+              </svg>
+              <div class="PasswordInput-errors" aria-live="assertive"></div>
+            </bsp-password-input>
+          </div>
+          <a class="forgotPassword" href="#forgotPassword" data-cms-ai="0">
+            Forgot Password?
+          </a>
+        </div>
+
+        <div class="SignInForm-buttons">
+          <button class="Button" type="submit">
+            SIGN IN
+          </button>
+        </div>
+
+        <div class="SignInForm-disclaimer">
+          Questions? Our Investor Relations team is available to help 9 AM - 8 PM ET Monday to Friday. Contact us at  <a href="tel:+18779772776" data-cms-ai="0">(877) 977-2776</a>.
+        </div>
+      </form>
+    </div>
+  </bsp-signin-form>
+</div><div id="ForgotPassword" class="ForgotPasswordForm-wrapper">
+    <bsp-forgot-password-form class="ForgotPasswordForm"  data-form-title="Forgot Password" data-form-id="00000182-8ec4-dc16-ad9f-efee24820000" submits-inline
+>
+        <div class="ForgotPasswordForm-header">
+            <div class="ForgotPasswordForm-title">Forgot Password</div>
+
+            <div class="Modal-close-btn">
+                <span class="Modal-close-btn-label">close</span>
+                <svg class="icon-close-rm"><use xlink:href="#icon-close-rm"></use></svg>
+            </div>
+        </div>
+        <div class="ForgotPasswordForm-container">
+            <div class="ForgotPasswordForm-main-header">
+                
+                    <div class="ForgotPasswordForm-main-header-description" data-step-1>Enter your email address to receive a code to reset your password.<br></div>
+                
+                <div class="ForgotPasswordForm-main-header-description" data-step-2>Enter the code sent to your email address below and your new password.</div>
+            </div>
+            
+
+            <form class="ForgotPasswordForm-form" autocomplete="chrome-off"  autocomplete="off">
+             <div class="AuthForm-message">
+                    
+                </div>
+                <div data-step-1><input type="hidden" name="brightspot.form.id" value="00000182-8ec4-dc16-ad9f-efee24820000">
+
+                        <div class="ForgotPasswordForm-items"><div class="ForgotPasswordForm-items-item">
+                                        <bsp-email-input class="EmailInput"  data-bad-input="The browser is unable to convert your input" data-value-missing="This field is required"data-type-mismatch="The value entered is not a valid email">
+    <label class="EmailInput-label" >Email&nbsp;<span class="TextInput-label-required">*</span>
+</label>
+    <input class="EmailInput-input" type="email" autocomplete="username" 
+placeholder=" " aria-label="Email" name="email" required>
+    <div class="EmailInput-errors" aria-live="assertive"></div>
+
+    
+</bsp-email-input>
+
+                                    </div></div>
+                    
+
+                    <div class="ForgotPasswordForm-buttons">
+                        <button class="Button" type="submit">Send Code
+</button>
+
+                    </div>
+                </div>
+                <div data-step-2>
+                    <div class="ForgotPasswordForm-items">
+                        <div class="ForgotPasswordForm-items-item">
+                            
+
+    
+    <bsp-text-input class="TextInput"  data-bad-input="The browser is unable to convert your input">
+        <input class="TextInput-input" type="text" 
+placeholder=" " aria-label="Code" name="code" autocomplete="one-time-code">
+        <label class="TextInput-label" >Code
+</label>
+        <div class="TextInput-errors" aria-live="assertive"></div>
+
+        
+    </bsp-text-input>
+ 
+  
+
+
+                        </div>
+                        <div class="ForgotPasswordForm-items-item">
+                            
+
+    
+        <bsp-password-input class="PasswordInput"  data-bad-input="The browser is unable to convert your input">
+            <label class="PasswordInput-label" >New Password
+</label>
+            <input class="PasswordInput-input" autocomplete="new-password" type="password" 
+placeholder=" " aria-label="New Password" name="password" autocomplete="off">
+            <div class="PasswordInput-errors" aria-live="assertive"></div>
+
+            
+        </bsp-password-input>
+    
+
+
+                        </div>
+                    </div>
+
+                    <div class="ForgotPasswordForm-buttons">
+                        <button class="Button" type="submit">Submit
+</button>
+
+
+                        <p>
+                            <a href="#" class="resend" data-cms-ai="0">Resend Code</a>
+                        </p>
+                    </div>
+                </div>
+            </form>
+
+            
+        </div>
+    </bsp-forgot-password-form>
+</div><bsp-networth-form class="NetworthForm"  data-form-title="Networth" data-form-id="00000186-f02d-d80a-a7ff-f9ff1a8b0000" submits-inline
+>
+  <div class="JoinForm-header">
+    <div class="JoinForm-title">WELCOME</div>
+    <div class="Modal-close-btn">
+      <span class="Modal-close-btn-label"></span>
+      <svg class="icon-close-rm">
+        <use xlink:href="#icon-close-rm"></use>
+      </svg>
+    </div>
+  </div>
+  <form class="NetworthForm-form" autocomplete="chrome-off" autocapitalize="off" autocorrect="off" autofocus="" role="combobox" spellcheck="false" action="#" method="POST" target="_blank">
+    <div class="top-text">
+      Welcome, <span class="user-first-name" data-username></span>
+    </div>
+    <p>
+      Welcome to RealtyMogul! We need to ask a few additional questions to get to know you.
+    </p>
+    <div class="NetworthForm-items">
+      <div class="NetworthForm-items-split">
+          <div>Your Net Worth</div>
+          <div>
+            <input class="net-worth-text" placeholder="$5,000,000" />
+          </div>
+      </div>
+    </div>
+    <div class="tenthirtyone-interest" style="margin-bottom: 25px;">
+    <div style="display: flex; align-items: center;">
+      <div style="width: 60%; margin-right: 25px;">Are you interested in 1031 exchanges? 
+      </div>
+      <div style="margin-right: 25px">
+        <div class="RadioInput">
+          <label class="RadioInput-label">
+            <input type="radio" name="1031-interest" value="yes" required="" />
+            <span style="white-space: pre">Yes</span>
+          </label>
+        </div>
+      </div>
+      <div>
+        <div class="RadioInput">
+          <label class="RadioInput-label">
+            <input type="radio" name="1031-interest" value="no" />
+            <span style="white-space: pre">No</span>
+          </label>
+        </div>
+      </div>
+    </div>
+    <div class="RadioInput-errors" style="color: #e00" aria-live="assertive"></div>
+    </div>
+    <div class="tenthirtyone-active" style="margin-bottom: 25px; display: none">
+    <div style="display: flex; align-items: center;">
+      <div style="width: 60%; margin-right: 25px;">Are you currently in the process of an active exchange?
+      </div>
+      <div style="margin-right: 25px">
+        <div class="RadioInput">
+          <label class="RadioInput-label">
+            <input type="radio" name="1031-active" value="yes" required="" />
+            <span style="white-space: pre">Yes</span>
+          </label>
+        </div>
+      </div>
+      <div>
+        <div class="RadioInput">
+          <label class="RadioInput-label">
+            <input type="radio" name="1031-active" value="no" />
+            <span style="white-space: pre">No</span>
+          </label>
+        </div>
+      </div>
+    </div>
+    <div class="RadioInput-errors" style="color: #e00" aria-live="assertive"></div>
+    </div>
+    <button class="Button NetworthForm-submit">Complete Profile</button>
+    <button class="Button2">NO THANKS</button>
+  </form>
+  <div class="NetworthForm-thankyou">
+    <div class="top-text">
+      Thank you!
+    </div>
+    <p>
+      We’ve received your information and updated your Investor Profile.
+    </p>
+    <button class="Button">CLOSE</button>
+  </div>
+</bsp-networth-form><bsp-affiliate-modal class="AffiliateModal">
+  <div class="JoinForm-header">
+    <div class="AffiliateModal-title">Welcome to RealtyMogul</div>
+    <div class="Modal-close-btn">
+      <span class="Modal-close-btn-label"></span>
+      <svg class="icon-close-rm">
+        <use xlink:href="#icon-close-rm"></use>
+      </svg>
+    </div>
+  </div>
+  <div class="AffiliateModal-copy">
+    <p>
+      As part of RealtyMogul's commitment to transparency, we want to inform you that you have been directed to our website from an unaffiliated third-party marketing company who is compensated up to $250 for each investor who registers on our site. RealtyMogul and its affiliates have no relationship with the marketing company other than this compensation arrangement. RealtyMogul and its affiliates are not responsible for the preparation or accuracy of, and do not explicitly or implicitly adopt or endorse, any content provided by the unaffiliated marketing company.
+    </p>
+    <button class="Button AffiliateModal-Button">Continue</button>
+  </div>
+</bsp-affiliate-modal></div>
+
+
+   
+
+
+
+
+
+
+
+
+
+@include('home.footer')

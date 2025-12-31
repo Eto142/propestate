@@ -1,0 +1,2 @@
+[06-Feb-2025 08:38:42 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 7.3.33. in /home/theprope/public_html/vendor/composer/platform_check.php on line 24
+[06-Feb-2025 08:49:24 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 7.3.33. in /home/theprope/public_html/vendor/composer/platform_check.php on line 24

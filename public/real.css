@@ -1,0 +1,2366 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body{
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    overflow-x: hidden;
+    justify-content: center;
+    align-items: center;
+}
+header{
+    display: flex;
+    flex-direction: row;
+    gap: 20%;
+    margin-top: 10px;
+    margin-right: 60%;
+    align-items: center;
+}
+header span img{
+    width: 160px;
+    height: 60px;
+    cursor: pointer;
+}
+header span img:hover{
+    opacity: 70%;
+}
+.ul{
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+    color: black;
+    gap: 10%;
+    font-size: 15px;
+    font-weight: 500;
+    font-family: "Gotham SSm A", "Gotham SSm B", Helvetica, Arial, sans-serif;
+    align-items: center;
+}
+.an{
+    display: flex;
+    flex-direction: row;
+    width: max-content;
+}
+.ul li img{
+    width: 15px;
+    height: 8px;
+    margin-left: 2px;
+}
+.ol{
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+    color: black;
+    margin-left: 20%;
+    gap: 15px;
+    font-size: 15px;
+    font-weight: 500;
+    font-family: "Gotham SSm A", "Gotham SSm B", Helvetica, Arial, sans-serif;
+    align-items: center;
+}
+.ol li a img{
+    width: 15px;
+    height: 8px;
+    margin-left: 2px;
+}
+.ol li img{
+     width: 35px;
+     height: 30px;
+     cursor: pointer;
+}
+.hr{
+    width: 100%;
+    height: 0.3px;
+    background-color: rgb(223, 219, 219);
+    margin-top: 0.5%;
+}
+.sec{
+    padding-top: 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+}
+.sec p1{
+    display: none;
+}
+section .pp{
+    font-size: 44px;
+    font-weight: normal;
+    font-family: serif;
+    text-align: center;
+    margin-bottom: 10%;
+}
+.ul2{
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+    color: black;
+    gap: 75px;
+    font-size: 20px;
+    font-weight: 500;
+    font-family: "Gotham SSm A", "Gotham SSm B", Helvetica, Arial, sans-serif;
+    align-items: center;
+}
+.btn{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 10%;
+    margin-bottom: 5%;
+    gap: 3%;
+}
+.a a{
+    background-color: white;
+    border: 0.5px solid black;
+    width: 180px;
+    display: flex;
+    height: 25px;
+    align-items: center;
+    justify-content: center;
+    color: black;
+    font-size: 10px;
+    font-weight: 500;
+    font-family: "Gotham SSm A", "Gotham SSm B", Helvetica, Arial, sans-serif;
+    margin-bottom: 15%;
+}
+.a a:hover,
+.a a:focus{
+    background-color: black;
+    color: white;
+}
+.pet p{
+    font-size: 60px;
+    font-weight: 200;
+    font-family: "Gotham SSm A", "Gotham SSm B", Helvetica, Arial, sans-serif;
+}
+.pet1 p{
+    font-size: 60px;
+    font-weight: 200;
+    font-family: "Gotham SSm A", "Gotham SSm B", Helvetica, Arial, sans-serif;
+}
+.pet{
+    margin-left: -54rem;
+}
+
+.btsMLH {
+    width: auto;
+}
+.pet1{
+    position: absolute;
+    left: 7rem;
+    /* margin-left: 135%; */
+    width: max-content;
+}
+.yy{
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 5%;
+}
+.helo{
+    width: 330%;
+    height: 0.3px;
+    background-color: rgb(223, 219, 219);
+    margin-top: 0.5%;
+}
+.helo23{
+    width: 286%;
+    height: 0.3px;
+    background-color: rgb(223, 219, 219);
+    margin-top: 0.5%;
+}
+.pet p1{
+    font-size: 12px;
+    color: rgb(167, 169, 172);
+    line-height: normal;
+    font-weight: normal;
+    letter-spacing: normal;
+    -webkit-font-smoothing: antialiased;
+    font-family: "Gotham SSm A", "Gotham SSm B", Helvetica, Arial, sans-serif;
+    text-indent: 0px;
+    text-transform: none;
+    font-style: normal;
+    white-space: normal;
+    text-shadow: inherit;
+    display: inline;
+    opacity: 1;
+    box-sizing: border-box;
+    transition: none 0s ease 0s;
+}
+.pet1 span{
+    display: flex;
+}
+.pet1 span a{
+    font-size: 12px;
+    color: rgb(167, 169, 172);
+    line-height: normal;
+    font-weight: normal;
+    width: max-content;
+    letter-spacing: normal;
+    font-family: "Gotham SSm A", "Gotham SSm B", Helvetica, Arial, sans-serif;
+}
+.ee{
+    padding: 0% 0% 0% 8%;
+    display: flex;
+    flex-direction: row;
+    margin-left: 0%;
+    margin-bottom: 5%;
+}
+
+.pet3 p{
+    font-size: 40px;
+    font-weight: 200;
+    font-family: "Gotham SSm A", "Gotham SSm B", Helvetica, Arial, sans-serif;
+}
+.pet3{
+    width: 38rem;
+    margin-left: 0%;
+}
+.helo1{
+    width: 98%;
+    height: 0.3px;
+    background-color: rgb(223, 219, 219);
+    margin-top: 0.5%;
+}
+.pet3 span{
+    display: flex;
+}
+.pet3 span a{
+    font-size: 12px;
+    color: rgb(167, 169, 172);
+    line-height: normal;
+    font-weight: normal;
+    letter-spacing: normal;
+    -webkit-font-smoothing: antialiased;
+    font-family: "Gotham SSm A", "Gotham SSm B", Helvetica, Arial, sans-serif;
+    text-indent: 0px;
+    text-transform: none;
+    font-style: normal;
+    white-space: normal;
+    text-shadow: inherit;
+    display: inline;
+    opacity: 1;
+    box-sizing: border-box;
+    transition: none 0s ease 0s;
+}
+.pet4 p{
+    font-size: 40px;
+    font-weight: 200;
+    font-family: "Gotham SSm A", "Gotham SSm B", Helvetica, Arial, sans-serif;
+}
+.pet4{
+    width: 38rem;
+    margin-left: 7%;
+}
+.helo2{
+    width: 98%;
+    height: 0.3px;
+    background-color: rgb(223, 219, 219);
+    margin-top: 0.5%;
+}
+.pet4 span{
+    display: flex;
+}
+.pet4 span a{
+    font-size: 12px;
+    color: rgb(167, 169, 172);
+    line-height: normal;
+    font-weight: normal;
+    letter-spacing: normal;
+    -webkit-font-smoothing: antialiased;
+    font-family: "Gotham SSm A", "Gotham SSm B", Helvetica, Arial, sans-serif;
+    text-indent: 0px;
+    text-transform: none;
+    font-style: normal;
+    white-space: normal;
+    text-shadow: inherit;
+    display: inline;
+    opacity: 1;
+    box-sizing: border-box;
+    transition: none 0s ease 0s;
+}
+.pet5 p{
+    font-size: 40px;
+    font-weight: 200;
+    font-family: "Gotham SSm A", "Gotham SSm B", Helvetica, Arial, sans-serif;
+}
+.pet5{
+    width: 38rem;
+    margin-left: 7%;
+}
+.helo3{
+    width: 98%;
+    height: 0.3px;
+    background-color: rgb(223, 219, 219);
+    margin-top: 0.5%;
+}
+.pet5 span{
+    display: flex;
+}
+.pet5 span a{
+    font-size: 12px;
+    color: rgb(167, 169, 172);
+    line-height: normal;
+    font-weight: normal;
+    letter-spacing: normal;
+    -webkit-font-smoothing: antialiased;
+    font-family: "Gotham SSm A", "Gotham SSm B", Helvetica, Arial, sans-serif;
+    text-indent: 0px;
+    text-transform: none;
+    font-style: normal;
+    white-space: normal;
+    text-shadow: inherit;
+    display: inline;
+    opacity: 1;
+    box-sizing: border-box;
+    transition: none 0s ease 0s;
+}
+.pl{
+    background-color: rgb(23, 109, 182);
+    width: 85%;
+    height: 3px;
+}
+.lk{
+    display: flex;
+    flex-direction: row;
+    padding-left: 14%;
+    align-items: center;
+    padding-top: 1%;
+    margin-bottom: -5%;
+}
+.lk p{
+    font-size: 24px;
+    font-weight: 500;
+    padding-right: 195px;
+    cursor: pointer;
+    width: max-content;
+    font-family: "Gotham SSm A", "Gotham SSm B", Helvetica, Arial, sans-serif;
+}
+.jul{
+    margin-left: 120px;
+    display: flex;
+}
+.hh{
+    display: flex;
+    flex-direction: column;
+    gap: 20%;
+}
+.lo{
+    display: flex;
+    flex-direction: column;
+    gap: 20%;
+}
+.hh li{
+    list-style: none;
+    font-size: 14px;
+    font-weight: 200;
+    font-family: "Gotham SSm A", "Gotham SSm B", Helvetica, Arial, sans-serif;
+    display: flex;
+    flex-direction: column;
+}
+.hh p{
+    list-style: none;
+    font-size: 15px;
+    font-weight: 700;
+    font-family: "Gotham SSm A", "Gotham SSm B", Helvetica, Arial, sans-serif;
+    display: flex;
+    flex-direction: column;
+}
+.lo li{
+    list-style: none;
+    font-size: 14px;
+    font-weight: 200;
+    font-family: "Gotham SSm A", "Gotham SSm B", Helvetica, Arial, sans-serif;
+    display: flex;
+    flex-direction: column;
+}
+.lo p{
+    list-style: none;
+    font-size: 15px;
+    font-weight: 700;
+    font-family: "Gotham SSm A", "Gotham SSm B", Helvetica, Arial, sans-serif;
+    display: flex;
+    flex-direction: column;
+}
+.ht{
+    width: 50px;
+    height: 50px;
+    background-color: transparent;
+    border: 1px solid rgb(167, 169, 172);
+    border-radius: 25px;
+    display: flex;
+    margin-left: -13px;
+    justify-content: centrer;
+    align-items: center;
+}
+.ht p{
+    font-size: 16px;
+    font-weight: 500;
+    font-family: "Gotham SSm A", "Gotham SSm B", Helvetica, Arial, sans-serif;
+    text-align: center;
+    padding-left: 4px;
+}
+.ty{
+    display: flex;
+    align-items: center;
+    padding-left: 90px;
+}
+.ty p{
+    font-size: 17px;
+    font-weight: 500;
+    margin-left: 10px;
+    width: max-content;
+    font-family: "Gotham SSm A", "Gotham SSm B", Helvetica, Arial, sans-serif;
+}
+.pkl{
+    background-color: black;
+    width: 172%;
+    height: 1px;
+    margin-top: 20px;
+}
+.yu{
+    display: flex;
+    flex-direction: row;
+    margin-top: 15%;
+    margin-left: 10%;
+}
+.fty h1{
+    font-size: 32px;
+    font-weight: normal;
+    width: max-content;
+    font-family:  mrs-eaves-xl-serif-narrow, serif;
+}
+.fty p{
+    font-size: 12px;
+    margin-bottom: 2em;
+    margin-top: 1em;
+    cursor: pointer;
+    border: 0px none;
+    color: rgb(23, 109, 182);
+    background-color: transparent;
+    font-weight: 500;
+    letter-spacing: 0.15em;
+    -webkit-font-smoothing: antialiased;
+    font-family: "Gotham SSm A", "Gotham SSm B", Helvetica, Arial, sans-serif;
+    text-transform: uppercase;
+    font-style: normal;
+    white-space: normal;
+    opacity: 1;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+.fty p:hover{
+    color: black;
+}
+.klo{
+    background-color: black;
+    width: 100%;
+    height: 1px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.fty .klopo{
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.fty .klopo li{
+    font-size: 12px;
+    color: rgb(14, 13, 13);
+    line-height: 2.1;
+    font-weight: 800;
+    width: max-content;
+    letter-spacing: normal;
+    -webkit-font-smoothing: antialiased;
+    font-family: "Gotham SSm A", "Gotham SSm B", Helvetica, Arial, sans-serif;
+    text-indent: 0px;
+    text-transform: none;
+    font-style: normal;
+    white-space: normal;
+    text-shadow: inherit;
+    display: inline;
+    opacity: 1;
+    box-sizing: border-box;
+    transition: none 0s ease 0s;
+    visibility: visible;
+}
+.fty .klopo p{
+    font-size: 16px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    color: rgb(32, 32, 32);
+    line-height: 1.75;
+    font-weight: 300;
+    letter-spacing: normal;
+    -webkit-font-smoothing: antialiased;
+    font-family: "Gotham SSm A", "Gotham SSm B", Helvetica, Arial, sans-serif;
+    text-indent: 0px;
+    text-transform: none;
+    font-style: normal;
+}
+.kkll{
+    margin-top: -48%;
+    margin-left: 90%;
+}
+.kkll ul .li1{
+    list-style: none;
+    display: flex;
+    gap: 220px;
+    align-items: center;
+    justify-content: space-between;
+}
+.kkll ul .li2{
+    list-style: none;
+    display: flex;
+    gap: 300px;
+    align-items: center;
+    justify-content: space-between;
+}
+.kkll ul .li3{
+    list-style: none;
+    display: flex;
+    gap: 215px;
+    align-items: center;
+    justify-content: space-between;
+}
+.kkll ul .li4{
+    list-style: none;
+    display: flex;
+    gap: 225px;
+    align-items: center;
+    justify-content: space-between;
+}
+.kkll ul li span {
+    display: flex;
+    gap: 5px;
+    flex-direction: row;
+}
+.kkll ul li span a{
+    font-size: 12px;
+    color: rgb(14, 13, 13);
+    line-height: 2.1;
+    font-weight: 800;
+    width: max-content;
+    letter-spacing: normal;
+    -webkit-font-smoothing: antialiased;
+    font-family: "Gotham SSm A", "Gotham SSm B", Helvetica, Arial, sans-serif;
+    text-indent: 0px;
+    text-transform: none;
+    font-style: normal;
+    white-space: normal;
+    text-shadow: inherit;
+    display: inline;
+    opacity: 1;
+    box-sizing: border-box;
+    transition: none 0s ease 0s;
+    visibility: visible;
+}
+.kkll ul p{
+    font-size: 16px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-top: 0px;
+    margin-left: 0%;
+    padding-bottom: 0px;
+    color: rgb(32, 32, 32);
+    line-height: 1.75;
+    font-weight: 300;
+    letter-spacing: normal;
+    -webkit-font-smoothing: antialiased;
+    font-family: "Gotham SSm A", "Gotham SSm B", Helvetica, Arial, sans-serif;
+    text-indent: 0px;
+    text-transform: none;
+    font-style: normal;
+}
+.ko{
+    background-color: black;
+    width: 450px;
+    height: 1px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.ck{
+    display: flex;
+    align-items: center;
+    opacity: 60%;
+   width: 75px;
+   border-radius: 40px;
+   height: 35px;
+   background-color: rgb(23, 109, 182); 
+}
+.ck p{
+    font-size: 16px;
+    font-weight: 700;
+    padding-left: 7px;
+    width: max-content;
+    color: white;
+    font-family: "Gotham SSm A", "Gotham SSm B", Helvetica, Arial, sans-serif;
+}
+.kkk{
+    background-color: white;
+    width: 20px;
+    height: 20px;
+    border-radius: 10px;
+    margin-left: 10px;
+}
+.ld p{
+    font-size: 20px;
+    font-weight: 500;
+    font-family: "Gotham SSm A", "Gotham SSm B", Helvetica, Arial, sans-serif;
+}
+.dl{
+    display: flex;
+    align-items: center;
+    padding-left: 10%;
+    padding-bottom: 2%;
+    padding-top: 6%;
+    gap: 30px;
+}
+.late{
+    display: flex;
+}
+.jk{
+    font-size: 14px;
+    font-weight: 500;
+    font-family: "Gotham SSm A", "Gotham SSm B", Helvetica, Arial, sans-serif;
+    padding-left: 10%;
+}
+.kjk{
+    margin-top: 10px;
+}
+.kj{
+    color: rgb(23, 109, 182);
+    width: max-content;
+    font-size: 16px;
+    font-weight: 500;
+    font-family: "Gotham SSm A", "Gotham SSm B", Helvetica, Arial, sans-serif;
+    padding-left: 10%;
+}
+.olj{
+    margin-left: 116%;
+    margin-top: -15%;
+    margin-bottom: 25%;
+}
+.jkl{
+    background-color: rgb(23, 109, 182);
+    width: 280px;
+    height: 45px;
+    display: flex;
+    align-items: center;
+    color: white;
+    font-size: 16px;
+    font-weight: 500;
+    font-family: "Gotham SSm A", "Gotham SSm B", Helvetica, Arial, sans-serif;
+    justify-content: center;
+}
+.jkl:hover{
+    opacity: 70%;
+}
+.yul{
+    display: flex;
+    flex-direction: row;
+    margin-top: 15%;
+    margin-left: -7%;
+}
+.ftyo{
+    padding-left: 16%;
+}
+.ftyo h1{
+    font-size: 32px;
+    font-weight: normal;
+    width: max-content;
+    font-family:  mrs-eaves-xl-serif-narrow, serif;
+}
+.ftyo p{
+    font-size: 12px;
+    margin-bottom: 2em;
+    margin-top: 1em;
+    cursor: pointer;
+    border: 0px none;
+    color: rgb(23, 109, 182);
+    background-color: transparent;
+    font-weight: 500;
+    letter-spacing: 0.15em;
+    -webkit-font-smoothing: antialiased;
+    font-family: "Gotham SSm A", "Gotham SSm B", Helvetica, Arial, sans-serif;
+    text-transform: uppercase;
+    font-style: normal;
+    white-space: normal;
+    opacity: 1;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+.ftyo p:hover{
+    color: black;
+}
+.kloo{
+    background-color: black;
+    width: 70%;
+    height: 1px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.ftyo .klopo{
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.ftyo .klopo li{
+    font-size: 12px;
+    color: rgb(14, 13, 13);
+    line-height: 2.1;
+    font-weight: 800;
+    width: max-content;
+    letter-spacing: normal;
+    -webkit-font-smoothing: antialiased;
+    font-family: "Gotham SSm A", "Gotham SSm B", Helvetica, Arial, sans-serif;
+    text-indent: 0px;
+    text-transform: none;
+    font-style: normal;
+    white-space: normal;
+    text-shadow: inherit;
+    display: inline;
+    opacity: 1;
+    box-sizing: border-box;
+    transition: none 0s ease 0s;
+    visibility: visible;
+}
+.ftyo .klopo p{
+    font-size: 16px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    color: rgb(32, 32, 32);
+    line-height: 1.75;
+    font-weight: 300;
+    padding-right: 30%;
+    letter-spacing: normal;
+    -webkit-font-smoothing: antialiased;
+    font-family: "Gotham SSm A", "Gotham SSm B", Helvetica, Arial, sans-serif;
+    text-indent: 0px;
+    text-transform: none;
+    font-style: normal;
+}
+.kkllp{
+    margin-top: -47.8%;
+    margin-left: 90%;
+}
+.kkllp ul .li1{
+    list-style: none;
+    display: flex;
+    gap: 220px;
+    align-items: center;
+    justify-content: space-between;
+}
+.kkllp ul .li2{
+    list-style: none;
+    display: flex;
+    gap: 300px;
+    align-items: center;
+    justify-content: space-between;
+}
+.kkllp ul .li3{
+    list-style: none;
+    display: flex;
+    gap: 215px;
+    align-items: center;
+    justify-content: space-between;
+}
+.kkllp ul .li4{
+    list-style: none;
+    display: flex;
+    gap: 225px;
+    align-items: center;
+    justify-content: space-between;
+}
+.kkllp ul li span {
+    display: flex;
+    gap: 5px;
+    flex-direction: row;
+}
+.kkllp ul li span a{
+    font-size: 12px;
+    color: rgb(14, 13, 13);
+    line-height: 2.1;
+    font-weight: 800;
+    width: max-content;
+    letter-spacing: normal;
+    -webkit-font-smoothing: antialiased;
+    font-family: "Gotham SSm A", "Gotham SSm B", Helvetica, Arial, sans-serif;
+    text-indent: 0px;
+    text-transform: none;
+    font-style: normal;
+    white-space: normal;
+    text-shadow: inherit;
+    display: inline;
+    opacity: 1;
+    box-sizing: border-box;
+    transition: none 0s ease 0s;
+    visibility: visible;
+}
+.kkllp ul p{
+    font-size: 16px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    color: rgb(32, 32, 32);
+    line-height: 1.75;
+    font-weight: 300;
+    letter-spacing: normal;
+    -webkit-font-smoothing: antialiased;
+    font-family: "Gotham SSm A", "Gotham SSm B", Helvetica, Arial, sans-serif;
+    text-indent: 0px;
+    text-transform: none;
+    font-style: normal;
+}
+.kol{
+    background-color: black;
+    width: 450px;
+    height: 1px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.lkp{
+    display: flex;
+    flex-direction: row;
+    padding-left: 35px;
+    width: 85%;
+    justify-content: space-between;
+    align-items: center;
+    gap: 70px;
+    margin-bottom: 10%;
+    padding-top: 1%;
+}
+.lkp p{
+    font-size: 24px;
+    font-weight: 500;
+    cursor: pointer;
+    width: max-content;
+    font-family: "Gotham SSm A", "Gotham SSm B", Helvetica, Arial, sans-serif;
+}
+.yut{
+    margin-left: -35px;
+}
+.jet{
+    display: flex;
+    gap: 145px;
+    padding-right: 65px;
+}
+.hhp{
+    display: flex;
+    flex-direction: column;
+    gap: 10%;
+}
+.lop{
+    display: flex;
+    flex-direction: column;
+    gap: 30%;
+}
+.hhp li{
+    list-style: none;
+    font-size: 14px;
+    font-weight: 200;
+    font-family: "Gotham SSm A", "Gotham SSm B", Helvetica, Arial, sans-serif;
+    display: flex;
+    flex-direction: column;
+}
+.hhp p{
+    list-style: none;
+    font-size: 15px;
+    font-weight: 700;
+    font-family: "Gotham SSm A", "Gotham SSm B", Helvetica, Arial, sans-serif;
+    display: flex;
+    flex-direction: column;
+}
+.lop li{
+    list-style: none;
+    font-size: 14px;
+    font-weight: 200;
+    font-family: "Gotham SSm A", "Gotham SSm B", Helvetica, Arial, sans-serif;
+    display: flex;
+    flex-direction: column;
+}
+.lop p{
+    list-style: none;
+    font-size: 15px;
+    font-weight: 700;
+    font-family: "Gotham SSm A", "Gotham SSm B", Helvetica, Arial, sans-serif;
+    display: flex;
+    flex-direction: column;
+}
+.htp{
+    width: 50px;
+    height: 50px;
+    background-color: transparent;
+    border: 1px solid rgb(167, 169, 172);
+    border-radius: 25px;
+    display: flex;
+    margin-left: -13px;
+    justify-content: centrer;
+    align-items: center;
+}
+.htp p{
+    font-size: 16px;
+    font-weight: 500;
+    font-family: "Gotham SSm A", "Gotham SSm B", Helvetica, Arial, sans-serif;
+    text-align: center;
+    padding-left: 4px;
+}
+.typ{
+    display: flex;
+    align-items: center;
+    padding-left: 60px;
+}
+.typ p{
+    font-size: 17px;
+    font-weight: 500;
+    margin-left: 10px;
+    width: max-content;
+    font-family: "Gotham SSm A", "Gotham SSm B", Helvetica, Arial, sans-serif;
+}
+.pklp{
+    background-color: black;
+    width: 116%;
+    height: 1px;
+    margin-top: 10px;
+    margin-bottom: 5%;
+}
+.plp{
+    background-color: rgb(23, 109, 182);
+    width: 85%;
+    height: 3px;
+    margin-top: 6%;
+}
+.dy{
+    font-size: 18px;
+    font-weight: 500;
+    width: max-content;
+    line-height: 26px;
+    padding-top: 5%;
+    font-family: "Gotham SSm A", "Gotham SSm B", Helvetica, Arial, sans-serif;
+}
+.jkp{
+    background-color: rgb(23, 109, 182);
+    width: 280px;
+    height: 45px;
+    display: flex;
+    align-items: center;
+    margin-top: 5%;
+    margin-right: 59%;
+    color: white;
+    font-size: 14px;
+    font-weight: 500;
+    margin-bottom: 20%;
+    font-family: "Gotham SSm A", "Gotham SSm B", Helvetica, Arial, sans-serif;
+    justify-content: center;
+}
+.jkp:hover{
+    opacity: 70%;
+}
+.kh{
+    position: fixed;
+    top: 90%;
+    left: 88%;
+    background-color: rgb(21, 114, 196);
+    width: 140px;
+    height: 45px;
+    border-radius: 60px;
+    display: flex;
+    align-items: center;
+    color: white;
+    font-size: 14px;
+    font-weight: 500;
+    font-family: "Gotham SSm A", "Gotham SSm B", Helvetica, Arial, sans-serif;
+    justify-content: center;
+}
+
+.div-m{
+    display: none;
+}
+.div-mi{
+    display: none;
+}
+.div-mi2{
+    display: none;
+}
+.div-mi3{
+    display: none;
+}
+.span7{
+    display: none;
+}
+.pushing-p2{
+    display: none;
+}
+.the{
+    display: none;
+}
+#evil{
+    display: flex;
+    flex-direction: column;
+    margin-right: 35.5%;
+    margin-top: 5%;
+}
+#deads{
+    display: none;
+}
+#deadis{
+    display: none;
+}
+#span{
+    display: flex;
+    flex-direction: column;
+    margin-top: -10%;
+    margin-bottom: 0%;
+    margin-right: 11%;
+}
+.option{
+    display: none;
+}
+.helo-world{
+    display: none;
+}
+.iop{
+    display: none;
+}
+@media screen and (max-width: 750px){
+    *{
+        margin: 0px;
+        padding: 0px;
+        box-sizing: border-box;
+    }
+    body{
+        background-color: white;
+        display: flex;
+        overflow-x: hidden;
+        max-width: 100%;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    header{
+        display: flex;
+        flex-direction: row;
+        padding-left: 15%;
+        justify-content: space-between;
+        margin-top: 10px;
+        width: 40%;
+        align-items: center;
+    }
+    header span img{
+        width: 150px;
+        height: 50px;
+        cursor: pointer;
+    }
+    header span img:hover{
+        opacity: 70%;
+    }
+    .ul{
+        display: none;
+        flex-direction: row;
+        list-style: none;
+        color: black;
+        gap: 10%;
+        font-size: 15px;
+        font-weight: 500;
+        font-family: "Gotham SSm A", "Gotham SSm B", Helvetica, Arial, sans-serif;
+        align-items: center;
+    }
+    .an{
+        display: flex;
+        flex-direction: row;
+        width: max-content;
+    }
+    .ul li img{
+        width: 15px;
+        height: 8px;
+        margin-left: 2px;
+    }
+    .ol{
+        display: flex;
+        flex-direction: row;
+        list-style: none;
+        color: black;
+        margin-left: 20%;
+        gap: 15px;
+        font-size: 15px;
+        font-weight: 500;
+        font-family: "Gotham SSm A", "Gotham SSm B", Helvetica, Arial, sans-serif;
+        align-items: center;
+    }
+    .ol li a{
+        display: none;
+    }
+    .ol li a img{
+        width: 15px;
+        height: 8px;
+        margin-left: 2px;
+    }
+    .ik{
+        display: flex;
+        flex-direction: column;
+        gap: 5px;
+        transition: 4s;
+    }
+    .ik div{
+        background-color: black;
+        width: 25px;
+        height: 2px;
+        transition: 1s;
+    }
+    .ol li img{
+         width: 35px;
+         height: 30px;
+         cursor: pointer;
+    }
+   
+    .hr{
+        width: 100%;
+        height: 0.3px;
+        background-color: rgb(223, 219, 219);
+        margin-top: 6%;
+    }
+    .sec{
+        padding-top: 100px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    
+    }
+    .sec p1{
+        background-color: transparent;
+        width: 190px;
+        height: 45px;
+        margin-left: 15px;
+        justify-content: space-between;
+        border: 1px solid rgb(23, 109, 182);
+        display: flex;
+        align-items: center;
+        color: rgb(23, 109, 182);
+        font-size: 12px;
+    }
+    .sec p1 p{
+        padding-left: 10px;
+    }
+    .sec p1 img{
+        width: 30px;
+        height: 20px;
+        padding-right: 10px;
+    }
+    section .pp{
+        font-size: 28px;
+        font-weight: normal;
+        font-family: serif;
+        text-align: center;
+        margin-bottom: 10%;
+    }
+    .ul2{
+        display: none;
+        flex-direction: column;
+        list-style: none;
+        color: black;
+        gap: 75px;
+        font-size: 20px;
+        font-weight: 500;
+        font-family: "Gotham SSm A", "Gotham SSm B", Helvetica, Arial, sans-serif;
+        align-items: center;
+    }
+    .btn{
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        margin-top: 10%;
+        margin-bottom: 5%;
+        margin-left: -5%;
+        gap: 3%;
+    }
+    .a a{
+        background-color: white;
+        border: 0.5px solid black;
+        width: 90px;
+        display: flex;
+        height: 35px;
+        align-items: center;
+        text-align: center;
+        justify-content: center;
+        color: black;
+        font-size: 10px;
+        font-weight: 500;
+        font-family: "Gotham SSm A", "Gotham SSm B", Helvetica, Arial, sans-serif;
+        margin-bottom: 15%;
+    }
+    .a a:hover,
+    .a a:focus{
+        background-color: black;
+        color: white;
+    }
+    .pet p{
+        font-size: 30px;
+        font-weight: 200;
+        font-family: "Gotham SSm A", "Gotham SSm B", Helvetica, Arial, sans-serif;
+    }
+    .pet1 p{
+        font-size: 30px;
+        font-weight: 200;
+        font-family: "Gotham SSm A", "Gotham SSm B", Helvetica, Arial, sans-serif;
+    }
+    .pet{
+        margin-left: -50%;
+        margin-bottom: 30px;
+        justify-content: left;
+    }
+    .pet1{
+        margin-left:-50%;
+        width: max-content;
+        margin-bottom: 30px;
+    }
+    .yy{
+        display: flex;
+        flex-direction: column;
+    }
+    .helo{
+        width: 115%;
+        height: 0.3px;
+        background-color: rgb(223, 219, 219);
+        margin-top: 0.5%;
+    }
+    .helo23{
+        width: 150%;
+        height: 0.3px;
+        background-color: rgb(223, 219, 219);
+        margin-top: 0.5%;
+    }
+    .pet p1{
+        font-size: 10px;
+        color: rgb(167, 169, 172);
+        line-height: normal;
+        font-weight: normal;
+        letter-spacing: normal;
+        -webkit-font-smoothing: antialiased;
+        font-family: "Gotham SSm A", "Gotham SSm B", Helvetica, Arial, sans-serif;
+        text-indent: 0px;
+        text-transform: none;
+        font-style: normal;
+        white-space: normal;
+        text-shadow: inherit;
+        display: inline;
+        opacity: 1;
+        box-sizing: border-box;
+        transition: none 0s ease 0s;
+    }
+    .pet1 span{
+        display: flex;
+    }
+    .pet1 span a{
+        font-size: 10px;
+        color: rgb(167, 169, 172);
+        line-height: normal;
+        margin-top: 5%;
+        font-weight: normal;
+        width: max-content;
+        letter-spacing: normal;
+        font-family: "Gotham SSm A", "Gotham SSm B", Helvetica, Arial, sans-serif;
+    }
+    .ee{
+        display: flex;
+        flex-direction: column;
+        margin-left: -15%;
+        margin-bottom: 5%;
+    }
+    .pet3 p{
+        font-size: 20px;
+        font-weight: 200;
+        font-family: "Gotham SSm A", "Gotham SSm B", Helvetica, Arial, sans-serif;
+    }
+    .pet3{
+        margin-left: -27%;
+        margin-bottom: 30px;
+    }
+    .helo1{
+        width: 140%;
+        height: 0.3px;
+        background-color: rgb(223, 219, 219);
+        margin-top: 0.5%;
+    }
+    .pet3 span{
+        display: flex;
+    }
+    .pet3 span a{
+        font-size: 10px;
+        color: rgb(167, 169, 172);
+        margin-top: 5%;
+        line-height: normal;
+        font-weight: normal;
+        letter-spacing: normal;
+        -webkit-font-smoothing: antialiased;
+        font-family: "Gotham SSm A", "Gotham SSm B", Helvetica, Arial, sans-serif;
+        text-indent: 0px;
+        text-transform: none;
+        font-style: normal;
+        white-space: normal;
+        text-shadow: inherit;
+        display: inline;
+        opacity: 1;
+        box-sizing: border-box;
+        transition: none 0s ease 0s;
+    }
+    .pet4 p{
+        font-size: 20px;
+        font-weight: 200;
+        font-family: "Gotham SSm A", "Gotham SSm B", Helvetica, Arial, sans-serif;
+    }
+    .pet4{
+        margin-left: -26%;
+        margin-bottom: 30px;
+    }
+    .helo2{
+        width: 140%;
+        height: 0.3px;
+        background-color: rgb(223, 219, 219);
+        margin-top: 0.5%;
+    }
+    .pet4 span{
+        display: flex;
+    }
+    .pet4 span a{
+        font-size: 10px;
+        color: rgb(167, 169, 172);
+        line-height: normal;
+        margin-top: 5%;
+        font-weight: normal;
+        letter-spacing: normal;
+        -webkit-font-smoothing: antialiased;
+        font-family: "Gotham SSm A", "Gotham SSm B", Helvetica, Arial, sans-serif;
+        text-indent: 0px;
+        text-transform: none;
+        font-style: normal;
+        white-space: normal;
+        text-shadow: inherit;
+        display: inline;
+        opacity: 1;
+        box-sizing: border-box;
+        transition: none 0s ease 0s;
+    }
+    .pet5 p{
+        font-size: 20px;
+        font-weight: 200;
+        font-family: "Gotham SSm A", "Gotham SSm B", Helvetica, Arial, sans-serif;
+    }
+    .pet5{
+        margin-left: -26%;
+        margin-bottom: 30px;
+    }
+    .helo3{
+        width: 140%;
+        height: 0.3px;
+        background-color: rgb(223, 219, 219);
+        margin-top: 0.5%;
+    }
+    .pet5 span{
+        display: flex;
+    }
+    .pet5 span a{
+        font-size: 10px;
+        color: rgb(167, 169, 172);
+        line-height: normal;
+        margin-top: 0.5%;
+        font-weight: normal;
+        letter-spacing: normal;
+        -webkit-font-smoothing: antialiased;
+        font-family: "Gotham SSm A", "Gotham SSm B", Helvetica, Arial, sans-serif;
+        text-indent: 0px;
+        text-transform: none;
+        font-style: normal;
+        white-space: normal;
+        text-shadow: inherit;
+        display: inline;
+        opacity: 1;
+        box-sizing: border-box;
+        transition: none 0s ease 0s;
+    }
+    .pl{
+        background-color: rgb(23, 109, 182);
+        width: 50%;
+        height: 3px;
+        display: none;
+    }
+    .lk{
+        display: none;
+        flex-direction: row;
+        padding-left: 14%;
+        align-items: center;
+        padding-top: 1%;
+        margin-bottom: -5%;
+    }
+    .lk p{
+        font-size: 24px;
+        font-weight: 500;
+        padding-right: 195px;
+        display: none;
+        cursor: pointer;
+        width: max-content;
+        font-family: "Gotham SSm A", "Gotham SSm B", Helvetica, Arial, sans-serif;
+    }
+    .jul{
+        margin-left: 120px;
+        display: none;
+    }
+    .hh{
+        display: none;
+        flex-direction: column;
+        gap: 20%;
+    }
+    .lo{
+        display: none;
+        flex-direction: column;
+        gap: 20%;
+    }
+    .hh li{
+        display: none;
+        list-style: none;
+        font-size: 14px;
+        font-weight: 200;
+        font-family: "Gotham SSm A", "Gotham SSm B", Helvetica, Arial, sans-serif;
+        display: flex;
+        flex-direction: column;
+    }
+    .hh p{
+        list-style: none;
+        display: none;
+        font-size: 15px;
+        font-weight: 700;
+        font-family: "Gotham SSm A", "Gotham SSm B", Helvetica, Arial, sans-serif;
+        display: flex;
+        flex-direction: column;
+    }
+    .lo li{
+        display: none;
+        list-style: none;
+        font-size: 14px;
+        font-weight: 200;
+        font-family: "Gotham SSm A", "Gotham SSm B", Helvetica, Arial, sans-serif;
+        display: flex;
+        flex-direction: column;
+    }
+    .lo p{
+        list-style: none;
+        display: none;
+        font-size: 15px;
+        font-weight: 700;
+        font-family: "Gotham SSm A", "Gotham SSm B", Helvetica, Arial, sans-serif;
+        display: flex;
+        flex-direction: column;
+    }
+    .ht{
+        width: 50px;
+        display: none;
+        height: 50px;
+        background-color: transparent;
+        border: 1px solid rgb(167, 169, 172);
+        border-radius: 25px;
+        display: flex;
+        margin-left: -13px;
+        justify-content: centrer;
+        align-items: center;
+    }
+    .ht p{
+        font-size: 16px;
+        font-weight: 500;
+        display: none;
+        font-family: "Gotham SSm A", "Gotham SSm B", Helvetica, Arial, sans-serif;
+        text-align: center;
+        padding-left: 4px;
+    }
+    .ty{
+        display: none;
+        align-items: center;
+        padding-left: 90px;
+    }
+    .ty p{
+        font-size: 17px;
+        font-weight: 500;
+        display: none;
+        margin-left: 10px;
+        width: max-content;
+        font-family: "Gotham SSm A", "Gotham SSm B", Helvetica, Arial, sans-serif;
+    }
+    .pkl{
+        background-color: black;
+        width: 172%;
+        height: 1px;
+        display: none;
+        margin-top: 20px;
+    }
+    .yu{
+        display: flex;
+        flex-direction: row;
+        margin-top: 15%;
+        display: none;
+        margin-left: 10%;
+    }
+    .fty h1{
+        font-size: 32px;
+        font-weight: normal;
+        display: none;
+        width: max-content;
+        font-family:  mrs-eaves-xl-serif-narrow, serif;
+    }
+    .fty p{
+        font-size: 12px;
+        display: none;
+        margin-bottom: 2em;
+        margin-top: 1em;
+        cursor: pointer;
+        border: 0px none;
+        color: rgb(23, 109, 182);
+        background-color: transparent;
+        font-weight: 500;
+        letter-spacing: 0.15em;
+        -webkit-font-smoothing: antialiased;
+        font-family: "Gotham SSm A", "Gotham SSm B", Helvetica, Arial, sans-serif;
+        text-transform: uppercase;
+        font-style: normal;
+        white-space: normal;
+        opacity: 1;
+        box-sizing: border-box;
+        text-decoration: none;
+    }
+    .fty p:hover{
+        color: black;
+    }
+    .klo{
+        background-color: black;
+        display: none;
+        width: 100%;
+        height: 1px;
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+    .fty .klopo{
+        list-style: none;
+        display: none;
+        align-items: center;
+        justify-content: space-between;
+    }
+    .fty .klopo li{
+        font-size: 12px;
+        color: rgb(14, 13, 13);
+        line-height: 2.1;
+        font-weight: 800;
+        display: none;
+        width: max-content;
+        letter-spacing: normal;
+        -webkit-font-smoothing: antialiased;
+        font-family: "Gotham SSm A", "Gotham SSm B", Helvetica, Arial, sans-serif;
+        text-indent: 0px;
+        text-transform: none;
+        font-style: normal;
+        white-space: normal;
+        text-shadow: inherit;
+        display: inline;
+        opacity: 1;
+        box-sizing: border-box;
+        transition: none 0s ease 0s;
+        visibility: visible;
+    }
+    .fty .klopo p{
+        font-size: 16px;
+        margin-top: 0px;
+        display: none;
+        margin-bottom: 0px;
+        padding-top: 0px;
+        padding-bottom: 0px;
+        color: rgb(32, 32, 32);
+        line-height: 1.75;
+        font-weight: 300;
+        letter-spacing: normal;
+        -webkit-font-smoothing: antialiased;
+        font-family: "Gotham SSm A", "Gotham SSm B", Helvetica, Arial, sans-serif;
+        text-indent: 0px;
+        text-transform: none;
+        font-style: normal;
+    }
+    .kkll{
+        margin-top: -48%;
+        margin-left: 90%;
+        display: none;
+    }
+    .kkll ul .li1{
+        list-style: none;
+        display: none;
+        gap: 220px;
+        align-items: center;
+        justify-content: space-between;
+    }
+    .kkll ul .li2{
+        list-style: none;
+        display: none;
+        gap: 300px;
+        align-items: center;
+        justify-content: space-between;
+    }
+    .kkll ul .li3{
+        list-style: none;
+        display: none;
+        gap: 215px;
+        align-items: center;
+        justify-content: space-between;
+    }
+    .kkll ul .li4{
+        list-style: none;
+        display: none;
+        gap: 225px;
+        align-items: center;
+        justify-content: space-between;
+    }
+    .kkll ul li span {
+        display: none;
+        gap: 5px;
+        flex-direction: row;
+    }
+    .kkll ul li span a{
+        font-size: 12px;
+        color: rgb(14, 13, 13);
+        line-height: 2.1;
+        font-weight: 800;
+        display: none;
+        width: max-content;
+        letter-spacing: normal;
+        -webkit-font-smoothing: antialiased;
+        font-family: "Gotham SSm A", "Gotham SSm B", Helvetica, Arial, sans-serif;
+        text-indent: 0px;
+        text-transform: none;
+        font-style: normal;
+        white-space: normal;
+        text-shadow: inherit;
+        display: inline;
+        opacity: 1;
+        box-sizing: border-box;
+        transition: none 0s ease 0s;
+        visibility: visible;
+    }
+    .kkll ul p{
+        font-size: 16px;
+        margin-top: 0px;
+        margin-bottom: 0px;
+        padding-top: 0px;
+        margin-left: 0%;
+        display: none;
+        padding-bottom: 0px;
+        color: rgb(32, 32, 32);
+        line-height: 1.75;
+        font-weight: 300;
+        letter-spacing: normal;
+        -webkit-font-smoothing: antialiased;
+        font-family: "Gotham SSm A", "Gotham SSm B", Helvetica, Arial, sans-serif;
+        text-indent: 0px;
+        text-transform: none;
+        font-style: normal;
+    }
+    .ko{
+        background-color: black;
+        width: 450px;
+        height: 1px;
+        display: none;
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+    .ck{
+        display: none;
+        align-items: center;
+        opacity: 60%;
+       width: 75px;
+       border-radius: 40px;
+       height: 35px;
+       background-color: rgb(23, 109, 182); 
+    }
+    .ck p{
+        font-size: 16px;
+        font-weight: 700;
+        padding-left: 7px;
+        display: none;
+        width: max-content;
+        color: white;
+        font-family: "Gotham SSm A", "Gotham SSm B", Helvetica, Arial, sans-serif;
+    }
+    .kkk{
+        background-color: white;
+        width: 20px;
+        height: 20px;
+        border-radius: 10px;
+        display: none;
+        margin-left: 10px;
+    }
+    .ld p{
+        font-size: 20px;
+        font-weight: 500;
+        display: none;
+        font-family: "Gotham SSm A", "Gotham SSm B", Helvetica, Arial, sans-serif;
+    }
+    .dl{
+        display: none;
+        align-items: center;
+        padding-left: 10%;
+        padding-bottom: 2%;
+        padding-top: 6%;
+        gap: 30px;
+    }
+    .late{
+        display: none;
+    }
+    .jk{
+        font-size: 14px;
+        font-weight: 500;
+        font-family: "Gotham SSm A", "Gotham SSm B", Helvetica, Arial, sans-serif;
+        padding-left: 10%;
+        display: none;
+    }
+    .kjk{
+        margin-top: 10px;
+    }
+    .kj{
+        color: rgb(23, 109, 182);
+        width: max-content;
+        font-size: 16px;
+        font-weight: 500;
+        display: none;
+        font-family: "Gotham SSm A", "Gotham SSm B", Helvetica, Arial, sans-serif;
+        padding-left: 10%;
+    }
+    .olj{
+        margin-left: 116%;
+        margin-top: -15%;
+        display: none;
+        margin-bottom: 25%;
+    }
+    .jkl{
+        background-color: rgb(23, 109, 182);
+        width: 280px;
+        height: 45px;
+        display: none;
+        align-items: center;
+        color: white;
+        font-size: 16px;
+        font-weight: 500;
+        font-family: "Gotham SSm A", "Gotham SSm B", Helvetica, Arial, sans-serif;
+        justify-content: center;
+    }
+    .jkl:hover{
+        opacity: 70%;
+    }
+    .yul{
+        display: none;
+        flex-direction: row;
+        margin-top: 15%;
+        margin-left: -7%;
+    }
+    .ftyo{
+        padding-left: 16%;
+    }
+    .ftyo h1{
+        font-size: 32px;
+        display: none;
+        font-weight: normal;
+        width: max-content;
+        font-family:  mrs-eaves-xl-serif-narrow, serif;
+    }
+    .ftyo p{
+        font-size: 12px;
+        margin-bottom: 2em;
+        margin-top: 1em;
+        display: none;
+        cursor: pointer;
+        border: 0px none;
+        color: rgb(23, 109, 182);
+        background-color: transparent;
+        font-weight: 500;
+        letter-spacing: 0.15em;
+        -webkit-font-smoothing: antialiased;
+        font-family: "Gotham SSm A", "Gotham SSm B", Helvetica, Arial, sans-serif;
+        text-transform: uppercase;
+        font-style: normal;
+        white-space: normal;
+        opacity: 1;
+        box-sizing: border-box;
+        text-decoration: none;
+    }
+    .ftyo p:hover{
+        color: black;
+    }
+    .kloo{
+        background-color: black;
+        width: 70%;
+        height: 1px;
+        display: none;
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+    .ftyo .klopo{
+        list-style: none;
+        display: none;
+        align-items: center;
+        justify-content: space-between;
+    }
+    .ftyo .klopo li{
+        font-size: 12px;
+        color: rgb(14, 13, 13);
+        line-height: 2.1;
+        font-weight: 800;
+        display: none;
+        width: max-content;
+        letter-spacing: normal;
+        -webkit-font-smoothing: antialiased;
+        font-family: "Gotham SSm A", "Gotham SSm B", Helvetica, Arial, sans-serif;
+        text-indent: 0px;
+        text-transform: none;
+        font-style: normal;
+        white-space: normal;
+        text-shadow: inherit;
+        display: inline;
+        opacity: 1;
+        box-sizing: border-box;
+        transition: none 0s ease 0s;
+        visibility: visible;
+    }
+    .ftyo .klopo p{
+        font-size: 16px;
+        margin-top: 0px;
+        margin-bottom: 0px;
+        display: none;
+        padding-top: 0px;
+        padding-bottom: 0px;
+        color: rgb(32, 32, 32);
+        line-height: 1.75;
+        font-weight: 300;
+        padding-right: 30%;
+        letter-spacing: normal;
+        -webkit-font-smoothing: antialiased;
+        font-family: "Gotham SSm A", "Gotham SSm B", Helvetica, Arial, sans-serif;
+        text-indent: 0px;
+        text-transform: none;
+        font-style: normal;
+    }
+    .kkllp{
+        margin-top: -47.8%;
+        margin-left: 90%;
+        display: none;
+    }
+    .kkllp ul .li1{
+        list-style: none;
+        display: flex;
+        gap: 220px;
+        align-items: center;
+        justify-content: space-between;
+    }
+    .kkllp ul .li2{
+        list-style: none;
+        display: none;
+        gap: 300px;
+        align-items: center;
+        justify-content: space-between;
+    }
+    .kkllp ul .li3{
+        list-style: none;
+        display: none;
+        gap: 215px;
+        align-items: center;
+        justify-content: space-between;
+    }
+    .kkllp ul .li4{
+        list-style: none;
+        display: none;
+        gap: 225px;
+        align-items: center;
+        justify-content: space-between;
+    }
+    .kkllp ul li span {
+        display: none;
+        gap: 5px;
+        flex-direction: row;
+    }
+    .kkllp ul li span a{
+        font-size: 12px;
+        color: rgb(14, 13, 13);
+        line-height: 2.1;
+        font-weight: 800;
+        display: none;
+        width: max-content;
+        letter-spacing: normal;
+        -webkit-font-smoothing: antialiased;
+        font-family: "Gotham SSm A", "Gotham SSm B", Helvetica, Arial, sans-serif;
+        text-indent: 0px;
+        text-transform: none;
+        font-style: normal;
+        white-space: normal;
+        text-shadow: inherit;
+        display: inline;
+        opacity: 1;
+        box-sizing: border-box;
+        transition: none 0s ease 0s;
+        visibility: visible;
+    }
+    .kkllp ul p{
+        font-size: 16px;
+        margin-top: 0px;
+        margin-bottom: 0px;
+        padding-top: 0px;
+        display: none;
+        padding-bottom: 0px;
+        color: rgb(32, 32, 32);
+        line-height: 1.75;
+        font-weight: 300;
+        letter-spacing: normal;
+        -webkit-font-smoothing: antialiased;
+        font-family: "Gotham SSm A", "Gotham SSm B", Helvetica, Arial, sans-serif;
+        text-indent: 0px;
+        text-transform: none;
+        font-style: normal;
+    }
+    .kol{
+        background-color: black;
+        display: none;
+        width: 450px;
+        height: 1px;
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+    .lkp{
+        display: none;
+        flex-direction: row;
+        padding-left: 35px;
+        width: 85%;
+        justify-content: space-between;
+        align-items: center;
+        gap: 70px;
+        margin-bottom: 10%;
+        padding-top: 1%;
+    }
+    .lkp p{
+        font-size: 24px;
+        font-weight: 500;
+        cursor: pointer;
+        width: max-content;
+        display: none;
+        font-family: "Gotham SSm A", "Gotham SSm B", Helvetica, Arial, sans-serif;
+    }
+    .yut{
+        margin-left: -35px;
+        display: none;
+    }
+    .jet{
+        display: none;
+        gap: 145px;
+        padding-right: 65px;
+    }
+    .hhp{
+        display: none;
+        flex-direction: column;
+        gap: 10%;
+    }
+    .lop{
+        display: none;
+        flex-direction: column;
+        gap: 30%;
+    }
+    .hhp li{
+        list-style: none;
+        display: none;
+        font-size: 14px;
+        font-weight: 200;
+        font-family: "Gotham SSm A", "Gotham SSm B", Helvetica, Arial, sans-serif;
+        display: flex;
+        flex-direction: column;
+    }
+    .hhp p{
+        list-style: none;
+        font-size: 15px;
+        display: none;
+        font-weight: 700;
+        font-family: "Gotham SSm A", "Gotham SSm B", Helvetica, Arial, sans-serif;
+        display: flex;
+        flex-direction: column;
+    }
+    .lop li{
+        list-style: none;
+        font-size: 14px;
+        font-weight: 200;
+        display: none;
+        font-family: "Gotham SSm A", "Gotham SSm B", Helvetica, Arial, sans-serif;
+        display: flex;
+        flex-direction: column;
+    }
+    .lop p{
+        list-style: none;
+        display: none;
+        font-size: 15px;
+        font-weight: 700;
+        font-family: "Gotham SSm A", "Gotham SSm B", Helvetica, Arial, sans-serif;
+        display: flex;
+        flex-direction: column;
+    }
+    .htp{
+        width: 50px;
+        height: 50px;
+        background-color: transparent;
+        border: 1px solid rgb(167, 169, 172);
+        border-radius: 25px;
+        display: none;
+        margin-left: -13px;
+        justify-content: centrer;
+        align-items: center;
+    }
+    .htp p{
+        font-size: 16px;
+        font-weight: 500;
+        font-family: "Gotham SSm A", "Gotham SSm B", Helvetica, Arial, sans-serif;
+        text-align: center;
+        display: none;
+        padding-left: 4px;
+    }
+    .typ{
+        display: none;
+        align-items: center;
+        padding-left: 60px;
+    }
+    .typ p{
+        font-size: 17px;
+        font-weight: 500;
+        margin-left: 10px;
+        display: none;
+        width: max-content;
+        font-family: "Gotham SSm A", "Gotham SSm B", Helvetica, Arial, sans-serif;
+    }
+    .pklp{
+        background-color: black;
+        width: 116%;
+        height: 1px;
+        display: none;
+        margin-top: 10px;
+        margin-bottom: 5%;
+    }
+    .plp{
+        background-color: rgb(23, 109, 182);
+        width: 85%;
+        height: 3px;
+        display: none;
+        margin-top: 6%;
+    }
+    .dy{
+        font-size: 18px;
+        font-weight: 500;
+        width: max-content;
+        display: none;
+        line-height: 26px;
+        padding-top: 5%;
+        font-family: "Gotham SSm A", "Gotham SSm B", Helvetica, Arial, sans-serif;
+    }
+    .jkp{
+        background-color: rgb(23, 109, 182);
+        width: 280px;
+        height: 45px;
+        display: none;
+        align-items: center;
+        margin-top: 5%;
+        margin-right: 59%;
+        color: white;
+        font-size: 14px;
+        font-weight: 500;
+        margin-bottom: 20%;
+        font-family: "Gotham SSm A", "Gotham SSm B", Helvetica, Arial, sans-serif;
+        justify-content: center;
+    }
+    .jkp:hover{
+        opacity: 70%;
+    }
+    .kh{
+        position: fixed;
+        top: 90%;
+        left: 40%;
+        background-color: rgb(21, 114, 196);
+        width: 140px;
+        height: 45px;
+        border-radius: 60px;
+        display: none;
+        align-items: center;
+        color: white;
+        font-size: 14px;
+        font-weight: 500;
+        font-family: "Gotham SSm A", "Gotham SSm B", Helvetica, Arial, sans-serif;
+        justify-content: center;
+    }
+    
+    .div-m{
+        display: flex;
+        flex-direction: column;
+        color: white;
+        margin-left: 10%;
+        margin-top: 10%;
+    }
+    .div-m p{
+        font-size: 14px;
+        font-weight: 500;
+        font-family: "Gotham SSm A", "Gotham SSm B", Helvetica, Arial, sans-serif;
+    }
+    .div-m ul{
+        font-family: "Gotham SSm A", "Gotham SSm B", Helvetica, Arial, sans-serif;
+        font-size: 12px;
+        font-weight: 500;
+        display: flex;
+        flex-direction: column;
+        height: 20%;
+        list-style: none;
+    }
+    .div-m ul li{
+        margin-top: 15px;
+        margin-bottom: -5px;
+    }
+    .div-mi{
+        display: flex;
+        flex-direction: column;
+        color: white;
+        margin-left: 55%;
+        margin-top: -35%;
+    }
+    .div-mi p{
+        font-size: 14px;
+        font-weight: 500;
+        font-family: "Gotham SSm A", "Gotham SSm B", Helvetica, Arial, sans-serif;
+    }
+    .div-mi ul{
+        font-family: "Gotham SSm A", "Gotham SSm B", Helvetica, Arial, sans-serif;
+        font-size: 12px;
+        font-weight: 500;
+        display: flex;
+        flex-direction: column;
+        height: 20%;
+        list-style: none;
+    }
+    .div-mi ul li{
+        margin-top: 15px;
+        margin-bottom: -5px;
+    }
+    .div-mi2{
+        display: flex;
+        flex-direction: column;
+        color: white;
+        margin-left: 10%;
+        margin-top: 15%;
+    }
+    .div-mi2 p{
+        font-size: 14px;
+        font-weight: 500;
+        font-family: "Gotham SSm A", "Gotham SSm B", Helvetica, Arial, sans-serif;
+    }
+    .div-mi2 ul{
+        font-family: "Gotham SSm A", "Gotham SSm B", Helvetica, Arial, sans-serif;
+        font-size: 12px;
+        font-weight: 500;
+        display: flex;
+        flex-direction: column;
+        height: 20%;
+        list-style: none;
+    }
+    .div-mi2 ul li{
+        margin-top: 15px;
+        margin-bottom: -5px;
+    }
+    .div-mi3{
+        display: flex;
+        flex-direction: column;
+        color: white;
+        margin-left: 55%;
+        margin-top: -64%;
+    }
+    .div-mi3 p{
+        font-size: 14px;
+        font-weight: 500;
+        font-family: "Gotham SSm A", "Gotham SSm B", Helvetica, Arial, sans-serif;
+    }
+    .div-mi3 ul{
+        font-family: "Gotham SSm A", "Gotham SSm B", Helvetica, Arial, sans-serif;
+        font-size: 12px;
+        font-weight: 500;
+        display: flex;
+        flex-direction: column;
+        height: 20%;
+        list-style: none;
+    }
+    .div-mi3 ul li{
+        margin-top: 15px;
+        margin-bottom: -5px;
+    }
+    .the{
+        display: flex;
+        flex-direction: row;
+        width: 20%;
+        margin-top: 25%;
+        margin-left: 5%;
+        margin-bottom: -20%;
+    }
+    .the img{
+        width: 25px;
+        height: 25px;
+    }
+    #evil{
+        display: none;
+        flex-direction: column;
+        margin-right: 35.5%;
+        margin-top: 5%;
+    }
+    #deads{
+        display: none;
+    }
+    #deadis{
+        display: none;
+    }
+    #span{
+        display: none;
+        flex-direction: column;
+        margin-top: -10%;
+        margin-bottom: 0%;
+        margin-right: 11%;
+    }
+    .option{
+        position: absolute;
+        display: none;
+        flex-direction: column;
+        background-color: white;
+        width: 190px;
+        font-weight: 500;
+        justify-content: center;
+        margin-top: -1170px;
+        border: 1px solid rgb(23, 109, 182);
+        font-size: 12px;
+        margin-right: 6px;
+        font-family: "Gotham SSm A", "Gotham SSm B", Helvetica, Arial, sans-serif;
+        height: 265px;
+        color: rgb(23, 109, 182);
+    }
+    .option div{
+        margin-top: 5%;
+    }
+    .option div p{
+        margin-top: 25px;
+        margin-left: 20px;
+    }
+    .helo-world{
+        display: flex;
+        max-width: 100%;
+        flex-direction: column;
+        margin-bottom: 5%;
+        margin-left: -20%;
+    }
+    .helo-world .lau{
+        width: 145%;
+        height: 1%;
+        margin-bottom: -10%;
+        border-top: 3px solid rgb(23, 109, 182);
+    }
+    .helo-world span{
+        display: flex;
+        margin-top: 10%;
+    }
+    .helo-world span ul li{
+        list-style: none;
+        padding-top: 20%;
+        font-size: 12px;
+        font-weight: 200;
+        font-family: "Gotham SSm A", "Gotham SSm B", Helvetica, Arial, sans-serif;
+    }
+    .helo-world span div {
+        margin-right: 20%;
+        margin-top: 25%;
+    }
+    .helo-world span ul{
+        height: 20%;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+    }
+    .helo-world span p{
+        font-size: 20px;
+        font-weight: 300;
+        cursor: pointer;
+        width: max-content;
+        font-family: "Gotham SSm A", "Gotham SSm B", Helvetica, Arial, sans-s;
+    }
+    .lop2 p1{
+        font-size: 14px;
+        font-weight: 400;
+    }
+    #laughter{
+        display: none;
+    }
+    .iop{
+        display: flex;
+        flex-direction: column;
+        max-width: 100%;
+        margin-bottom: 20%;
+        margin-right: 10%;
+    }
+    .plet{
+        width: 115%;
+        height: 0.5px;
+        background-color: black;
+        margin-bottom: 20px;
+    }
+    .iop p{
+        font-size: 20px;
+        font-weight: 500;
+        padding-left: 10px;
+        width: max-content;
+        font-family: serif;
+        margin-bottom: 5px;
+    }
+    .iop a{
+        font-size: 12px;
+        font-weight: 700;
+        padding-left: 10px;
+        cursor: pointer;
+        color: rgb(23, 109, 182);
+        width: max-content;
+        font-family: "Gotham SSm A", "Gotham SSm B", Helvetica, Arial, sans-s;
+    }
+    #author{
+        display: inline;
+        margin-right: 15px;
+    }
+    .secto{
+        display: flex;
+        flex-direction: column;
+        margin-bottom: 30%;
+    }
+    .secto p{
+        font-size: 18px;
+        font-weight: 500;
+        cursor: pointer;
+        width: max-content;
+        font-family: "Gotham SSm A", "Gotham SSm B", Helvetica, Arial, sans-s;
+    }
+    .secto div{
+        width: 110%;
+        height: 0.5px;
+        background-color: rgb(170, 169, 169);
+        margin-bottom: 5px;
+    }
+    .secto a{
+        font-size: 10px;
+        font-weight: 700;
+        cursor: pointer;
+        width: max-content;
+        font-family: "Gotham SSm A", "Gotham SSm B", Helvetica, Arial, sans-s;
+    }
+}
+@media screen and (max-width: 750px){
+    .div5 {
+        margin-left: 0% !important;
+    }
+}
