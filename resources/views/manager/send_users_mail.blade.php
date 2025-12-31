@@ -22,7 +22,7 @@
 
         <div>
             <label style="font-weight: bold;">Recipient Email</label>
-            <input type="email" name="to" value="{{$user->email}}" required 
+            <input type="email" name="to" value="{{ old('to') }}" required 
                 style="width: 100%; padding: 10px; border: 1px solid #ccc; border-radius: 5px;">
             @error('to')
                 <small style="color:red;">{{ $message }}</small>

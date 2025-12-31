@@ -63,7 +63,7 @@
           </li>
 
           <li>
-            <a href="{{url('send-mail')}}">
+            <a href="{{route('send.email')}}">
               <i class="bi bi-code-square"></i>
               <span class="menu-text">Send Email</span>
             </a>

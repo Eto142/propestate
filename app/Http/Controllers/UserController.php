@@ -66,7 +66,32 @@ class UserController extends Controller
 
             } else {
                 $result    = DB::table('users')->where('usertype', '0')->get();
-                return view('manager.home', compact('result'));
+                
+                 $result    = DB::table('users')->where('usertype', '0')->get();
+                 $totalUsers = $result->count();
+
+    // User IDs
+    $userIds = $result->pluck('id');
+
+    // Total deposits (ALL users)
+    $totalDeposits = DB::table('deposits')
+        ->whereIn('user_id', $userIds)
+        ->sum('amount');
+
+    // Total withdrawals (ALL users)
+    $totalWithdrawals = DB::table('withdrawals')
+        ->whereIn('user_id', $userIds)
+        ->sum('amount');
+
+    return view('manager.home', compact(
+        'result',
+        'totalUsers',
+        'totalDeposits',
+        'totalWithdrawals'
+    ));
+
+
+                
             }
         } else {
             return redirect()->back();
@@ -107,7 +132,28 @@ class UserController extends Controller
                 
             } else {
                 $result    = DB::table('users')->where('usertype', '0')->get();
-                return view('manager.home', compact('result'));
+                 $totalUsers = $result->count();
+
+    // User IDs
+    $userIds = $result->pluck('id');
+
+    // Total deposits (ALL users)
+    $totalDeposits = DB::table('deposits')
+        ->whereIn('user_id', $userIds)
+        ->sum('amount');
+
+    // Total withdrawals (ALL users)
+    $totalWithdrawals = DB::table('withdrawals')
+        ->whereIn('user_id', $userIds)
+        ->sum('amount');
+
+    return view('manager.home', compact(
+        'result',
+        'totalUsers',
+        'totalDeposits',
+        'totalWithdrawals'
+    ));
+
             }
         } else {
             return redirect()->back();

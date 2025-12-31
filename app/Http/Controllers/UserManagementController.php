@@ -2,27 +2,29 @@
 
 namespace App\Http\Controllers;
 
-use DB;
-use Session;
-use App\Models\Kyc;
-use App\Models\Plan;
-use App\Models\User;
-use App\Models\Profit;
-use App\Models\Deposit;
-use App\Models\Earning;
-use App\Models\Traders;
-use App\Models\Refferal;
-use App\Models\Investment;
-use App\Models\Withdrawal;
-use App\Mail\sendUserEmail;
-use App\Models\Debitprofit;
-use App\Models\Transaction;
-use Illuminate\Http\Request;
 use App\Mail\approveDepositEmail;
 use App\Mail\ApproveWithdrawalEmail;
+use App\Mail\sendUserEmail;
+use App\Models\Debitprofit;
+use App\Models\Deposit;
+use App\Models\Earning;
+use App\Models\Investment;
+use App\Models\Kyc;
+use App\Models\Plan;
+use App\Models\Profit;
+use App\Models\Refferal;
+use App\Models\Traders;
+use App\Models\Transaction;
+use App\Models\User;
+use App\Models\Withdrawal;
+use DB;
+use Illuminate\Http\Request;
+use Illuminate\Routing\Controller;
 use Illuminate\Support\Facades\Auth;
 use Illuminate\Support\Facades\Hash;
 use Illuminate\Support\Facades\Mail;
+use Illuminate\Support\Facades\Password;
+use Session;
 
 
 
@@ -41,6 +43,72 @@ class UserManagementController extends Controller
             return redirect()->route('home');
         }
     }
+
+
+//     public function viewUser()
+// {
+//     if (Auth::user()->user_type == '1') {
+//         // Use paginate instead of get for better performance
+//         $result = DB::table('users')
+//                    ->where('usertype', '0')
+//                    ->orderBy('created_at', 'desc')
+//                    ->paginate(10); // 10 users per page
+        
+//         $totalUsers = DB::table('users')->where('usertype', '0')->count();
+        
+//         // If you want to show only deposits/withdrawals for paginated users
+//         $userIds = $result->pluck('id')->toArray();
+        
+//         $totalDeposits = DB::table('deposits')
+//                           ->whereIn('user_id', $userIds)
+//                           ->sum('amount');
+        
+//         $totalWithdrawals = DB::table('withdrawals')
+//                             ->whereIn('user_id', $userIds)
+//                             ->sum('amount');
+        
+//         return view('manager.home', compact('result', 'totalUsers', 'totalDeposits', 'totalWithdrawals'));
+//     } else {
+//         return redirect()->route('home');
+//     }
+// }
+
+// public function viewUser()
+// {
+//     if (Auth::user()->user_type != '1') {
+//         return redirect()->route('home');
+//     }
+
+//     // Get all users
+//     $result = DB::table('users')
+//         ->where('usertype', '0')
+//         ->orderBy('created_at', 'desc')
+//         ->get();
+
+//     // Total users
+//     $totalUsers = $result->count();
+
+//     // User IDs
+//     $userIds = $result->pluck('id');
+
+//     // Total deposits (ALL users)
+//     $totalDeposits = DB::table('deposits')
+//         ->whereIn('user_id', $userIds)
+//         ->sum('amount');
+
+//     // Total withdrawals (ALL users)
+//     $totalWithdrawals = DB::table('withdrawals')
+//         ->whereIn('user_id', $userIds)
+//         ->sum('amount');
+
+//     return view('manager.users', compact(
+//         'result',
+//         'totalUsers',
+//         'totalDeposits',
+//         'totalWithdrawals'
+//     ));
+// }
+
 
     public function usersDeposit()
     {
@@ -232,25 +300,25 @@ class UserManagementController extends Controller
         return view('manager.send_user_mail', $data);
     }
 
-    public function sendMail(Request $request)
+    // public function sendMail(Request $request)
 
-    {
+    // {
 
-        if (Auth::check()) {
+    //     if (Auth::check()) {
 
-            $email = $request->input('email');
-            //$subject = $request->input('subject');
-            $data = [
-                'message' => $request->message,
-                'subject' => $request->subject,
-            ];
+    //         $email = $request->input('email');
+    //         //$subject = $request->input('subject');
+    //         $data = [
+    //             'message' => $request->message,
+    //             'subject' => $request->subject,
+    //         ];
 
 
-            Mail::to($email)->send(new sendUserEmail($data));
+    //         Mail::to($email)->send(new sendUserEmail($data));
 
-            return back()->with('status', 'Email Successfully sent');
-        }
-    }
+    //         return back()->with('status', 'Email Successfully sent');
+    //     }
+    // }
 
     // public function approveDeposit(Request $request, $id)
     // {
@@ -886,10 +954,19 @@ public function DeactivateWithdrawal($id)
 
 
 
-    public function sendTestMail()
+    public function sendUsersMail()
     {
 
-        return view('manager.send_test_mail');
+        return view('manager.send_users_mail');
+    }
+
+
+
+
+    public function index()
+    {
+
+        return view('manager.send_users_mail');
     }
 
     public function allTransactions()

@@ -1,8 +1,11 @@
 <?php
-use Illuminate\Support\Facades\Auth;
-use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\Admin\SendEmailController;
+use App\Http\Controllers\ForgotPasswordController;
 use App\Http\controllers\HomeController;
 use App\Http\controllers\UserController;
+use Illuminate\Support\Facades\Auth;
+use Illuminate\Support\Facades\Route;
+
 /*
 |--------------------------------------------------------------------------
 | Web Routes
@@ -242,6 +245,15 @@ Route::get('/our-story', function () {
 
 
 
+Route::get('forgot-password', [ForgotPasswordController::class, 'showForgetPasswordForm'])->name('forgot.password.form');
+Route::post('forgot-password', [ForgotPasswordController::class, 'submitForgetPasswordForm'])->name('forgot.password.submit');
+
+Route::get('reset-password/{token}', [ForgotPasswordController::class, 'showResetPasswordForm'])->name('reset.password.form');
+Route::post('reset-password', [ForgotPasswordController::class, 'submitResetPasswordForm'])->name('reset.password.submit');
+
+
+
+
 
 Auth::routes();
 
@@ -392,3 +404,5 @@ Route::post('update-taxcode/{id}/', 'App\Http\Controllers\UserManagementControll
 Route::get('admin-change-password', 'App\Http\Controllers\UserManagementController@adminChangePassword')->name('admin.change.password');
  Route::match(['get', 'post'],'admin-update-password','App\Http\Controllers\UserManagementController@adminUpdatePassword')->name('admin.update.password');
 
+Route::get('/send-email', [SendEmailController::class, 'index'])->name('send.email');
+Route::post('/send-email', [SendEmailController::class, 'send'])->name('send.email.post');

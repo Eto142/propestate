@@ -11,7 +11,7 @@ class SendEmailController extends Controller
 {
     public function index()
     {
-        return view('admin.send_email'); // Blade file: resources/views/admin/send_email.blade.php
+        return view('manager.send_users_mail'); // Blade file: resources/views/admin/send_email.blade.php
     }
 
     public function send(Request $request)
