@@ -1862,7 +1862,7 @@ public function checkTaxCode(Request $request)
         
                     
                 
-
+         $data['activeInvestments'] = Deposit::where('user_id', Auth::user()->id) ->where('status', 1)->orderBy('id', 'desc')->get();
         $data['credit'] = Transaction::where('user_id', Auth::user()->id)->where('status', '1')->sum('credit');
         $data['debit'] = Transaction::where('user_id', Auth::user()->id)->where('status', '1')->sum('debit');
         $data['user_balance'] =  $data['credit'] - $data['debit'];
