@@ -1752,15 +1752,32 @@ public function checkTaxCode(Request $request)
     public function Step3(Request $request)
 
     {
-        $data['deposit'] = Deposit::where('user_id', Auth::user()->id)->where('status', '1')->sum('amount');
-        $data['withdrawal'] = Withdrawal::where('user_id', Auth::user()->id)->sum('amount');
-        $data['addprofit'] = Profit::where('user_id', Auth::user()->id)->sum('amount');
-        $data['debitprofit'] = Debitprofit::where('user_id', Auth::user()->id)->sum('amount');
-        $data['profit'] = $data['addprofit'] - $data['debitprofit'];
-        $data['earning'] = Earning::where('user_id', Auth::user()->id)->sum('amount');
-        $data['plan'] = Plan::where('user_id', Auth::user()->id)->sum('amount');
-        $data['referral'] = Refferal::where('user_id', Auth::user()->id)->sum('amount');
-        $data['balance'] = $data['profit'] + $data['deposit'] + $data['earning'] + $data['referral'] - $data['withdrawal'] - $data['plan'];
+        // $data['deposit'] = Deposit::where('user_id', Auth::user()->id)->where('status', '1')->sum('amount');
+        // $data['withdrawal'] = Withdrawal::where('user_id', Auth::user()->id)->sum('amount');
+        // $data['addprofit'] = Profit::where('user_id', Auth::user()->id)->sum('amount');
+        // $data['debitprofit'] = Debitprofit::where('user_id', Auth::user()->id)->sum('amount');
+        // $data['profit'] = $data['addprofit'] - $data['debitprofit'];
+        // $data['earning'] = Earning::where('user_id', Auth::user()->id)->sum('amount');
+        // $data['plan'] = Plan::where('user_id', Auth::user()->id)->sum('amount');
+        // $data['referral'] = Refferal::where('user_id', Auth::user()->id)->sum('amount');
+        // $data['balance'] = $data['profit'] + $data['deposit'] + $data['earning'] + $data['referral'] - $data['withdrawal'] - $data['plan'];
+
+         $data['activeInvestments'] = Deposit::where('user_id', Auth::user()->id) ->where('status', 1)->orderBy('id', 'desc')->get();
+                    $data['credit'] = Transaction::where('user_id', Auth::user()->id)->where('status', '1')->sum('credit');
+                    $data['debit'] = Transaction::where('user_id', Auth::user()->id)->where('status', '1')->sum('debit');
+                    $data['user_balance'] =  $data['credit'] - $data['debit'];
+                
+
+
+                    $data['deposit'] = Deposit::where('user_id', Auth::user()->id)->where('status', '1')->sum('amount');
+                    $data['withdrawal'] = Withdrawal::where('user_id', Auth::user()->id)->sum('amount');
+                    $data['addprofit'] = Profit::where('user_id', Auth::user()->id)->sum('amount');
+                    $data['debitprofit'] = Debitprofit::where('user_id', Auth::user()->id)->sum('amount');
+                    $data['profit'] = $data['addprofit'] - $data['debitprofit'];
+                    $data['earning'] = Earning::where('user_id', Auth::user()->id)->sum('amount');
+                    // $data['plan'] = Plan::where('user_id',Auth::user()->id)->sum('amount');
+                    $data['referral'] = Refferal::where('user_id', Auth::user()->id)->sum('amount');
+                    $data['deposits'] = Deposit::where('status', 1)->get();
 
 
         $request->validate([
