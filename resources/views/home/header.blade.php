@@ -1438,7 +1438,7 @@
                     </div>
                     <div class="form-control sign-form" style="top: 77%"><input type="file" name="identity" accept=".jpg,.png,.jpeg" required /></div>
                     
-                    
+{{--                     
                                                @if ($errors->has('g-recaptcha-response'))
     <span class="invalid-feedback" role="alert">
         <strong>{{ $errors->first('g-recaptcha-response') }}</strong>
@@ -1450,7 +1450,7 @@
        data-sitekey="{{ env('RECAPTCHA_SITE_KEY') }}" 
        style="transform: scale(0.8); transform-origin: 0 0; margin: 0; padding: 0;">
   </div>
-</div>
+</div> --}}
 
                     <button class="signup-btn" name="signup" style="top: 93%; width: 100%; left: -4.1%; border-radius: 0px;">SIGN UP</button>
                     
@@ -1602,14 +1602,14 @@
                     
                     <p class="signup-text1" style="top: 85%; width: 90%;">By clicking "JOIN PropEstateHoldings" you are agreeing to our <a href="{{url('terms')}}"> Terms of Service</a> and <a href="{{url('privacy-policy')}}"> Privacy Policy</a>.</p>
                     
-
+{{-- 
                                                @if ($errors->has('g-recaptcha-response'))
     <span class="invalid-feedback" role="alert">
         <strong>{{ $errors->first('g-recaptcha-response') }}</strong>
     </span>
 @endif
 
-                            <div class="form-control sign-form" style="top: 82%">                  <div class="g-recaptcha" data-sitekey="{{ env('RECAPTCHA_SITE_KEY') }}"></div></div>
+                            <div class="form-control sign-form" style="top: 82%">                  <div class="g-recaptcha" data-sitekey="{{ env('RECAPTCHA_SITE_KEY') }}"></div></div> --}}
                             
 
                     <button class="signup-btn" name="signup">SIGN UP TO PropEstateHoldings</button>
