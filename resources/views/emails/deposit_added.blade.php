@@ -104,7 +104,7 @@
 
                 <p>
                     <strong>Amount:</strong> ${{ number_format($amount, 2) }}<br>
-                    <strong>Payment Method:</strong> {{ $payment_method }}<br>
+                    {{-- <strong>Payment Method:</strong> {{ $payment_method }}<br> --}}
                     <strong>Transaction ID:</strong> {{ $transaction_id }}
                 </p>
 
