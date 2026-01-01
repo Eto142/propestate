@@ -49,7 +49,7 @@ body {
         
             <link data-cssvarsponyfill="true" class="Webpack-css" rel="stylesheet" href="../../realtymogul.brightspotgocdn.com/resource/00000184-315e-d691-a1be-7ffff7bd0000/styles/default/All.min.907be882b030fa416d21b20d17410bd1.gz.css">
             
-    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=5"><title>Leveraging Commercial Real Estate For Retirement</title><link rel="canonical" href="./retirement-investing.php"><meta name="brightspot.contentId" content="00000181-9107-ddff-a1d5-f7ff0de50001"><link rel="apple-touch-icon"sizes="180x180"href="../apple-touch-icon.png"><link rel="icon"type="image/png"href="../favicon-32x32.png"><link rel="icon"type="image/png"href="../favicon-16x16.png"><link type="application/rss+xml" rel="alternate" title="Leveraging Commercial Real Estate For Retirement" href="retirement-investing.rss">
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=5"><title>Leveraging Commercial Real Estate For Retirement</title><link rel="canonical" href="{{url('investment')}}"><meta name="brightspot.contentId" content="00000181-9107-ddff-a1d5-f7ff0de50001"><link rel="apple-touch-icon"sizes="180x180"href="../apple-touch-icon.png"><link rel="icon"type="image/png"href="../favicon-32x32.png"><link rel="icon"type="image/png"href="../favicon-16x16.png"><link type="application/rss+xml" rel="alternate" title="Leveraging Commercial Real Estate For Retirement" href="retirement-investing.rss">
 
     <!-- this will add webcomponent polyfills based on browsers. As of 04/29/21 still needed for IE11 and Safari -->
     <script src="../../realtymogul.brightspotgocdn.com/resource/00000184-315e-d691-a1be-7ffff7bd0000/webcomponents-loader/webcomponents-loader.2938a610ca02c611209b1a5ba2884385.gz.js"></script>
@@ -871,7 +871,7 @@ body {
             <a
               class="Button"
               data-size="default"
-              href="../investment-opportunities.php"
+              href="{{url('investment')}}"
               data-cms-ai="0"
               >VIEW INVESTMENTS</a
             >
@@ -1113,7 +1113,7 @@ body {
         <div class="PageList-cta" data-animate="fade">
           <a
             class="Button"
-            href="../investment-opportunities.php"
+            href="{{url('investment')}}"
             data-cms-ai="0"
             ><p>VIEW INVESTMENTS</p></a
           >
@@ -1138,7 +1138,7 @@ body {
           <a
             class="Link"
             aria-label="Investing in REITS for retirement "
-            href="../investment-opportunities.php"
+            href="{{url('investment')}}"
             data-cms-ai="0"
             ><picture>
               <source
@@ -1213,7 +1213,7 @@ body {
           <a
             class="Button"
             data-size="default"
-            href="../investment-opportunities.php"
+            href="{{url('investment')}}"
             data-cms-ai="0"
             >VIEW INVESTMENTS</a
           >
@@ -1315,7 +1315,7 @@ body {
             <div class="PageList-cta" data-animate="fade">
               <a
                 class="Button"
-                href="../investment-opportunities.php"
+                href="{{url('investment')}}"
                 data-cms-ai="0"
                 ><p>VIEW INVESTMENTS</p></a
               >
@@ -1342,7 +1342,7 @@ body {
 
                   <div class="PagePromo-ctaLink" data-animate="fade">
                     <a
-                      href="../investment-options/the-income-reit.php"
+                      href="{{url('investment')}}"
                       data-cms-ai="0"
                     >
                       LEARN MORE
@@ -1372,7 +1372,7 @@ body {
 
                   <div class="PagePromo-ctaLink" data-animate="fade">
                     <a
-                      href="../investment-options/the-apartment-growth-reit.php"
+                      href="{{url('investment')}}"
                       data-cms-ai="0"
                     >
                       LEARN MORE
@@ -1616,7 +1616,7 @@ body {
         <div class="PageList-cta" data-animate="fade">
           <a
             class="Button"
-            href="../investment-opportunities.php"
+            href="{{url('investment')}}"
             data-cms-ai="0"
             ><p>VIEW INVESTMENTS</p></a
           >
@@ -1651,7 +1651,7 @@ body {
                 <span class="LinkEnhancement"
                   ><a
                     class="Link"
-                    href="../investment-opportunity.php"
+                    href="{{url('investment')}}"
                     target="_blank"
                     rel="noopener"
                     data-cms-ai="0"
@@ -1662,7 +1662,7 @@ body {
                 <span class="LinkEnhancement"
                   ><a
                     class="Link"
-                    href="../investment-opportunity.php"
+                    href="{{url('investment')}}"
                     target="_blank"
                     rel="noopener"
                     data-cms-ai="0"
@@ -2237,9 +2237,9 @@ body {
 
           <div class="JoinForm-disclaimer">
             By clicking "JOIN REALTYMOGUL" you are agreeing to our
-            <a href="../terms-service.php" data-cms-ai="0">Terms of Service</a>
+            <a href="#" data-cms-ai="0">Terms of Service</a>
             and
-            <a href="../privacy-policy.php" data-cms-ai="0">Privacy Policy</a>.
+            <a href="#" data-cms-ai="0">Privacy Policy</a>.
           </div>
 
           <div class="JoinForm-buttons">

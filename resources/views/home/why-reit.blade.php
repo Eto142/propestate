@@ -1625,7 +1625,7 @@ body {
             <div class="PagePromoA-image">
                 
                     
-                        <a class="Link" aria-label="THE INCOME REIT" href="../investment-options/the-income-reit.html" data-cms-ai="0" ><picture>
+                        <a class="Link" aria-label="THE INCOME REIT" href="{{url('investment')}}" data-cms-ai="0" ><picture>
     
     
         
@@ -1757,7 +1757,7 @@ body {
     <div class="PagePromo-button"  data-animate="fade" >
         
         
-        <a class="Button"   data-size="small" href="../investment-options/the-income-reit.html" data-cms-ai="0">View Details</a>
+        <a class="Button"   data-size="small" href="{{url('investment')}}" data-cms-ai="0">View Details</a>
         
         
     </div>
@@ -2002,7 +2002,7 @@ body {
             
         
         
-        <a class="Button"   data-size="default" href="../investment-options/the-income-reit.html" data-cms-ai="0">View Investments</a>
+        <a class="Button"   data-size="default" href="{{url('investment')}}" data-cms-ai="0">View Investments</a>
         
         
     </div>
@@ -2043,7 +2043,7 @@ body {
             
         
         
-        <a class="Button"   data-size="default" href="../investment-options/the-income-reit.html" data-cms-ai="0">View Investments</a>
+        <a class="Button"   data-size="default" href="{{url('investment')}}" data-cms-ai="0">View Investments</a>
         
         
     </div>
@@ -2261,7 +2261,7 @@ body {
             
                 
     <div class="PageList-cta" data-animate="fade">
-        <a class="Button"  href="retirement-investing.html" data-cms-ai="0" ><p>{{url('retirement')}} More</p></a>
+        <a class="Button"  href="{{url('investment')}}" data-cms-ai="0" ><p> More</p></a>
     </div>
 
 
@@ -2311,7 +2311,7 @@ body {
         
     
         <div class="PagePromo-ctaLink" data-animate="fade">
-            <a href="retirement-investing.html" data-cms-ai="0">
+            <a href="{{url('investment')}}" data-cms-ai="0">
                 {{url('retirement')}} More
                 <svg class="ctaArrow">
                     <use xlink:href="#chevron-down"></use>
@@ -2417,7 +2417,7 @@ body {
     
     
         
-    <div class="PagePromo-media"><a class="Link" aria-label="Traded vs. Non-Traded REITS" href="article/traded-vs-non-traded-reits.html" data-cms-ai="0" ><picture>
+    <div class="PagePromo-media"><a class="Link" aria-label="Traded vs. Non-Traded REITS" href="{{url('investment')}}" data-cms-ai="0" ><picture>
     
     
         
@@ -2483,7 +2483,7 @@ body {
         
     
         <div class="PagePromo-ctaLink" data-animate="fade">
-            <!--<a href="article/traded-vs-non-traded-reits.html" data-cms-ai="0">-->
+            <!--<a href="{{url('investment')}}" data-cms-ai="0">-->
             <!--    Read more-->
             <!--    <svg class="ctaArrow">-->
             <!--        <use xlink:href="#chevron-down"></use>-->
@@ -2517,7 +2517,7 @@ body {
     
     
         
-    <div class="PagePromo-media"><a class="Link" aria-label="Fundamental Differences Between Equity REITs and Debt REITs" href="article/fundamental-differences-between-equity-reits-and-debt-reits.html" data-cms-ai="0" ><picture>
+    <div class="PagePromo-media"><a class="Link" aria-label="Fundamental Differences Between Equity REITs and Debt REITs" href="{{url('investment')}}" data-cms-ai="0" ><picture>
     
     
         
@@ -2583,7 +2583,7 @@ body {
         
     
         <div class="PagePromo-ctaLink" data-animate="fade">
-            <!--<a href="article/fundamental-differences-between-equity-reits-and-debt-reits.html" data-cms-ai="0">-->
+            <!--<a href="{{url('investment')}}" data-cms-ai="0">-->
             <!--    Read more-->
             <!--    <svg class="ctaArrow">-->
             <!--        <use xlink:href="#chevron-down"></use>-->
@@ -2617,7 +2617,7 @@ body {
     
     
         
-    <div class="PagePromo-media"><a class="Link" aria-label="How to Invest in a REIT using a Self-Directed IRA" href="article/how-invest-equinoxreit-using-self-directed-ira.html" data-cms-ai="0" ><picture>
+    <div class="PagePromo-media"><a class="Link" aria-label="How to Invest in a REIT using a Self-Directed IRA" href="{{url('investment')}}" data-cms-ai="0" ><picture>
     
     
         
@@ -2682,7 +2682,7 @@ body {
         
     
         <div class="PagePromo-ctaLink" data-animate="fade">
-            <!--<a href="article/how-invest-equinoxreit-using-self-directed-ira.html" data-cms-ai="0">-->
+            <!--<a href="{{url('investment')}}" data-cms-ai="0">-->
             <!--    Read more-->
             <!--    <svg class="ctaArrow">-->
             <!--        <use xlink:href="#chevron-down"></use>-->

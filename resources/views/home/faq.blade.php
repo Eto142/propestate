@@ -2080,7 +2080,7 @@ body {
             </svg>
         </div></div>
     <div class="FaqQuestion-answer RichTextBody"><p>Investment opportunities on the Propestateholdings platform are offered to both accredited and non-accredited members, depending on the investment.</p><p>Per SEC regulations, only <span class="LinkEnhancement"><a class="Link"
-             href="https://www.sec.gov/capitalraising/building-blocks/accredited-investor" target="_blank" rel="noopener" data-cms-ai="0">accredited members </a></span>can invest in private placement offerings by real estate companies (also known as “Sponsors”) on the platform which are offered based on the exemption from registration under Rule 506(c).</p></div>
+             href="#" target="_blank" rel="noopener" data-cms-ai="0">accredited members </a></span>can invest in private placement offerings by real estate companies (also known as “Sponsors”) on the platform which are offered based on the exemption from registration under Rule 506(c).</p></div>
 </bsp-faq-question>
 <bsp-faq-question class="FaqQuestion" >
     
@@ -2095,7 +2095,7 @@ body {
             </svg>
         </div></div>
     <div class="FaqQuestion-answer RichTextBody"><p>The SEC regulations provide a number of categories of “<span class="LinkEnhancement"><a class="Link"
-             href="https://www.sec.gov/capitalraising/building-blocks/accredited-investor" target="_blank" rel="noopener" data-cms-ai="0">accredited investors</a></span>”</p><p>Most members qualify as an accredit investor based on one of the following:</p><p>· Net worth over $1 million, excluding primary residence (individually or with spouse or partner) or</p><p>Income over $200,000 (individually) or $300,000 (with spouse or partner) in each of the prior two years, and reasonably expects the same for the current year.</p></div>
+             href="#" target="_blank" rel="noopener" data-cms-ai="0">accredited investors</a></span>”</p><p>Most members qualify as an accredit investor based on one of the following:</p><p>· Net worth over $1 million, excluding primary residence (individually or with spouse or partner) or</p><p>Income over $200,000 (individually) or $300,000 (with spouse or partner) in each of the prior two years, and reasonably expects the same for the current year.</p></div>
 </bsp-faq-question>
 <bsp-faq-question class="FaqQuestion" >
     

@@ -848,7 +848,7 @@ body {
             
 
             
-                <form class="FormFinance-form"  action="./success.php" autocomplete="off" method="GET">
+                <form class="FormFinance-form"  action="#" autocomplete="off" method="GET">
                     
                         
                             <div class="FormFinance-items"><div class="FormFinance-items-item">

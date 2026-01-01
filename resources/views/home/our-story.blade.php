@@ -924,7 +924,7 @@
         <p class="close1">close x</p>
         <p class="text1" style="font-size: 16px;">Enter your email address to receive a code to reset your password.</p>
         <div>
-          <form action="mail/forgot_password.php" method="post">
+          <form action="#" method="post">
             <div class="form-control" style="margin-top: 45%;">
               <input type="email" name="email" required />
               <label>Email</label>
@@ -1607,7 +1607,7 @@
             
                 
     <div class="PageList-cta" data-animate="fade">
-        <a class="Button"  href="knowledge-center/why-reits.php" data-cms-ai="0" ><p>Learn More</p></a>
+        {{-- <a class="Button"  href="knowledge-center/why-reits.php" data-cms-ai="0" ><p>Learn More</p></a> --}}
     </div>
 
 
@@ -1850,7 +1850,7 @@
             
                 
     <div class="PageList-cta" data-animate="fade">
-        <a class="Button"  href="knowledge-center/why-reits.php" data-cms-ai="0" ><p>Learn More</p></a>
+        {{-- <a class="Button"  href="knowledge-center/why-reits.php" data-cms-ai="0" ><p>Learn More</p></a> --}}
     </div>
 
 
@@ -3411,7 +3411,7 @@
         
     
             <source type="image/webp"  width="1440" height="1080"
-            srcset="./assets/images/equinox.jpg 2x"
+            srcset="{{ asset('logo.png') }}"
      />
 
     
@@ -3856,7 +3856,7 @@
                     <span class="LinkEnhancement"
                       ><a
                         class="Link"
-                        href="investment-disclosure.php"
+                        href="#"
                         data-cms-ai="0"
                         >Disclosures
                       </a></span
@@ -3865,14 +3865,14 @@
                     <span class="LinkEnhancement"
                       ><a
                         class="Link"
-                        href="privacy-policy.php"
+                        href="#"
                         data-cms-ai="0"
                         >Privacy
                       </a></span
                     >
                     |
                     <span class="LinkEnhancement"
-                      ><a class="Link" href="terms-service.php" data-cms-ai="0"
+                      ><a class="Link" href="#" data-cms-ai="0"
                         >Terms of Service
                       </a></span
                     >
@@ -3891,13 +3891,13 @@
                   of PropEstateHoldings. By accessing this site and any pages thereof,
                   you agree to be bound by our
                   <span class="LinkEnhancement"
-                    ><a class="Link" href="terms-service.php" data-cms-ai="0"
+                    ><a class="Link" href="#" data-cms-ai="0"
                       >Terms of Service
                     </a></span
                   >
                   and
                   <span class="LinkEnhancement"
-                    ><a class="Link" href="privacy-policy.php" data-cms-ai="0"
+                    ><a class="Link" href="#" data-cms-ai="0"
                       >Privacy Policy
                     </a></span
                   >.<br /><br />Neither PropEstateHoldings, nor any of its affiliates,
@@ -3948,7 +3948,7 @@
                   <span class="LinkEnhancement"
                     ><a
                       class="Link"
-                      href="investment-disclosure.php"
+                      href="#"
                       data-cms-ai="0"
                       >here
                     </a></span

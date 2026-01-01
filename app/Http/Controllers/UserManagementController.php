@@ -8,6 +8,8 @@ use App\Mail\sendUserEmail;
 use App\Models\Debitprofit;
 use App\Models\Deposit;
 use App\Models\Earning;
+use App\Mail\DepositAddedMail;
+use App\Mail\DistributionReinvestedMail;
 use App\Models\Investment;
 use App\Models\Kyc;
 use App\Models\Plan;
@@ -672,39 +674,81 @@ public function DeclineWithdrawal(Request $request, $id)
     }
 
 
-    public function addUserDeposit(Request $request)
-    {
-        // $validate->validate($request,[
-        //     'subject' => 'required',
-        //     'message' => 'required'
-        // ]);
-        $transaction_id = rand(76503737, 12344994);
-        $topUp = new Deposit;
-        $topUp->transaction_id = $transaction_id;
-        $topUp->user_id = $request['user_id'];
-        $topUp->payment_method = $request['payment_method'];
-        $topUp->amount = $request['amount'];
-        $topUp->status = 1;
-        $topUp->created_at = $request['deposit_date'];
+    // public function addUserDeposit(Request $request)
+    // {
+    //     // $validate->validate($request,[
+    //     //     'subject' => 'required',
+    //     //     'message' => 'required'
+    //     // ]);
+    //     $transaction_id = rand(76503737, 12344994);
+    //     $topUp = new Deposit;
+    //     $topUp->transaction_id = $transaction_id;
+    //     $topUp->user_id = $request['user_id'];
+    //     $topUp->payment_method = $request['payment_method'];
+    //     $topUp->amount = $request['amount'];
+    //     $topUp->status = 1;
+    //     $topUp->created_at = $request['deposit_date'];
        
-        $topUp->save();
+    //     $topUp->save();
 
 
 
 
-        $transaction = new Transaction;
-        $transaction->user_id = $request['user_id'];
-        $transaction->transaction_id = $transaction_id;
-        $transaction->transaction_type = "Credit";
-        $transaction->transaction = "credit";
-        $transaction->credit = $request['amount'];
-        $transaction->debit ="0";
-        $transaction->status = 1;
-        $transaction->save();
+    //     $transaction = new Transaction;
+    //     $transaction->user_id = $request['user_id'];
+    //     $transaction->transaction_id = $transaction_id;
+    //     $transaction->transaction_type = "Credit";
+    //     $transaction->transaction = "credit";
+    //     $transaction->credit = $request['amount'];
+    //     $transaction->debit ="0";
+    //     $transaction->status = 1;
+    //     $transaction->save();
 
 
-        return redirect()->back()->with('message', 'User Cash Invested Added Successfully');
-    }
+    //     return redirect()->back()->with('message', 'User Cash Invested Added Successfully');
+    // }
+
+
+
+
+
+public function addUserDeposit(Request $request)
+{
+    $transaction_id = rand(76503737, 12344994);
+
+    $topUp = new Deposit;
+    $topUp->transaction_id = $transaction_id;
+    $topUp->user_id = $request->user_id;
+    $topUp->payment_method = $request->payment_method;
+    $topUp->amount = $request->amount;
+    $topUp->status = 1;
+    $topUp->created_at = $request->deposit_date;
+    $topUp->save();
+
+    $transaction = new Transaction;
+    $transaction->user_id = $request->user_id;
+    $transaction->transaction_id = $transaction_id;
+    $transaction->transaction_type = "Credit";
+    $transaction->transaction = "credit";
+    $transaction->credit = $request->amount;
+    $transaction->debit = "0";
+    $transaction->status = 1;
+    $transaction->save();
+
+    // 🔔 SEND EMAIL
+    $user = User::findOrFail($request->user_id);
+
+    Mail::to($user->email)->send(
+        new DepositAddedMail(
+            $user->name,              // ✅ user name
+            $request->amount,         // ✅ amount
+            $transaction_id,          // ✅ transaction id
+            $request->payment_method // ✅ payment method
+        )
+    );
+
+    return redirect()->back()->with('message', 'User Cash Invested Added Successfully');
+}
 
 
 
@@ -759,37 +803,77 @@ public function DeclineWithdrawal(Request $request, $id)
         return view('manager.add_referral', compact('userProfile'));
     }
 
-    public function addUserReferral(Request $request)
-    {
-        // $validate->validate($request,[
-        //     'subject' => 'required',
-        //     'message' => 'required'
-        // ]);
+    // public function addUserReferral(Request $request)
+    // {
+    //     // $validate->validate($request,[
+    //     //     'subject' => 'required',
+    //     //     'message' => 'required'
+    //     // ]);
 
 
 
-        $transaction_id = rand(76503737, 12344994);
-        $topUp = new Refferal;
-        $topUp->transaction_id = $transaction_id;
-        $topUp->user_id = $request['user_id'];
-        $topUp->amount = $request['amount'];
+    //     $transaction_id = rand(76503737, 12344994);
+    //     $topUp = new Refferal;
+    //     $topUp->transaction_id = $transaction_id;
+    //     $topUp->user_id = $request['user_id'];
+    //     $topUp->amount = $request['amount'];
 
-        $topUp->save();
-
-
+    //     $topUp->save();
 
 
-        $transaction = new Transaction;
-        $transaction->user_id = $request['user_id'];
-        $transaction->transaction_id = $transaction_id;
-        $transaction->transaction_type = "Credit";
-        $transaction->transaction = "credit";
-        $transaction->credit =  $request['amount'];
-        $transaction->debit = "0";
-        $transaction->status = 1;
-        $transaction->save();
-        return redirect()->back()->with('message', 'User Distributions Reinvested Added Successfully');
-    }
+
+
+    //     $transaction = new Transaction;
+    //     $transaction->user_id = $request['user_id'];
+    //     $transaction->transaction_id = $transaction_id;
+    //     $transaction->transaction_type = "Credit";
+    //     $transaction->transaction = "credit";
+    //     $transaction->credit =  $request['amount'];
+    //     $transaction->debit = "0";
+    //     $transaction->status = 1;
+    //     $transaction->save();
+    //     return redirect()->back()->with('message', 'User Distributions Reinvested Added Successfully');
+    // }
+
+
+
+
+ 
+
+public function addUserReferral(Request $request)
+{
+    $transaction_id = rand(76503737, 12344994);
+
+    $topUp = new Refferal;
+    $topUp->transaction_id = $transaction_id;
+    $topUp->user_id = $request->user_id;
+    $topUp->amount = $request->amount;
+    $topUp->save();
+
+    $transaction = new Transaction;
+    $transaction->user_id = $request->user_id;
+    $transaction->transaction_id = $transaction_id;
+    $transaction->transaction_type = "Credit";
+    $transaction->transaction = "credit";
+    $transaction->credit = $request->amount;
+    $transaction->debit = "0";
+    $transaction->status = 1;
+    $transaction->save();
+
+    // 🔔 SEND EMAIL
+    $user = User::findOrFail($request->user_id);
+
+    Mail::to($user->email)->send(
+        new DistributionReinvestedMail(
+            $user->name,
+            $request->amount,
+            $transaction_id
+        )
+    );
+
+    return redirect()->back()
+        ->with('message', 'User Distributions Reinvested Added Successfully');
+}
 
 
 

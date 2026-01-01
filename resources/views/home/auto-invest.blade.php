@@ -864,7 +864,7 @@ body {
     <div class="PagePromo-button"  data-animate="fade" >
         
         
-        <a class="Button"   data-theme="secondary"  data-size="default" href="investment-options/the-income-reit.php" data-cms-ai="0">I’M LOOKING FOR INCOME</a>
+        <a class="Button"   data-theme="secondary"  data-size="default" href="{{url('investment')}}" data-cms-ai="0">I’M LOOKING FOR INCOME</a>
         
         
     </div>
@@ -878,7 +878,7 @@ body {
     <div class="PagePromo-button"  data-animate="fade" >
         
         
-        <a class="Button"   data-size="default" href="investment-options/the-apartment-growth-reit.php" data-cms-ai="0">I’M LOOKING FOR GROWTH</a>
+        <a class="Button"   data-size="default" href="{{url('investment')}}" data-cms-ai="0">I’M LOOKING FOR GROWTH</a>
         
         
     </div>
@@ -1018,7 +1018,7 @@ body {
         
     
         <div class="PagePromo-ctaLink" data-animate="fade">
-            <a href="investment-options/the-income-reit.php" data-cms-ai="0">
+            <a href="{{url('investment')}}" data-cms-ai="0">
                 LEARN MORE
                 <svg class="ctaArrow">
                     <use xlink:href="#chevron-down"></use>
@@ -1068,7 +1068,7 @@ body {
         
     
         <div class="PagePromo-ctaLink" data-animate="fade">
-            <a href="investment-options/the-apartment-growth-reit.php" data-cms-ai="0">
+            <a href="{{url('investment')}}" data-cms-ai="0">
                 LEARN MORE
                 <svg class="ctaArrow">
                     <use xlink:href="#chevron-down"></use>
@@ -1747,7 +1747,7 @@ body {
          href="tel:8777817062" target="_blank" rel="noopener" data-cms-ai="0">877-781-7062
         
     </a></span> or email <span class="LinkEnhancement"><a class="Link"
-         href="mailto:investor-help@propertiesinvestmentprogram.com" target="_blank" rel="noopener" data-cms-ai="0">investor-help@propertiesinvestmentprogram.com
+         href="mailto:support@thepropestateholdings.com" target="_blank" rel="noopener" data-cms-ai="0">support@thepropestateholdings.com
         
     </a></span>.</p></div>
             
@@ -1764,7 +1764,7 @@ body {
     <div class="PagePromo-button"  data-animate="fade" >
         
         
-        <a class="Button"   data-theme="secondary"  data-size="default" href="investment-options/the-income-reit.php" data-cms-ai="0">GET STARTED WITH THE INCOME REIT</a>
+        <a class="Button"   data-theme="secondary"  data-size="default" href="{{url('investment')}}" data-cms-ai="0">GET STARTED WITH THE INCOME REIT</a>
         
         
     </div>
@@ -1778,7 +1778,7 @@ body {
     <div class="PagePromo-button"  data-animate="fade" >
         
         
-        <a class="Button"   data-size="default" href="investment-options/the-apartment-growth-reit.php" data-cms-ai="0">GET STARTED WITH THE APARTMENT GROWTH REIT</a>
+        <a class="Button"   data-size="default" href="{{url('investment')}}" data-cms-ai="0">GET STARTED WITH THE APARTMENT GROWTH REIT</a>
         
         
     </div>

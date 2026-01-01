@@ -1247,8 +1247,8 @@ body {
                 <?php 
                     if (isset($_SESSION['email'])) {
                         echo '
-                        <bsp-auth-button><a class="JoinAuthButton AuthButton start" href="./investment-opportunities.php" data-cms-ai="0">Join Now</a></bsp-auth-button>
-                        <bsp-auth-button><a class="JoinAuthButton AuthButton start1" href="./investment-opportunities.php" data-cms-ai="0">Join Now</a></bsp-auth-button>
+                        <bsp-auth-button><a class="JoinAuthButton AuthButton start" href="#" data-cms-ai="0">Join Now</a></bsp-auth-button>
+                        <bsp-auth-button><a class="JoinAuthButton AuthButton start1" href="#" data-cms-ai="0">Join Now</a></bsp-auth-button>
                         ';
                     } else {
                         echo '
@@ -1296,7 +1296,7 @@ body {
             
                 
     <div class="PageList-cta" data-animate="fade">
-        <a class="Button"  href="investment-opportunities.php" data-cms-ai="0" ><p>View Investments</p></a>
+        <a class="Button"  href="{{url('investment')}}" data-cms-ai="0" ><p>View Investments</p></a>
     </div>
 
 
@@ -1339,8 +1339,8 @@ body {
         <?php 
             if (isset($_SESSION['email'])) {
                 echo '
-                <bsp-auth-button><a class="JoinAuthButton AuthButton start" href="./investment-opportunities.php" data-cms-ai="0">Join Now</a></bsp-auth-button>
-                <bsp-auth-button><a class="JoinAuthButton AuthButton start1" href="./investment-opportunities.php" data-cms-ai="0">Join Now</a></bsp-auth-button>
+                <bsp-auth-button><a class="JoinAuthButton AuthButton start" href="#" data-cms-ai="0">Join Now</a></bsp-auth-button>
+                <bsp-auth-button><a class="JoinAuthButton AuthButton start1" href="#" data-cms-ai="0">Join Now</a></bsp-auth-button>
                 ';
             } else {
                 echo '
@@ -1366,7 +1366,7 @@ body {
         ?>
         
         
-        <a class="Button"   data-size="default" href="investment-opportunities.php" data-cms-ai="0">View Investments</a>
+        <a class="Button"   data-size="default" href="{{url('investment')}}" data-cms-ai="0">View Investments</a>
         
         
     </div>
@@ -1609,8 +1609,8 @@ body {
                 <?php 
                     if (isset($_SESSION['email'])) {
                         echo '
-                        <bsp-auth-button><a class="JoinAuthButton AuthButton start" href="./investment-opportunities.php" data-cms-ai="0">Get Started</a></bsp-auth-button>
-                        <bsp-auth-button><a class="JoinAuthButton AuthButton start1" href="./investment-opportunities.php" data-cms-ai="0">Get Started</a></bsp-auth-button>
+                        <bsp-auth-button><a class="JoinAuthButton AuthButton start" href="#" data-cms-ai="0">Get Started</a></bsp-auth-button>
+                        <bsp-auth-button><a class="JoinAuthButton AuthButton start1" href="#" data-cms-ai="0">Get Started</a></bsp-auth-button>
                         ';
                     } else {
                         echo '
@@ -1641,7 +1641,7 @@ body {
             
                 
     <div class="PageList-cta" data-animate="fade">
-        <a class="Button"  href="investment-opportunities.php" data-cms-ai="0" ><p>View Investments</p></a>
+        <a class="Button"  href="{{url('investment')}}" data-cms-ai="0" ><p>View Investments</p></a>
     </div>
 
 
