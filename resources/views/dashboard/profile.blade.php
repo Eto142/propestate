@@ -6937,7 +6937,7 @@
                                             </div>
                                         
                                           </div>
-                                          <input class="-float intl-tel-input form-text merlin-textfield" required="required" type="text" id="edit-phone" name="tel" value="{{Auth::user()->phone}}" size="60" maxlength="128" aria-required="true" autocomplete="off" placeholder="201-555-0123">
+                                          <input class="-float intl-tel-input form-text merlin-textfield" required="required" type="text" id="edit-phone" name="phone" value="{{Auth::user()->phone}}" size="60" maxlength="128" aria-required="true" autocomplete="off" placeholder="201-555-0123">
                                         
                                         <span class="form-required"></span>
                                         <i id="edit-phone-error" class="jqError" style="display: none"></i></label>
