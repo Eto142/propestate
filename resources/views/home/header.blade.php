@@ -1766,22 +1766,156 @@ window.smartsupp||(function(d) {
 </style>
 
 
+<!-- REIT Popup -->
+<div id="reitPopup" class="popup">
+  <div class="popup-content">
+    <span class="close">&times;</span>
+    <h2>How to Invest in REIT</h2>
+    <p class="subtitle">Follow these simple steps to get started with real estate investment.</p>
+    <ol class="steps-list">
+      <li><strong>Step 1:</strong> Create an account on our platform.</li>
+      <li><strong>Step 2:</strong> Complete your investor profile.</li>
+      <li><strong>Step 3:</strong> Browse through available REIT opportunities.</li>
+      <li><strong>Step 4:</strong> Select a REIT and determine your investment amount.</li>
+      <li><strong>Step 5:</strong> Review the terms and sign the investment agreement.</li>
+      <li><strong>Step 6:</strong> Fund your investment through bank transfer or cryptocurrency.</li>
+      <li><strong>Step 7:</strong> Track your returns through your personalized dashboard.</li>
+    </ol>
+    <div class="btn-container">
+      <button id="closeReitBtn" class="btn-close">Got it!</button>
+    </div>
+  </div>
+</div>
+
+<!-- Error Popup -->
+<div id="errorPopup" class="popup">
+  <div class="popup-content">
+    <span class="close">&times;</span>
+    <h2>Error</h2>
+    <p class="subtitle">Please fix the following issue(s):</p>
+    <ul class="steps-list">
+      @if ($errors->any())
+        @foreach ($errors->all() as $error)
+          <li>{{ $error }}</li>
+        @endforeach
+      @endif
+    </ul>
+    <div class="btn-container">
+      <button id="closeErrorBtn" class="btn-close">Got it!</button>
+    </div>
+  </div>
+</div>
+
+<style>
+/* General Popup Styles */
+.popup {
+  display: none;
+  position: fixed;
+  z-index: 1000;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.75);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.popup-content {
+  background-color: #fff;
+  border-radius: 15px;
+  padding: 40px;
+  width: 90%;
+  max-width: 550px;
+  box-shadow: 0 15px 40px rgba(0, 0, 0, 0.25);
+  text-align: center;
+  position: relative;
+  animation: fadeInUp 0.5s ease-in-out;
+  display: flex;
+  flex-direction: column;
+}
+
+.close {
+  position: absolute;
+  top: 15px;
+  right: 20px;
+  font-size: 24px;
+  font-weight: bold;
+  color: #555;
+  cursor: pointer;
+  transition: color 0.3s ease;
+}
+
+.close:hover { color: #000; }
+
+h2 { font-family: 'Poppins', sans-serif; font-size: 2rem; color: #333; margin-bottom: 10px; }
+.subtitle { font-family: 'Roboto', sans-serif; font-size: 1.1rem; color: #666; margin-bottom: 25px; }
+
+.steps-list {
+  text-align: left;
+  list-style-type: decimal;
+  padding-left: 20px;
+  line-height: 1.7;
+  font-family: 'Roboto', sans-serif;
+  font-size: 1rem;
+  color: #444;
+}
+.steps-list li { margin-bottom: 12px; }
+
+/* Button Styling */
+.btn-container { display: flex; justify-content: center; margin-top: 30px; }
+.btn-close {
+  padding: 12px 24px;
+  background-color: #0069d9;
+  color: #fff;
+  border: none;
+  border-radius: 50px;
+  font-family: 'Poppins', sans-serif;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+.btn-close:hover { background-color: #0053a6; }
+
+/* Responsive adjustments */
+@media (min-width: 768px) { .popup-content { padding: 50px; } }
+@media (min-width: 1024px) { .btn-container { margin-top: 40px; } }
+
+/* Animation for popup */
+@keyframes fadeInUp {
+  from { transform: translateY(50px); opacity: 0; }
+  to { transform: translateY(0); opacity: 1; }
+}
+</style>
+
 <script>
 document.addEventListener('DOMContentLoaded', function() {
-    // Only show the popup if there are errors
+    // Grab popups
+    var reitPopup = document.getElementById('reitPopup');
+    var errorPopup = document.getElementById('errorPopup');
+
+    // Function to close popups
+    function closePopup(popup) { popup.style.display = 'none'; }
+
+    // Close buttons
+    document.querySelectorAll('.popup .close').forEach(function(btn) {
+        btn.addEventListener('click', function() {
+            closePopup(this.closest('.popup'));
+        });
+    });
+    document.querySelectorAll('.popup .btn-close').forEach(function(btn) {
+        btn.addEventListener('click', function() {
+            closePopup(this.closest('.popup'));
+        });
+    });
+
+    // Show error popup if Laravel has validation errors
     @if ($errors->any())
-        var popup = document.getElementById('errorPopup');
-        popup.style.display = 'flex';
-
-        // Close button (x)
-        document.querySelector('#errorPopup .close').addEventListener('click', function() {
-            popup.style.display = 'none';
-        });
-
-        // Got it button
-        document.getElementById('closeErrorBtn').addEventListener('click', function() {
-            popup.style.display = 'none';
-        });
+        errorPopup.style.display = 'flex';
+    @else
+        // Otherwise show REIT popup
+        reitPopup.style.display = 'flex';
     @endif
 });
 </script>

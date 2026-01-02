@@ -2,7 +2,7 @@
 
 
 
-<div id="reitPopup" class="popup">
+{{-- <div id="reitPopup" class="popup">
   <div class="popup-content">
     <span class="close">&times;</span>
     <h2>How to Invest in REIT</h2>
@@ -165,7 +165,7 @@ document.getElementById('closePopupBtn').addEventListener('click', function() {
 </script>
 
 
-
+ --}}
 
 
 
