@@ -1311,14 +1311,14 @@
             <p class="close1">close x</p>
             <p class="text1" style="font-size: 16px;">Enter your email address to receive a code to reset your password.</p>
             <div>
-<form method="POST" action="{{ route('password.email') }}">
-                        @csrf
+ <form method="POST" action="{{ route('forgot.password.submit') }}">
+        @csrf
                        
                 <div class="form-control" style="margin-top: 45%;">
                   <input type="email" name="email" required />
                   <label>Email</label>
                 </div>
-                <button class="forgot-btn" name="forgot" style="margin-top: 15%;"> {{ __('Send Password Reset Link') }}</button>
+                <button class="forgot-btn" name="forgot" style="margin-top: 15%;"> Send Reset Link</button>
               </form>
             </div>
           </div>

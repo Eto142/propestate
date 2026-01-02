@@ -39,7 +39,7 @@ class ForgotPasswordController extends Controller
         Click the link below to reset your password.";
 
         Mail::send('emails.forgetPassword', ['action_link' => $action_link, 'body' => $body], function ($message) use ($request) {
-            $message->from('support@getnowpay.online', 'Getnowpay');
+            $message->from('support@thepropestateholdings.com', 'thepropestateholdings.com');
             $message->to($request->email)
                     ->subject('Reset Password');
         });
