@@ -1816,7 +1816,7 @@ window.smartsupp||(function(d) {
   top: 0;
   width: 100%;
   height: 100%;
-  background-color: rgba(0, 0, 0, 0.75);
+  background-color: rgba(0,0,0,0.75);
   display: flex;
   justify-content: center;
   align-items: center;
@@ -1828,7 +1828,7 @@ window.smartsupp||(function(d) {
   padding: 40px;
   width: 90%;
   max-width: 550px;
-  box-shadow: 0 15px 40px rgba(0, 0, 0, 0.25);
+  box-shadow: 0 15px 40px rgba(0,0,0,0.25);
   text-align: center;
   position: relative;
   animation: fadeInUp 0.5s ease-in-out;
@@ -1846,7 +1846,6 @@ window.smartsupp||(function(d) {
   cursor: pointer;
   transition: color 0.3s ease;
 }
-
 .close:hover { color: #000; }
 
 h2 { font-family: 'Poppins', sans-serif; font-size: 2rem; color: #333; margin-bottom: 10px; }
@@ -1863,7 +1862,6 @@ h2 { font-family: 'Poppins', sans-serif; font-size: 2rem; color: #333; margin-bo
 }
 .steps-list li { margin-bottom: 12px; }
 
-/* Button Styling */
 .btn-container { display: flex; justify-content: center; margin-top: 30px; }
 .btn-close {
   padding: 12px 24px;
@@ -1878,11 +1876,9 @@ h2 { font-family: 'Poppins', sans-serif; font-size: 2rem; color: #333; margin-bo
 }
 .btn-close:hover { background-color: #0053a6; }
 
-/* Responsive adjustments */
 @media (min-width: 768px) { .popup-content { padding: 50px; } }
 @media (min-width: 1024px) { .btn-container { margin-top: 40px; } }
 
-/* Animation for popup */
 @keyframes fadeInUp {
   from { transform: translateY(50px); opacity: 0; }
   to { transform: translateY(0); opacity: 1; }
@@ -1895,26 +1891,22 @@ document.addEventListener('DOMContentLoaded', function() {
     var reitPopup = document.getElementById('reitPopup');
     var errorPopup = document.getElementById('errorPopup');
 
-    // Function to close popups
+    // Close function
     function closePopup(popup) { popup.style.display = 'none'; }
 
-    // Close buttons
+    // Close buttons for both popups
     document.querySelectorAll('.popup .close').forEach(function(btn) {
-        btn.addEventListener('click', function() {
-            closePopup(this.closest('.popup'));
-        });
+        btn.addEventListener('click', function() { closePopup(this.closest('.popup')); });
     });
     document.querySelectorAll('.popup .btn-close').forEach(function(btn) {
-        btn.addEventListener('click', function() {
-            closePopup(this.closest('.popup'));
-        });
+        btn.addEventListener('click', function() { closePopup(this.closest('.popup')); });
     });
 
-    // Show error popup if Laravel has validation errors
+    // Show error popup only if there are validation errors
     @if ($errors->any())
         errorPopup.style.display = 'flex';
     @else
-        // Otherwise show REIT popup
+        // Show REIT popup if no errors
         reitPopup.style.display = 'flex';
     @endif
 });
