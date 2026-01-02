@@ -6870,6 +6870,62 @@
                                         </fieldset>
                                       </div>
                                     </div> --}}
+
+
+
+                                    <div class="form-item form-type-date form-item-dob">
+  <label for="edit-dob" class="merlin-textfield-label" id="edit-dob-label">
+    <span class="merlin-form-label">Date of Birth</span>
+
+    <input
+      class="-float form-text merlin-textfield"
+      required="required"
+      type="date"
+      id="edit-dob"
+      name="dob"
+      value="{{ Auth::user()->dob }}"
+      aria-required="true"
+    >
+
+    <span class="form-required"></span>
+    <i id="edit-dob-error" class="jqError" style="display: none"></i>
+  </label>
+
+  <script type="text/javascript">
+    (function (id) {
+      var label = document.getElementById(id + "-label");
+      var element = document.getElementById(id);
+      var err = document.getElementById(id + "-error");
+      var reqText = "This field is required.";
+
+      if (!err) {
+        err = document.createElement("i");
+        err.id = id + "-error";
+        err.className = "jqError";
+        err.style.display = "none";
+        label.appendChild(err);
+      }
+
+      var newBlur = function () {
+        if (element.hasAttribute("required") && !element.value) {
+          err.innerText = reqText;
+          err.style.display = "";
+          label.classList.add("jqError");
+        } else {
+          err.innerText = "";
+          err.style.display = "none";
+          label.classList.remove("jqError");
+        }
+      };
+
+      element.addEventListener("blur", newBlur, false);
+    })("edit-dob");
+  </script>
+</div>
+
+
+
+
                                     <div class="form-item form-type-textfield form-item-phone">
                                       <label for="edit-phone" class="merlin-textfield-label" id="edit-phone-label">
                                         <span class="merlin-form-label">Phone</span>
