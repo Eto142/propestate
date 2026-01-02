@@ -4348,7 +4348,7 @@
                                       <div class="form-item form-type-textfield form-item-field-first-name-und-0-value">
                                         <label for="edit-field-first-name-und-0-value" class="merlin-textfield-label hasVal" id="edit-field-first-name-und-0-value-label">
                                           <span class="merlin-form-label">First name</span>
-                                          <input class="text-full form-text merlin-textfield required hasVal" required="required" type="text" id="edit-field-first-name-und-0-value" name="fname" value="{{Auth::user()->name}} {{Auth::user()->lname}}" size="20" maxlength="40" aria-required="true">
+                                          <input class="text-full form-text merlin-textfield required hasVal" required="required" type="text" id="edit-field-first-name-und-0-value" name="name" value="{{Auth::user()->name}} {{Auth::user()->lname}}" size="20" maxlength="40" aria-required="true">
                                           <span class="form-required"></span>
                                           <i id="edit-field-first-name-und-0-value-error" class="jqError" style="display: none"></i></label>
                                         <script type="text/javascript">
