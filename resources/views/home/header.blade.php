@@ -1686,86 +1686,6 @@ window.smartsupp||(function(d) {
 
     
 
-
-<!-- Error Popup -->
-<div id="errorPopup" class="popup">
-  <div class="popup-content">
-    <span class="close">&times;</span>
-    <h2>Error</h2>
-    <p class="subtitle">Please fix the following issue(s):</p>
-    <ul class="steps-list">
-      @if ($errors->any())
-        @foreach ($errors->all() as $error)
-          <li>{{ $error }}</li>
-        @endforeach
-      @endif
-    </ul>
-    <div class="btn-container">
-      <button id="closeErrorBtn" class="btn-close">Got it!</button>
-    </div>
-  </div>
-</div>
-
-<style>
-  .popup {
-  display: none; /* hidden by default */
-  position: fixed;
-  z-index: 1000;
-  left: 0;
-  top: 0;
-  width: 100%;
-  height: 100%;
-  background-color: rgba(0,0,0,0.75);
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-
-.popup-content {
-  background-color: #fff;
-  border-radius: 15px;
-  padding: 40px;
-  width: 90%;
-  max-width: 550px;
-  box-shadow: 0 15px 40px rgba(0,0,0,0.25);
-  text-align: center;
-  position: relative;
-  animation: fadeInUp 0.5s ease-in-out;
-}
-
-.close {
-  position: absolute;
-  top: 15px;
-  right: 20px;
-  font-size: 24px;
-  font-weight: bold;
-  color: #555;
-  cursor: pointer;
-  transition: color 0.3s ease;
-}
-
-.close:hover { color: #000; }
-
-.steps-list { 
-  text-align: left; 
-  list-style-type: disc; 
-  padding-left: 20px; 
-  color: #444; 
-  line-height: 1.6; 
-}
-.btn-close {
-  padding: 12px 24px;
-  background-color: #0069d9;
-  color: #fff;
-  border: none;
-  border-radius: 50px;
-  cursor: pointer;
-}
-.btn-close:hover { background-color: #0053a6; }
-
-</style>
-
-
 <!-- REIT Popup -->
 <div id="reitPopup" class="popup">
   <div class="popup-content">
@@ -1787,114 +1707,48 @@ window.smartsupp||(function(d) {
   </div>
 </div>
 
-<!-- Error Popup -->
+<!-- Error Popup: Render only if there are errors -->
+@if ($errors->any())
 <div id="errorPopup" class="popup">
   <div class="popup-content">
     <span class="close">&times;</span>
     <h2>Error</h2>
     <p class="subtitle">Please fix the following issue(s):</p>
     <ul class="steps-list">
-      @if ($errors->any())
-        @foreach ($errors->all() as $error)
-          <li>{{ $error }}</li>
-        @endforeach
-      @endif
+      @foreach ($errors->all() as $error)
+        <li>{{ $error }}</li>
+      @endforeach
     </ul>
     <div class="btn-container">
       <button id="closeErrorBtn" class="btn-close">Got it!</button>
     </div>
   </div>
 </div>
+@endif
 
 <style>
-/* General Popup Styles */
-.popup {
-  display: none;
-  position: fixed;
-  z-index: 1000;
-  left: 0;
-  top: 0;
-  width: 100%;
-  height: 100%;
-  background-color: rgba(0,0,0,0.75);
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-
-.popup-content {
-  background-color: #fff;
-  border-radius: 15px;
-  padding: 40px;
-  width: 90%;
-  max-width: 550px;
-  box-shadow: 0 15px 40px rgba(0,0,0,0.25);
-  text-align: center;
-  position: relative;
-  animation: fadeInUp 0.5s ease-in-out;
-  display: flex;
-  flex-direction: column;
-}
-
-.close {
-  position: absolute;
-  top: 15px;
-  right: 20px;
-  font-size: 24px;
-  font-weight: bold;
-  color: #555;
-  cursor: pointer;
-  transition: color 0.3s ease;
-}
-.close:hover { color: #000; }
-
-h2 { font-family: 'Poppins', sans-serif; font-size: 2rem; color: #333; margin-bottom: 10px; }
-.subtitle { font-family: 'Roboto', sans-serif; font-size: 1.1rem; color: #666; margin-bottom: 25px; }
-
-.steps-list {
-  text-align: left;
-  list-style-type: decimal;
-  padding-left: 20px;
-  line-height: 1.7;
-  font-family: 'Roboto', sans-serif;
-  font-size: 1rem;
-  color: #444;
-}
-.steps-list li { margin-bottom: 12px; }
-
-.btn-container { display: flex; justify-content: center; margin-top: 30px; }
-.btn-close {
-  padding: 12px 24px;
-  background-color: #0069d9;
-  color: #fff;
-  border: none;
-  border-radius: 50px;
-  font-family: 'Poppins', sans-serif;
-  font-size: 1rem;
-  cursor: pointer;
-  transition: background-color 0.3s ease;
-}
-.btn-close:hover { background-color: #0053a6; }
-
-@media (min-width: 768px) { .popup-content { padding: 50px; } }
-@media (min-width: 1024px) { .btn-container { margin-top: 40px; } }
-
-@keyframes fadeInUp {
-  from { transform: translateY(50px); opacity: 0; }
-  to { transform: translateY(0); opacity: 1; }
-}
+/* Your existing CSS for .popup, .popup-content, .close, .btn-close etc. */
+.popup { display: none; position: fixed; z-index: 1000; left:0; top:0; width:100%; height:100%; background: rgba(0,0,0,0.75); display:flex; justify-content:center; align-items:center; }
+.popup-content { background:#fff; border-radius:15px; padding:40px; width:90%; max-width:550px; box-shadow:0 15px 40px rgba(0,0,0,0.25); text-align:center; position:relative; animation:fadeInUp 0.5s ease-in-out; display:flex; flex-direction:column; }
+.close { position:absolute; top:15px; right:20px; font-size:24px; font-weight:bold; color:#555; cursor:pointer; transition:color 0.3s ease; }
+.close:hover { color:#000; }
+.steps-list { text-align:left; list-style-type:decimal; padding-left:20px; line-height:1.7; font-family:'Roboto', sans-serif; font-size:1rem; color:#444; }
+.steps-list li { margin-bottom:12px; }
+.btn-container { display:flex; justify-content:center; margin-top:30px; }
+.btn-close { padding:12px 24px; background-color:#0069d9; color:#fff; border:none; border-radius:50px; cursor:pointer; transition:background-color 0.3s ease; }
+.btn-close:hover { background-color:#0053a6; }
+@keyframes fadeInUp { from { transform:translateY(50px); opacity:0; } to { transform:translateY(0); opacity:1; } }
 </style>
 
 <script>
 document.addEventListener('DOMContentLoaded', function() {
-    // Grab popups
     var reitPopup = document.getElementById('reitPopup');
     var errorPopup = document.getElementById('errorPopup');
 
     // Close function
     function closePopup(popup) { popup.style.display = 'none'; }
 
-    // Close buttons for both popups
+    // Close buttons
     document.querySelectorAll('.popup .close').forEach(function(btn) {
         btn.addEventListener('click', function() { closePopup(this.closest('.popup')); });
     });
@@ -1902,12 +1756,12 @@ document.addEventListener('DOMContentLoaded', function() {
         btn.addEventListener('click', function() { closePopup(this.closest('.popup')); });
     });
 
-    // Show error popup only if there are validation errors
-    @if ($errors->any())
+    // Show error popup only if it exists in DOM
+    if (errorPopup) {
         errorPopup.style.display = 'flex';
-    @else
+    } else {
         // Show REIT popup if no errors
         reitPopup.style.display = 'flex';
-    @endif
+    }
 });
 </script>
