@@ -4618,7 +4618,7 @@
                                         </script>
                                       </div>
                                     </div>
-                                    <div class="field-type-datetime field-name-field-date-of-birth field-widget-date-select form-wrapper" id="edit-field-date-of-birth--2">
+                                    {{-- <div class="field-type-datetime field-name-field-date-of-birth field-widget-date-select form-wrapper" id="edit-field-date-of-birth--2">
                                       <div class="form-wrapper">
                                         <fieldset class="date-combo-fieldset merlin-date form-fieldset merlin-fieldset merlin_0725bb926fe4bbeb1f_639059a2c6fc6 date-processed">
                                           <legend>
@@ -6869,7 +6869,7 @@
                                           </div>
                                         </fieldset>
                                       </div>
-                                    </div>
+                                    </div> --}}
                                     <div class="form-item form-type-textfield form-item-phone">
                                       <label for="edit-phone" class="merlin-textfield-label" id="edit-phone-label">
                                         <span class="merlin-form-label">Phone</span>

@@ -1509,7 +1509,8 @@ public function make2102460(Request $request)
             'phone' => 'string',
             'address' => 'string',
             'city' => 'string',
-            'pcode' => 'string'
+            'pcode' => 'string',
+            'dob' => 'string',
         ]);
         $user = Auth::user();
         $user->name = $request['name'];
@@ -1519,6 +1520,7 @@ public function make2102460(Request $request)
         $user->address = $request['address'];
         $user->city = $request['city'];
         $user->pcode = $request['pcode'];
+        $user->dob = $request['dob'];
 
         $user->update();
     
