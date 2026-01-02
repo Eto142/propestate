@@ -8638,11 +8638,11 @@
                                                     );
                                                   </script>
                                                 </div>
-                                                <div class="form-item form-type-textfield form-item-field-address-und-0-premise">
+                                                {{-- <div class="form-item form-type-textfield form-item-field-address-und-0-premise">
                                                   <label for="edit-field-address-und-0-premise" class="merlin-textfield-label required hasVal" id="edit-field-address-und-0-premise-label">
-                                                    {{-- <span class="merlin-form-label">Address 2</span>
+                                                    <span class="merlin-form-label">Address 2</span>
                                                     <input class="premise no-po-box form-text merlin-textfield po-box-validation-processed" autocomplete="address-line2" type="text" id="edit-field-address-und-0-premise" name="address1" value="{{Auth::user()->address}}" size="30" maxlength="255">
-                                                    <span class="form-required"></span> --}}
+                                                    <span class="form-required"></span>
                                                     <i id="edit-field-address-und-0-premise-error" class="jqError" style="
                                                         display: none;
                                                       "></i></label>
@@ -8943,7 +8943,7 @@
                                                       "edit-field-address-und-0-locality"
                                                     );
                                                   </script>
-                                                </div>
+                                                </div> --}}
 
                                                 <!-- <div class="form-item form-type-select form-item-field-address-und-0-administrative-area">
                                                   <div id="merlin-select-edit-field-address-und-0-administrative-area" class="state form-select merlin-select" autocomplete="address-level1" name="field_address[und][0][administrative_area]">
