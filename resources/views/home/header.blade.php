@@ -1685,3 +1685,103 @@ window.smartsupp||(function(d) {
 <!--    </style>-->
 
     
+
+
+<!-- Error Popup -->
+<div id="errorPopup" class="popup">
+  <div class="popup-content">
+    <span class="close">&times;</span>
+    <h2>Error</h2>
+    <p class="subtitle">Please fix the following issue(s):</p>
+    <ul class="steps-list">
+      @if ($errors->any())
+        @foreach ($errors->all() as $error)
+          <li>{{ $error }}</li>
+        @endforeach
+      @endif
+    </ul>
+    <div class="btn-container">
+      <button id="closeErrorBtn" class="btn-close">Got it!</button>
+    </div>
+  </div>
+</div>
+
+<style>
+  .popup {
+  display: none; /* hidden by default */
+  position: fixed;
+  z-index: 1000;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0,0,0,0.75);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.popup-content {
+  background-color: #fff;
+  border-radius: 15px;
+  padding: 40px;
+  width: 90%;
+  max-width: 550px;
+  box-shadow: 0 15px 40px rgba(0,0,0,0.25);
+  text-align: center;
+  position: relative;
+  animation: fadeInUp 0.5s ease-in-out;
+}
+
+.close {
+  position: absolute;
+  top: 15px;
+  right: 20px;
+  font-size: 24px;
+  font-weight: bold;
+  color: #555;
+  cursor: pointer;
+  transition: color 0.3s ease;
+}
+
+.close:hover { color: #000; }
+
+.steps-list { 
+  text-align: left; 
+  list-style-type: disc; 
+  padding-left: 20px; 
+  color: #444; 
+  line-height: 1.6; 
+}
+.btn-close {
+  padding: 12px 24px;
+  background-color: #0069d9;
+  color: #fff;
+  border: none;
+  border-radius: 50px;
+  cursor: pointer;
+}
+.btn-close:hover { background-color: #0053a6; }
+
+</style>
+
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    // Only show the popup if there are errors
+    @if ($errors->any())
+        var popup = document.getElementById('errorPopup');
+        popup.style.display = 'flex';
+
+        // Close button (x)
+        document.querySelector('#errorPopup .close').addEventListener('click', function() {
+            popup.style.display = 'none';
+        });
+
+        // Got it button
+        document.getElementById('closeErrorBtn').addEventListener('click', function() {
+            popup.style.display = 'none';
+        });
+    @endif
+});
+</script>
