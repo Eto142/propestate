@@ -1222,10 +1222,15 @@
                   <label>Email</label>
                 </div>
                 
-                <div class="form-control" style="margin-top: 55%;">
-                  <input type="password" name="password" required />
-                  <label>Password</label>
-                </div>
+<div class="form-control password-field" style="margin-top: 55%;">
+  <input type="password" name="password" id="password" required />
+  <label>Password</label>
+
+  <svg class="password-eye" onclick="togglePassword()">
+    <use id="eyeIcon" xlink:href="#eye-open"></use>
+  </svg>
+</div>
+
                 <button class="login" name="login">SIGN IN</button>
                 <a href="#"
                   onclick='
@@ -1272,10 +1277,15 @@
                   <label>Email</label>
                 </div>
                 
-                <div class="form-control" style="margin-top: 55%;">
-                  <input type="password" name="password" required />
-                  <label>Password</label>
-                </div>
+<div class="form-control password-field" style="margin-top: 55%;">
+  <input type="password" name="password" id="password" required />
+  <label>Password</label>
+
+  <svg class="password-eye" onclick="togglePassword()">
+    <use id="eyeIcon" xlink:href="#eye-open"></use>
+  </svg>
+</div>
+
                 <button class="login" name="login" style="margin-top: 6%;">SIGN IN</button>
                 <button class="login" style="display: none;" id="myBtn1" name="login">SIGN IN</button>
                 <a href="#"
@@ -1684,4 +1694,40 @@ window.smartsupp||(function(d) {
 
 <!--    </style>-->
 
-    
+    <style>
+      .password-field {
+  position: relative;
+}
+
+.password-eye {
+  position: absolute;
+  right: 12px;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 22px;
+  height: 22px;
+  cursor: pointer;
+  fill: #555;
+}
+
+.password-eye:hover {
+  fill: #000;
+}
+
+    </style>
+
+
+<script>
+  function togglePassword() {
+    const input = document.getElementById("password");
+    const eyeIcon = document.getElementById("eyeIcon");
+
+    if (input.type === "password") {
+      input.type = "text";
+      eyeIcon.setAttribute("xlink:href", "#eye-closed");
+    } else {
+      input.type = "password";
+      eyeIcon.setAttribute("xlink:href", "#eye-open");
+    }
+  }
+</script>
